@@ -1,4 +1,34 @@
-🛒 E-Commerce Analytics Platform
+<div align="center">
+
+# 🛒 E-Commerce Analytics Platform
+
+### End-to-End Data Analytics, Machine Learning & Business Intelligence
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange)](https://xgboost.ai/)
+[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
+[![GitHub](https://img.shields.io/badge/Repository-GitHub-black?logo=github)](https://github.com/)
+
+**Transforming e-commerce data into meaningful business insights and predictive analytics.**
+
+</div>
+
+---
+
+## 📑 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Project Architecture](#project-architecture)
+3. [ETL & Feature Engineering](#etl--feature-engineering)
+4. [Datasets Information](#datasets-information)
+5. [Machine Learning — XGBoost Models](#machine-learning--xgboost-models)
+6. [Power BI Dashboard](#power-bi-dashboard)
+7. [Technologies Used](#technologies-used)
+8. [Project Outcomes & Conclusion](#project-outcomes--conclusion)
+9. [Author](#author)
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
