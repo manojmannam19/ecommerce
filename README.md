@@ -118,16 +118,39 @@ Note: These metrics represent the evaluated model results on the project's test 
 
 The project includes interactive Power BI reports covering the following business areas:
 
-Executive Overview
-Sales & Profitability
-Customer Analytics
-Product Analytics
-Marketing Analytics
-Operations & Delivery
-Returns & Customer Experience
-Sales ML Predictions
-Churn ML Predictions
-Return ML Prediction
+
+## 📸 Power BI Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](<POWERBI/Screenshot 2026-11-19 101646.png>)
+
+### 2. Sales & Profitability
+![Sales & Profitability](<POWERBI/Screenshot 2026-11-19 101719.png>)
+
+### 3. Customer Analytics
+![Customer Analytics](<POWERBI/Screenshot 2026-11-19 101741.png>)
+
+### 4. Product Analytics
+![Product Analytics](<POWERBI/Screenshot 2026-11-19 101818.png>)
+
+### 5. Marketing Analytics
+![Marketing Analytics](<POWERBI/Screenshot 2026-11-19 101846.png>)
+
+### 6. Operations & Delivery
+![Operations & Delivery](<POWERBI/Screenshot 2026-11-19 101914.png>)
+
+### 7. Returns & Customer Experience
+![Returns & Customer Experience](<POWERBI/Screenshot 2026-11-19 101931.png>)
+
+### 8. Sales ML Predictions
+![Sales ML Predictions](<POWERBI/Screenshot 2026-11-19 101955.png>)
+
+### 9. Churn ML Predictions
+![Churn ML Predictions](<POWERBI/Screenshot 2026-11-19 102011.png>)
+
+### 10. Return ML Prediction
+![Return ML Prediction](<POWERBI/Screenshot 2026-11-24 142422.png>)
+
 
 The dashboards combine business KPIs, analytical visuals, filters, and machine learning prediction results.
 
