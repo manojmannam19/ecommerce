@@ -29,6 +29,7 @@ Monitor order delivery and return patterns.
 Predict sales performance using Machine Learning.
 Predict customer churn and product returns.
 Present business insights through interactive dashboards.
+
 🛠️ Technologies Used
 Technology	Purpose
 Python	Data processing and ETL
@@ -38,16 +39,53 @@ Scikit-learn	Model evaluation and preprocessing
 Microsoft Power BI	Interactive dashboards
 CSV / Excel	Data storage and documentation
 Jupyter / Google Colab	Model development and analysis
+
 🏗️ Project Architecture
 
-The project follows an end-to-end data analytics workflow:
 
-Raw Data Collection – Collecting multiple e-commerce datasets.
-ETL & Data Cleaning – Cleaning, transforming, and preparing datasets using Python.
-Feature Engineering – Creating meaningful features for business analysis and ML models.
-Machine Learning – Developing XGBoost models for sales, churn, and return predictions.
-Power BI Integration – Preparing analytical and prediction datasets for reporting.
-Dashboard Development – Building interactive dashboards to visualize business performance.
+## 🏗️ Project Architecture
+
+The project follows an end-to-end data analytics and machine learning workflow.
+
+```mermaid
+flowchart TD
+    A["Raw E-Commerce Datasets"] --> B["ETL & Data Cleaning"]
+    B --> C["Cleaned Datasets"]
+    C --> D["Feature Engineering"]
+    D --> E["XGBoost Machine Learning"]
+    C --> F["Power BI Data Model"]
+    E --> G["ML Predictions & Metrics"]
+    G --> F
+    F --> H["Interactive Power BI Dashboard"]
+    H --> I["Business Insights & Decision Making"]
+```
+
+### Project Components
+
+| Component | Description |
+|---|---|
+| DATA | Raw and cleaned datasets |
+| ETL | Five Python scripts for dataset cleaning |
+| Feature Engineering | Preparation of analytical and ML features |
+| ML | XGBoost classification and regression models |
+| POWERBI | Interactive business intelligence dashboard |
+| DOCS | Data dictionary, architecture and ML documentation |
+
+### Repository Structure
+
+```text
+ecommerce/
+├── DATA/
+│   ├── SOURCE/
+│   └── cleaned/
+├── ETL & FEATURE ENGINEERING/
+├── ML/
+├── POWERBI/
+├── PROJECT DOCS/
+└── README.md
+```
+
+
 📂 Project Folder Structure
 text
 ecommerce/
@@ -68,6 +106,7 @@ ETL & FEATURE ENGINEERING: Python scripts for data cleaning, transformation, and
 ML: XGBoost machine learning implementation and prediction outputs.
 POWERBI: Power BI dashboard and related files.
 PROJECT DOCS: Project documentation, architecture, data dictionary, and supporting reports.
+
 📊 Dataset Information
 
 The main cleaned analytical dataset contains:
@@ -169,6 +208,7 @@ Customers with longer gaps between purchases show increased churn risk.
 Discount-related features are important in return prediction.
 Sales patterns and customer behavior provide useful information for business planning.
 Machine Learning predictions can support customer retention and operational decisions.
+
 🚀 Project Outcomes
 Developed an end-to-end data analytics workflow.
 Prepared multiple datasets for analytical reporting.
@@ -176,6 +216,7 @@ Implemented XGBoost classification and regression models.
 Evaluated models using appropriate performance metrics.
 Developed interactive Power BI dashboards.
 Connected business analysis with machine learning predictions.
+
 👨‍💻 Author
 
 Mannam Manoj
