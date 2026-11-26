@@ -164,102 +164,113 @@ The cleaned datasets were saved as separate CSV files.
 
 The original raw datasets were preserved, allowing the cleaned data to be used for Machine Learning and Power BI reporting.
 
-🤖 Machine Learning — XGBoost Models
+## 🤖 Machine Learning — XGBoost Models
 
 The E-Commerce Analytics Platform includes three machine learning models developed using XGBoost to support sales forecasting, customer churn identification, and return risk prediction.
 
-1. Machine Learning Models
-   
-Model	                    Algorithm	    Prediction Target   	 ML Type
-Sales Prediction	        XGBRegressor	net_sales	             Regression
-Customer Churn Prediction	XGBClassifier	churn_target	         Classification
-Return Risk Prediction  	XGBClassifier	is_returned	             Classification
+### 1. Machine Learning Models
 
-2. Model Details and Results
-A. Sales Prediction Model
-Algorithm: XGBRegressor
-Target: net_sales
-Purpose: Predicts the sales amount for an order.
-Type: Regression
-Evaluation Metric	Result
+| Model | Algorithm | Prediction Target | ML Type |
+|---|---|---|---|
+| Sales Prediction | XGBRegressor | `net_sales` | Regression |
+| Customer Churn Prediction | XGBClassifier | `churn_target` | Classification |
+| Return Risk Prediction | XGBClassifier | `is_returned` | Classification |
 
-MAE             	49.39
-RMSE	            106.70
-R² Score	        0.9917
-MAPE	            4.95%
+### 2. Model Details and Results
+
+#### A. Sales Prediction Model
+
+- **Algorithm:** XGBRegressor
+- **Target:** `net_sales`
+- **Purpose:** Predicts the sales amount for an order.
+- **Type:** Regression
+
+| Evaluation Metric | Result |
+|---|---:|
+| MAE | 49.39 |
+| RMSE | 106.70 |
+| R² Score | 0.9917 |
+| MAPE | 4.95% |
 
 The model achieved an R² score of 0.9917, explaining approximately 99.17% of the variation in sales. The MAPE of 4.95% indicates that the average percentage prediction error was approximately 4.95%.
 
-B. Customer Churn Prediction Model
-Algorithm: XGBClassifier
-Target: churn_target
-Purpose: Identifies customers who are likely to stop purchasing.
-Type: Classification
+#### B. Customer Churn Prediction Model
 
-Target values:
+- **Algorithm:** XGBClassifier
+- **Target:** `churn_target`
+- **Purpose:** Identifies customers who are likely to stop purchasing.
+- **Type:** Classification
 
-0 = Active
-1 = Churned
-Evaluation Metric	    Result
-Accuracy	            91.86%
-Precision	            94.51%
-Recall	                93.89%
-F1 Score	            94.20%
-ROC-AUC                	0.9245
+**Target values:**
+
+- `0` = Active
+- `1` = Churned
+
+| Evaluation Metric | Result |
+|---|---:|
+| Accuracy | 91.86% |
+| Precision | 94.51% |
+| Recall | 93.89% |
+| F1 Score | 94.20% |
+| ROC-AUC | 0.9245 |
 
 The model correctly classified 91.86% of customers as Active or Churned. Its recall of 93.89% indicates that it detected a high proportion of actual churned customers.
 
-C. Return Risk Prediction Model
-Algorithm: XGBClassifier
-Target: is_returned
-Purpose: Predicts whether an order is likely to be returned.
-Type: Classification
+#### C. Return Risk Prediction Model
 
-Target values:
+- **Algorithm:** XGBClassifier
+- **Target:** `is_returned`
+- **Purpose:** Predicts whether an order is likely to be returned.
+- **Type:** Classification
 
-0 = Retained
-1 = Returned
+**Target values:**
 
-Evaluation Metric	    Result
-Accuracy	            94.43%
-Precision	            53.14%
-Recall	                94.50%
-F1 Score	            68.86%
-ROC-AUC	                0.9585
+- `0` = Retained
+- `1` = Returned
+
+| Evaluation Metric | Result |
+|---|---:|
+| Accuracy | 94.43% |
+| Precision | 53.14% |
+| Recall | 94.50% |
+| F1 Score | 68.86% |
+| ROC-AUC | 0.9585 |
 
 The model achieved 94.43% accuracy and detected 94.50% of actual returned orders. Precision of 53.14% indicates that some orders predicted as returns were not actually returned.
 
-3. Machine Learning Workflow
+### 3. Machine Learning Workflow
 
 The models follow a structured workflow:
 
-Load the cleaned e-commerce datasets.
-Select relevant input features.
-Define the target variable for each model.
-Perform data preprocessing and encoding.
-Split the data into training and testing sets.
-Handle class imbalance where required for classification.
-Train the XGBoost models.
-Generate predictions.
-Evaluate model performance using suitable metrics.
-Export prediction results for Power BI dashboards.
+1. Load the cleaned e-commerce datasets.
+2. Select relevant input features.
+3. Define the target variable for each model.
+4. Perform data preprocessing and encoding.
+5. Split the data into training and testing sets.
+6. Handle class imbalance where required for classification.
+7. Train the XGBoost models.
+8. Generate predictions.
+9. Evaluate model performance using suitable metrics.
+10. Export prediction results for Power BI dashboards.
 
-4. Technologies Used
-Technology	        Purpose
-Python	            Model development
-Pandas	            Data loading and manipulation
-NumPy	            Numerical operations
-XGBoost	            Machine learning algorithms
-Scikit-learn	    Preprocessing and model evaluation
-Google Colab	    Model development and execution
+### 4. Technologies Used
 
-6. Machine Learning Outputs
+| Technology | Purpose |
+|---|---|
+| Python | Model development |
+| Pandas | Data loading and manipulation |
+| NumPy | Numerical operations |
+| XGBoost | Machine learning algorithms |
+| Scikit-learn | Preprocessing and model evaluation |
+| Google Colab | Model development and execution |
+
+### 5. Machine Learning Outputs
 
 The generated model outputs are used in Power BI to compare actual and predicted values and analyze model performance.
 
-Sales: Actual vs. predicted sales and regression error metrics.
-Churn: Actual vs. predicted customer churn and churn risk analysis.
-Returns: Actual vs. predicted return status and return risk analysis.
+- **Sales:** Actual vs. predicted sales and regression error metrics.
+- **Churn:** Actual vs. predicted customer churn and churn risk analysis.
+- **Returns:** Actual vs. predicted return status and return risk analysis.
 
 These models extend the project beyond descriptive reporting by adding predictive insights to support business analysis.
 
