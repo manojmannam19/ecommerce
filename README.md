@@ -164,18 +164,17 @@ The cleaned datasets were saved as separate CSV files.
 
 The original raw datasets were preserved, allowing the cleaned data to be used for Machine Learning and Power BI reporting.
 
-
-
-
 🤖 Machine Learning — XGBoost Models
 
 The E-Commerce Analytics Platform includes three machine learning models developed using XGBoost to support sales forecasting, customer churn identification, and return risk prediction.
 
 1. Machine Learning Models
-Model	Algorithm	Prediction Target	ML Type
-Sales Prediction	XGBRegressor	net_sales	Regression
-Customer Churn Prediction	XGBClassifier	churn_target	Classification
-Return Risk Prediction	XGBClassifier	is_returned	Classification
+   
+Model	                    Algorithm	    Prediction Target   	 ML Type
+Sales Prediction	        XGBRegressor	net_sales	             Regression
+Customer Churn Prediction	XGBClassifier	churn_target	         Classification
+Return Risk Prediction  	XGBClassifier	is_returned	             Classification
+
 2. Model Details and Results
 A. Sales Prediction Model
 Algorithm: XGBRegressor
@@ -183,10 +182,11 @@ Target: net_sales
 Purpose: Predicts the sales amount for an order.
 Type: Regression
 Evaluation Metric	Result
-MAE	49.39
-RMSE	106.70
-R² Score	0.9917
-MAPE	4.95%
+
+MAE             	49.39
+RMSE	            106.70
+R² Score	        0.9917
+MAPE	            4.95%
 
 The model achieved an R² score of 0.9917, explaining approximately 99.17% of the variation in sales. The MAPE of 4.95% indicates that the average percentage prediction error was approximately 4.95%.
 
@@ -200,12 +200,12 @@ Target values:
 
 0 = Active
 1 = Churned
-Evaluation Metric	Result
-Accuracy	91.86%
-Precision	94.51%
-Recall	93.89%
-F1 Score	94.20%
-ROC-AUC	0.9245
+Evaluation Metric	    Result
+Accuracy	            91.86%
+Precision	            94.51%
+Recall	                93.89%
+F1 Score	            94.20%
+ROC-AUC                	0.9245
 
 The model correctly classified 91.86% of customers as Active or Churned. Its recall of 93.89% indicates that it detected a high proportion of actual churned customers.
 
@@ -219,12 +219,13 @@ Target values:
 
 0 = Retained
 1 = Returned
-Evaluation Metric	Result
-Accuracy	94.43%
-Precision	53.14%
-Recall	94.50%
-F1 Score	68.86%
-ROC-AUC	0.9585
+
+Evaluation Metric	    Result
+Accuracy	            94.43%
+Precision	            53.14%
+Recall	                94.50%
+F1 Score	            68.86%
+ROC-AUC	                0.9585
 
 The model achieved 94.43% accuracy and detected 94.50% of actual returned orders. Precision of 53.14% indicates that some orders predicted as returns were not actually returned.
 
@@ -242,15 +243,17 @@ Train the XGBoost models.
 Generate predictions.
 Evaluate model performance using suitable metrics.
 Export prediction results for Power BI dashboards.
+
 4. Technologies Used
-Technology	Purpose
-Python	Model development
-Pandas	Data loading and manipulation
-NumPy	Numerical operations
-XGBoost	Machine learning algorithms
-Scikit-learn	Preprocessing and model evaluation
-Google Colab	Model development and execution
-5. Machine Learning Outputs
+Technology	        Purpose
+Python	            Model development
+Pandas	            Data loading and manipulation
+NumPy	            Numerical operations
+XGBoost	            Machine learning algorithms
+Scikit-learn	    Preprocessing and model evaluation
+Google Colab	    Model development and execution
+
+6. Machine Learning Outputs
 
 The generated model outputs are used in Power BI to compare actual and predicted values and analyze model performance.
 
