@@ -1,5 +1,12 @@
 <div align="center">
 
+![E-Commerce Analytics Platform](assets/github-banner.png)
+
+</div>
+
+
+<div align="center">
+
 # 🛒 E-Commerce Analytics Platform
 
 ### End-to-End Data Analytics, Machine Learning & Business Intelligence
