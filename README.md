@@ -166,51 +166,81 @@ Data period: January 2021 – December 2025
 
 The project uses multiple datasets covering customer information, products, orders, and sales transactions.
 
-🤖 Machine Learning Models
+🤖 Machine Learning — XGBoost Models
 
-Three major prediction areas were developed using XGBoost.
+The project includes three machine learning models developed using XGBoost to support sales forecasting, customer retention analysis and return-risk prediction.
 
-1. Customer Churn Prediction
+Models Developed
+Model	Algorithm	Business Objective	Prediction
+Sales Prediction	XGBRegressor	Predict sales amount	Numerical sales value
+Customer Churn	XGBClassifier	Identify customers likely to stop purchasing	Active / Churned
+Return Risk	XGBClassifier	Identify orders likely to be returned	Retained / Returned
+1. Sales Prediction Model
+Algorithm: XGBoost Regressor
+Target variable: net_sales
+Objective: Predict the sales amount for an order.
+Evaluation metrics:
+Metric	Result
+MAE	49.39
+RMSE	106.70
+R² Score	0.9917
+MAPE	4.95%
 
-Objective: Identify customers who are likely to stop purchasing.
+Observation: The model achieved an R² score of 99.17%, with an average percentage prediction error of approximately 4.95%.
 
-Target: churn_target
-Model: XGBoost Classifier
-Accuracy: 91.86%
-Precision: 94.51%
-Recall: 93.89%
-F1-Score: 94.20%
-ROC-AUC: 0.9245
-2. Sales Prediction
+2. Customer Churn Prediction Model
+Algorithm: XGBoost Classifier
+Target variable: churn_target
+Class labels: 0 = Active, 1 = Churned
+Objective: Identify customers who may stop purchasing.
 
-Objective: Predict sales performance and estimate net sales.
+Model evaluation:
 
-Sales Classification:
+Metric	Result
+Accuracy	91.86%
+Precision	94.51%
+Recall	93.89%
+F1 Score	94.20%
+ROC-AUC	0.9245
 
-Model: XGBoost Classifier
-Accuracy: 92.40%
-F1-Score: 92.39%
-ROC-AUC: 0.9341
+Observation: The model correctly classified approximately 91.86% of the evaluated customer records, helping identify customers who may require retention attention.
 
-Sales Regression:
+3. Return Risk Prediction Model
+Algorithm: XGBoost Classifier
+Target variable: is_returned
+Class labels: 0 = Retained, 1 = Returned
+Objective: Predict the probability that an order will be returned.
 
-Model: XGBoost Regressor
-MAE: 49.39
-RMSE: 106.70
-R² Score: 0.9917
-MAPE: 4.95%
-3. Product / Order Return Prediction
+Model evaluation:
 
-Objective: Predict whether an order is likely to be returned.
+Metric	Result
+Accuracy	94.43%
+Precision	53.14%
+Recall	94.50%
+F1 Score	68.86%
+ROC-AUC	0.9585
 
-Model: XGBoost Classifier
-Accuracy: 93.43%
-Recall: 92.50%
-F1-Score: 65.86%
-ROC-AUC: 0.9385
+Observation: The model detected approximately 94.50% of actual returned orders. Precision is lower, so some orders predicted as returns were not actually returned.
 
-Note: These metrics represent the evaluated model results on the project's test data. Classification metrics should be considered together, especially when target classes are imbalanced.
+Machine Learning Workflow
+Load cleaned datasets.
+Select input features (X) and target variable (y).
+Preprocess and encode categorical features.
+Split data into training, validation and testing sets.
+Handle class imbalance where required.
+Train the XGBoost model.
+Generate predictions and probabilities.
+Evaluate model performance using suitable metrics.
+Export prediction results and evaluation outputs for Power BI.
+Technologies Used
+Python
+Pandas and NumPy
+XGBoost
+Scikit-learn
+Google Colab
+Model Outputs
 
+The prediction results and evaluation metrics are exported as CSV files and used in the Power BI dashboard for model-performance analysis.
 📈 Power BI Dashboard
 
 The project includes interactive Power BI reports covering the following business areas:
