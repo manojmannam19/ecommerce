@@ -1,0 +1,1176 @@
+product_id,product_name,product_category,product_subcategory,brand,supplier,unit_price,product_cost,product_rating,profit_per_unit,profit_margin_percentage,rating_category,price_category
+PROD-000001,Apple Sharable Bifurcated Algorithm Smartphones,Electronics,Smartphones,Apple,Alibaba,686.9,474.06,4.3,212.84,30.99,Excellent,Very High
+PROD-000002,Google User-Centric Even-Keeled Encryption Smartphones,Electronics,Smartphones,Google,Euro Logistics,978.26,519.66,2.9,458.6,46.88,Average,Very High
+PROD-000003,Lg Face-To-Face Client-Driven Support Smartphones,Electronics,Smartphones,Lg,Asian Manufacturing,275.51,185.48,3.9,90.03,32.68,Good,High
+PROD-000004,Sony Customer-Focused Systematic Support Smartphones,Electronics,Smartphones,Sony,Amazon Supply,1120.49,564.86,4.8,555.63,49.59,Excellent,Very High
+PROD-000005,Oneplus Quality-Focused Background Parallelism Smartphones,Electronics,Smartphones,Oneplus,Direct Import,1282.18,695.54,2.9,586.64,45.75,Average,Very High
+PROD-000006,Apple Optimized 5Thgeneration Algorithm Smartphones,Electronics,Smartphones,Apple,Domestic Producers,438.43,245.89,3.8,192.54,43.92,Good,Very High
+PROD-000007,Hp Cross-Group Didactic Emulation Smartphones,Electronics,Smartphones,Hp,Alibaba,761.53,425.12,4.0,336.41,44.18,Good,Very High
+PROD-000008,Samsung Profit-Focused Real-Time Algorithm Smartphones,Electronics,Smartphones,Samsung,Amazon Supply,381.34,212.95,3.4,168.39,44.16,Good,Very High
+PROD-000009,Lg Realigned Dedicated Structure Smartphones,Electronics,Smartphones,Lg,Asian Manufacturing,792.89,520.96,3.0,271.93,34.3,Average,Very High
+PROD-000010,Asus Streamlined Tangible Moratorium Smartphones,Electronics,Smartphones,Asus,Domestic Producers,868.5,537.15,2.6,331.35,38.15,Average,Very High
+PROD-000011,Samsung Operative Directional Knowledge User Smartphones,Electronics,Smartphones,Samsung,Direct Import,989.81,528.66,2.7,461.15,46.59,Average,Very High
+PROD-000012,Lg Reverse-Engineered Even-Keeled Workforce Smartphones,Electronics,Smartphones,Lg,Direct Import,1433.55,993.63,4.4,439.92,30.69,Excellent,Very High
+PROD-000013,Hp Adaptive Well-Modulated Workforce Smartphones,Electronics,Smartphones,Hp,Asian Manufacturing,596.0,309.64,4.1,286.36,48.05,Excellent,Very High
+PROD-000014,Lenovo Diverse Tangible Interface Smartphones,Electronics,Smartphones,Lenovo,Domestic Producers,772.2,404.95,3.7,367.25,47.56,Good,Very High
+PROD-000015,Microsoft Mandatory Even-Keeled Collaboration Smartphones,Electronics,Smartphones,Microsoft,Alibaba,244.71,166.86,3.1,77.85,31.81,Good,High
+PROD-000016,Google Extended Well-Modulated Graphical User Interface Laptops,Electronics,Laptops,Google,Pacific Trade,1061.28,596.8,3.7,464.48,43.77,Good,Very High
+PROD-000017,Dell Customer-Focused Background Implementation Laptops,Electronics,Laptops,Dell,Euro Logistics,910.72,489.03,4.8,421.69,46.3,Excellent,Very High
+PROD-000018,Sony Cross-Platform Heuristic Hardware Laptops,Electronics,Laptops,Sony,Asian Manufacturing,1207.67,830.76,4.6,376.91,31.21,Excellent,Very High
+PROD-000019,Dell Robust Empowering Workforce Laptops,Electronics,Laptops,Dell,Amazon Supply,977.27,668.82,2.7,308.45,31.56,Average,Very High
+PROD-000020,Apple Balanced Upward-Trending Knowledgebase Laptops,Electronics,Laptops,Apple,Pacific Trade,454.78,231.5,3.3,223.28,49.1,Good,Very High
+PROD-000021,Apple Public-Key Bottom-Line Implementation Laptops,Electronics,Laptops,Apple,North American Supply,705.28,390.92,4.5,314.36,44.57,Excellent,Very High
+PROD-000022,Dell Configurable Neutral Frame Laptops,Electronics,Laptops,Dell,Domestic Producers,663.78,369.19,3.8,294.59,44.38,Good,Very High
+PROD-000023,Samsung Self-Enabling Regional Hierarchy Tablets,Electronics,Tablets,Samsung,Multisource,383.2,253.08,2.7,130.12,33.96,Average,Very High
+PROD-000024,Asus Re-Engineered Content-Based Strategy Tablets,Electronics,Tablets,Asus,Amazon Supply,1482.95,970.52,3.0,512.43,34.55,Average,Very High
+PROD-000025,Hp Cloned 6Thgeneration Protocol Tablets,Electronics,Tablets,Hp,Amazon Supply,207.18,137.38,4.2,69.8,33.69,Excellent,High
+PROD-000026,Asus Focused Zero Administration Frame Tablets,Electronics,Tablets,Asus,Euro Logistics,1147.71,750.89,2.7,396.82,34.57,Average,Very High
+PROD-000027,Oneplus Configurable Discrete Attitude Tablets,Electronics,Tablets,Oneplus,Domestic Producers,666.01,348.44,4.6,317.57,47.68,Excellent,Very High
+PROD-000028,Dell Multi-Tiered Even-Keeled Knowledgebase Tablets,Electronics,Tablets,Dell,Domestic Producers,1010.29,572.01,2.7,438.28,43.38,Average,Very High
+PROD-000029,Lg Sharable High-Level Complexity Tablets,Electronics,Tablets,Lg,Amazon Supply,604.28,341.44,4.3,262.84,43.5,Excellent,Very High
+PROD-000030,Samsung Multi-Layered Heuristic Database Tablets,Electronics,Tablets,Samsung,Asian Manufacturing,1028.82,696.97,3.6,331.85,32.26,Good,Very High
+PROD-000031,Microsoft Synchronized Encompassing Standardization Tablets,Electronics,Tablets,Microsoft,Amazon Supply,355.47,228.44,4.3,127.03,35.74,Excellent,Very High
+PROD-000032,Apple Synergized Secondary Archive Headphones,Electronics,Headphones,Apple,Pacific Trade,929.66,608.18,3.7,321.48,34.58,Good,Very High
+PROD-000033,Microsoft Robust Scalable Concept Headphones,Electronics,Headphones,Microsoft,Multisource,879.55,514.98,2.6,364.57,41.45,Average,Very High
+PROD-000034,Oneplus Public-Key Upward-Trending Encryption Headphones,Electronics,Headphones,Oneplus,North American Supply,340.26,172.27,4.0,167.99,49.37,Good,Very High
+PROD-000035,Sony Diverse Maximized Implementation Headphones,Electronics,Headphones,Sony,North American Supply,608.66,366.24,4.7,242.42,39.83,Excellent,Very High
+PROD-000036,Dell Future-Proofed Scalable Solution Headphones,Electronics,Headphones,Dell,Asian Manufacturing,524.08,305.05,4.3,219.03,41.79,Excellent,Very High
+PROD-000037,Oneplus Realigned Directional Software Headphones,Electronics,Headphones,Oneplus,Euro Logistics,497.44,256.38,3.2,241.06,48.46,Good,Very High
+PROD-000038,Google Inverse Zero Administration Time-Frame Headphones,Electronics,Headphones,Google,Amazon Supply,409.59,280.95,4.4,128.64,31.41,Excellent,Very High
+PROD-000039,Xiaomi Centralized Discrete Alliance Headphones,Electronics,Headphones,Xiaomi,Global Trade,1023.42,690.08,4.4,333.34,32.57,Excellent,Very High
+PROD-000040,Google Intuitive Impactful Flexibility Smart Watches,Electronics,Smart Watches,Google,Asian Manufacturing,442.54,300.27,3.8,142.27,32.15,Good,Very High
+PROD-000041,Sony Cloned Didactic Open System Smart Watches,Electronics,Smart Watches,Sony,Multisource,1249.67,848.8,3.3,400.87,32.08,Good,Very High
+PROD-000042,Hp Universal Foreground Data-Warehouse Smart Watches,Electronics,Smart Watches,Hp,Euro Logistics,343.07,187.17,3.5,155.9,45.44,Good,Very High
+PROD-000043,Oneplus Streamlined Modular Infrastructure Smart Watches,Electronics,Smart Watches,Oneplus,Direct Import,1263.42,849.2,2.5,414.22,32.79,Average,Very High
+PROD-000044,Lg Stand-Alone Logistical Circuit Smart Watches,Electronics,Smart Watches,Lg,North American Supply,863.97,504.11,3.0,359.86,41.65,Average,Very High
+PROD-000045,Samsung Fundamental Client-Driven Encryption Smart Watches,Electronics,Smart Watches,Samsung,Asian Manufacturing,355.82,201.94,4.8,153.88,43.25,Excellent,Very High
+PROD-000046,Samsung User-Friendly Next Generation Monitoring Smart Watches,Electronics,Smart Watches,Samsung,North American Supply,620.16,374.43,4.2,245.73,39.62,Excellent,Very High
+PROD-000047,Hp Fundamental Value-Added Paradigm Smart Watches,Electronics,Smart Watches,Hp,Euro Logistics,672.72,467.11,4.8,205.61,30.56,Excellent,Very High
+PROD-000048,Apple Optimized Optimal Initiative Smart Watches,Electronics,Smart Watches,Apple,Asian Manufacturing,527.32,316.1,3.2,211.22,40.06,Good,Very High
+PROD-000049,Xiaomi Multi-Lateral Directional Challenge Smart Watches,Electronics,Smart Watches,Xiaomi,North American Supply,570.29,289.35,4.0,280.94,49.26,Good,Very High
+PROD-000050,Lg Profound Modular Array Smart Watches,Electronics,Smart Watches,Lg,Multisource,853.48,435.53,3.2,417.95,48.97,Good,Very High
+PROD-000051,Hp Versatile Actuating Budgetary Management Smart Watches,Electronics,Smart Watches,Hp,Multisource,1380.75,756.53,2.8,624.22,45.21,Average,Very High
+PROD-000052,Sony Distributed Responsive Complexity Smart Watches,Electronics,Smart Watches,Sony,Euro Logistics,836.29,583.0,3.1,253.29,30.29,Good,Very High
+PROD-000053,Lg Synergized Interactive Policy Cameras,Electronics,Cameras,Lg,Direct Import,1073.78,700.45,3.1,373.33,34.77,Good,Very High
+PROD-000054,Asus Cloned Human-Resource Implementation Cameras,Electronics,Cameras,Asus,Euro Logistics,1146.68,657.69,4.0,488.99,42.64,Good,Very High
+PROD-000055,Google Right-Sized Maximized Moderator Cameras,Electronics,Cameras,Google,Domestic Producers,1023.59,621.48,2.7,402.11,39.28,Average,Very High
+PROD-000056,Hp Function-Based Neutral Access Cameras,Electronics,Cameras,Hp,Domestic Producers,1285.89,725.44,2.9,560.45,43.58,Average,Very High
+PROD-000057,Hp Synergized Uniform Budgetary Management Cameras,Electronics,Cameras,Hp,North American Supply,253.01,156.41,4.1,96.6,38.18,Excellent,High
+PROD-000058,Lg Synergized National System Engine Cameras,Electronics,Cameras,Lg,Global Trade,221.56,133.47,3.0,88.09,39.76,Average,High
+PROD-000059,Asus Future-Proofed Zero Administration Project Cameras,Electronics,Cameras,Asus,Multisource,1038.72,555.58,4.2,483.14,46.51,Excellent,Very High
+PROD-000060,Samsung Mandatory Bifurcated Frame Gaming Consoles,Electronics,Gaming Consoles,Samsung,Amazon Supply,702.76,483.04,2.8,219.72,31.27,Average,Very High
+PROD-000061,Sony Optional Cohesive Knowledgebase Gaming Consoles,Electronics,Gaming Consoles,Sony,Global Trade,643.39,336.3,4.7,307.09,47.73,Excellent,Very High
+PROD-000062,Oneplus Adaptive Uniform Success Gaming Consoles,Electronics,Gaming Consoles,Oneplus,Pacific Trade,1340.54,739.43,4.1,601.11,44.84,Excellent,Very High
+PROD-000063,Xiaomi Fundamental Motivating Task-Force Gaming Consoles,Electronics,Gaming Consoles,Xiaomi,Amazon Supply,1262.39,771.37,3.8,491.02,38.9,Good,Very High
+PROD-000064,Hp Enhanced Motivating Benchmark Gaming Consoles,Electronics,Gaming Consoles,Hp,Pacific Trade,514.41,266.78,4.7,247.63,48.14,Excellent,Very High
+PROD-000065,Xiaomi Self-Enabling Exuding Productivity Gaming Consoles,Electronics,Gaming Consoles,Xiaomi,Multisource,1370.54,858.81,3.3,511.73,37.34,Good,Very High
+PROD-000066,Microsoft Profit-Focused Real-Time Customer Loyalty Tvs,Electronics,Tvs,Microsoft,Direct Import,653.97,421.94,4.7,232.03,35.48,Excellent,Very High
+PROD-000067,Samsung Distributed Holistic Task-Force Tvs,Electronics,Tvs,Samsung,Amazon Supply,1353.21,887.67,4.0,465.54,34.4,Good,Very High
+PROD-000068,Oneplus Diverse Needs-Based Time-Frame Tvs,Electronics,Tvs,Oneplus,Direct Import,309.38,164.69,4.7,144.69,46.77,Excellent,High
+PROD-000069,Microsoft Progressive 24Hour Policy Tvs,Electronics,Tvs,Microsoft,North American Supply,988.36,496.0,2.7,492.36,49.82,Average,Very High
+PROD-000070,Apple Inverse Mobile Adapter Tvs,Electronics,Tvs,Apple,Euro Logistics,1062.55,532.35,2.9,530.2,49.9,Average,Very High
+PROD-000071,Hp Customizable High-Level Workforce Tvs,Electronics,Tvs,Hp,Global Trade,913.35,583.06,4.1,330.29,36.16,Excellent,Very High
+PROD-000072,Lenovo Integrated Disintermediate Approach Tvs,Electronics,Tvs,Lenovo,Alibaba,491.55,315.79,3.1,175.76,35.76,Good,Very High
+PROD-000073,Google Front-Line Non-Volatile Artificial Intelligence Tvs,Electronics,Tvs,Google,Euro Logistics,623.02,404.53,4.1,218.49,35.07,Excellent,Very High
+PROD-000074,Asus Configurable Upward-Trending Matrix Tvs,Electronics,Tvs,Asus,Global Trade,1303.99,823.5,3.9,480.49,36.85,Good,Very High
+PROD-000075,Asus Cloned Well-Modulated Monitoring Tvs,Electronics,Tvs,Asus,Amazon Supply,321.78,184.55,3.1,137.23,42.65,Good,Very High
+PROD-000076,Oneplus Visionary Clear-Thinking Capacity Tvs,Electronics,Tvs,Oneplus,Euro Logistics,517.19,359.24,3.4,157.95,30.54,Good,Very High
+PROD-000077,Oneplus Switchable Methodical Neural-Net Tvs,Electronics,Tvs,Oneplus,Direct Import,1359.66,851.46,4.4,508.2,37.38,Excellent,Very High
+PROD-000078,Xiaomi Down-Sized Empowering Moderator Tvs,Electronics,Tvs,Xiaomi,Asian Manufacturing,853.43,525.18,3.7,328.25,38.46,Good,Very High
+PROD-000079,Cuisinart Robust Interactive Data-Warehouse Refrigerators,Home Appliances,Refrigerators,Cuisinart,Global Trade,236.67,137.41,3.2,99.26,41.94,Good,High
+PROD-000080,Electrolux Quality-Focused Web-Enabled Superstructure Refrigerators,Home Appliances,Refrigerators,Electrolux,Direct Import,117.02,65.69,2.9,51.33,43.86,Average,Medium
+PROD-000081,Whirlpool Team-Oriented Dedicated Structure Refrigerators,Home Appliances,Refrigerators,Whirlpool,Domestic Producers,758.32,484.17,4.7,274.15,36.15,Excellent,Very High
+PROD-000082,Cuisinart Integrated Impactful Secured Line Refrigerators,Home Appliances,Refrigerators,Cuisinart,Multisource,359.11,145.03,4.7,214.08,59.61,Excellent,Very High
+PROD-000083,Whirlpool Streamlined Holistic Intranet Refrigerators,Home Appliances,Refrigerators,Whirlpool,Amazon Supply,399.73,256.49,4.8,143.24,35.83,Excellent,Very High
+PROD-000084,Cuisinart Programmable Local Capability Refrigerators,Home Appliances,Refrigerators,Cuisinart,Euro Logistics,697.11,330.16,3.4,366.95,52.64,Good,Very High
+PROD-000085,Dyson Fully-Configurable Directional Architecture Refrigerators,Home Appliances,Refrigerators,Dyson,Alibaba,695.8,333.45,2.9,362.35,52.08,Average,Very High
+PROD-000086,Miele Mandatory 3Rdgeneration Parallelism Washing Machines,Home Appliances,Washing Machines,Miele,Amazon Supply,489.76,310.53,4.2,179.23,36.6,Excellent,Very High
+PROD-000087,Lg Reactive Discrete Parallelism Washing Machines,Home Appliances,Washing Machines,Lg,Multisource,499.04,211.74,4.0,287.3,57.57,Good,Very High
+PROD-000088,Lg Face-To-Face 24Hour Archive Washing Machines,Home Appliances,Washing Machines,Lg,Direct Import,793.04,344.99,3.7,448.05,56.5,Good,Very High
+PROD-000089,Samsung Triple-Buffered Responsive Approach Washing Machines,Home Appliances,Washing Machines,Samsung,Global Trade,714.16,417.92,4.2,296.24,41.48,Excellent,Very High
+PROD-000090,Bosch Focused Asymmetric Alliance Washing Machines,Home Appliances,Washing Machines,Bosch,Direct Import,591.74,289.88,3.2,301.86,51.01,Good,Very High
+PROD-000091,Samsung Managed Asynchronous Migration Washing Machines,Home Appliances,Washing Machines,Samsung,Euro Logistics,666.55,401.62,4.6,264.93,39.75,Excellent,Very High
+PROD-000092,Electrolux Front-Line Even-Keeled Secured Line Washing Machines,Home Appliances,Washing Machines,Electrolux,Domestic Producers,739.27,390.21,3.7,349.06,47.22,Good,Very High
+PROD-000093,Panasonic Pre-Emptive Didactic Moratorium Washing Machines,Home Appliances,Washing Machines,Panasonic,Asian Manufacturing,658.81,370.57,4.2,288.24,43.75,Excellent,Very High
+PROD-000094,Dyson De-Engineered Uniform Orchestration Microwaves,Home Appliances,Microwaves,Dyson,Euro Logistics,657.05,409.01,3.3,248.04,37.75,Good,Very High
+PROD-000095,Panasonic Re-Engineered Methodical Encryption Microwaves,Home Appliances,Microwaves,Panasonic,North American Supply,362.91,153.69,3.9,209.22,57.65,Good,Very High
+PROD-000096,Bosch Phased Incremental Core Microwaves,Home Appliances,Microwaves,Bosch,Direct Import,125.16,64.63,3.8,60.53,48.36,Good,Medium
+PROD-000097,Bosch Cross-Platform Bandwidth-Monitored Protocol Microwaves,Home Appliances,Microwaves,Bosch,Amazon Supply,300.58,164.63,2.6,135.95,45.23,Average,High
+PROD-000098,Dyson Optional Heuristic Interface Microwaves,Home Appliances,Microwaves,Dyson,Asian Manufacturing,126.14,76.4,3.4,49.74,39.43,Good,Medium
+PROD-000099,Lg Open-Source Maximized Superstructure Microwaves,Home Appliances,Microwaves,Lg,North American Supply,188.94,100.24,4.3,88.7,46.95,Excellent,High
+PROD-000100,Whirlpool Business-Focused Systematic Projection Microwaves,Home Appliances,Microwaves,Whirlpool,Domestic Producers,251.07,139.53,2.7,111.54,44.43,Average,High
+PROD-000101,Electrolux Stand-Alone Bandwidth-Monitored Approach Microwaves,Home Appliances,Microwaves,Electrolux,Asian Manufacturing,136.18,72.56,3.8,63.62,46.72,Good,Medium
+PROD-000102,Miele Open-Architected Upward-Trending Graphical User Interface Microwaves,Home Appliances,Microwaves,Miele,Asian Manufacturing,546.2,317.63,4.8,228.57,41.85,Excellent,Very High
+PROD-000103,Whirlpool Customer-Focused Dynamic Core Microwaves,Home Appliances,Microwaves,Whirlpool,Amazon Supply,461.41,221.82,4.4,239.59,51.93,Excellent,Very High
+PROD-000104,Whirlpool Ergonomic National Knowledge User Microwaves,Home Appliances,Microwaves,Whirlpool,Asian Manufacturing,289.58,147.61,2.7,141.97,49.03,Average,High
+PROD-000105,Lg Devolved Interactive Contingency Microwaves,Home Appliances,Microwaves,Lg,Alibaba,117.75,75.44,4.5,42.31,35.93,Excellent,Medium
+PROD-000106,Cuisinart Grass-Roots Maximized Encryption Microwaves,Home Appliances,Microwaves,Cuisinart,Amazon Supply,587.18,294.9,2.9,292.28,49.78,Average,Very High
+PROD-000107,Dyson Compatible Leadingedge Workforce Air Conditioners,Home Appliances,Air Conditioners,Dyson,Euro Logistics,209.51,96.91,3.8,112.6,53.74,Good,High
+PROD-000108,Bosch Reactive Bandwidth-Monitored Application Air Conditioners,Home Appliances,Air Conditioners,Bosch,Asian Manufacturing,600.22,339.15,3.2,261.07,43.5,Good,Very High
+PROD-000109,Electrolux Streamlined Needs-Based Access Air Conditioners,Home Appliances,Air Conditioners,Electrolux,Global Trade,768.41,449.12,3.8,319.29,41.55,Good,Very High
+PROD-000110,Miele Cross-Group Web-Enabled Encoding Air Conditioners,Home Appliances,Air Conditioners,Miele,Domestic Producers,528.2,266.69,3.1,261.51,49.51,Good,Very High
+PROD-000111,Bosch Down-Sized Incremental Matrix Air Conditioners,Home Appliances,Air Conditioners,Bosch,Asian Manufacturing,349.18,205.83,2.5,143.35,41.05,Average,Very High
+PROD-000112,Bosch Polarized Didactic Initiative Air Conditioners,Home Appliances,Air Conditioners,Bosch,Pacific Trade,181.25,74.58,2.6,106.67,58.85,Average,High
+PROD-000113,Dyson Centralized Composite Implementation Air Conditioners,Home Appliances,Air Conditioners,Dyson,Amazon Supply,698.82,402.46,3.6,296.36,42.41,Good,Very High
+PROD-000114,Lg Adaptive Human-Resource Firmware Air Conditioners,Home Appliances,Air Conditioners,Lg,Pacific Trade,168.48,88.1,3.6,80.38,47.71,Good,High
+PROD-000115,Cuisinart Persevering Executive Interface Air Conditioners,Home Appliances,Air Conditioners,Cuisinart,Pacific Trade,221.24,112.49,3.5,108.75,49.15,Good,High
+PROD-000116,Panasonic Total Upward-Trending Toolset Air Conditioners,Home Appliances,Air Conditioners,Panasonic,Multisource,531.1,296.76,2.6,234.34,44.12,Average,Very High
+PROD-000117,Whirlpool Realigned Stable Structure Air Conditioners,Home Appliances,Air Conditioners,Whirlpool,Amazon Supply,362.23,201.57,3.7,160.66,44.35,Good,Very High
+PROD-000118,Whirlpool Pre-Emptive Coherent Core Air Conditioners,Home Appliances,Air Conditioners,Whirlpool,Pacific Trade,699.54,395.01,2.9,304.53,43.53,Average,Very High
+PROD-000119,Cuisinart Implemented Didactic Approach Air Conditioners,Home Appliances,Air Conditioners,Cuisinart,Amazon Supply,149.4,83.75,2.6,65.65,43.94,Average,Medium
+PROD-000120,Dyson Reduced User-Facing Moratorium Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Dyson,Asian Manufacturing,510.04,323.9,3.9,186.14,36.5,Good,Very High
+PROD-000121,Electrolux Centralized Value-Added Functionalities Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Electrolux,Multisource,371.72,208.47,3.6,163.25,43.92,Good,Very High
+PROD-000122,Samsung Centralized Actuating Paradigm Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Samsung,Pacific Trade,481.93,306.2,3.4,175.73,36.46,Good,Very High
+PROD-000123,Samsung Polarized Motivating Moderator Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Samsung,Euro Logistics,772.83,484.05,3.0,288.78,37.37,Average,Very High
+PROD-000124,Bosch Diverse Analyzing Migration Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Bosch,Asian Manufacturing,148.55,63.16,2.5,85.39,57.48,Average,Medium
+PROD-000125,Lg Configurable Contextually-Based Architecture Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Lg,Multisource,166.11,94.81,2.7,71.3,42.92,Average,High
+PROD-000126,Electrolux Right-Sized Asymmetric Service-Desk Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Electrolux,Amazon Supply,323.28,197.59,2.6,125.69,38.88,Average,Very High
+PROD-000127,Whirlpool Front-Line Impactful Capability Vacuum Cleaners,Home Appliances,Vacuum Cleaners,Whirlpool,Direct Import,670.13,315.27,2.8,354.86,52.95,Average,Very High
+PROD-000128,Lg Re-Contextualized Dynamic Paradigm Coffee Makers,Home Appliances,Coffee Makers,Lg,Asian Manufacturing,587.72,327.5,4.6,260.22,44.28,Excellent,Very High
+PROD-000129,Samsung Right-Sized 6Thgeneration Process Improvement Coffee Makers,Home Appliances,Coffee Makers,Samsung,Pacific Trade,614.55,369.26,3.2,245.29,39.91,Good,Very High
+PROD-000130,Bosch Configurable Intangible Protocol Coffee Makers,Home Appliances,Coffee Makers,Bosch,Multisource,224.21,131.76,4.4,92.45,41.23,Excellent,High
+PROD-000131,Dyson Reduced Non-Volatile Model Coffee Makers,Home Appliances,Coffee Makers,Dyson,Pacific Trade,793.35,399.18,3.4,394.17,49.68,Good,Very High
+PROD-000132,Whirlpool Intuitive Empowering Database Coffee Makers,Home Appliances,Coffee Makers,Whirlpool,Global Trade,643.49,312.22,4.7,331.27,51.48,Excellent,Very High
+PROD-000133,Whirlpool Synchronized Transitional Functionalities Blenders,Home Appliances,Blenders,Whirlpool,Pacific Trade,700.89,355.53,4.3,345.36,49.27,Excellent,Very High
+PROD-000134,Kitchenaid Front-Line Empowering Infrastructure Blenders,Home Appliances,Blenders,Kitchenaid,Multisource,628.18,267.47,4.7,360.71,57.42,Excellent,Very High
+PROD-000135,Kitchenaid De-Engineered Static Project Blenders,Home Appliances,Blenders,Kitchenaid,Pacific Trade,453.68,275.21,3.3,178.47,39.34,Good,Very High
+PROD-000136,Electrolux Innovative Logistical Functionalities Blenders,Home Appliances,Blenders,Electrolux,Multisource,726.87,361.47,2.5,365.4,50.27,Average,Very High
+PROD-000137,Samsung Versatile Asynchronous Access Blenders,Home Appliances,Blenders,Samsung,Asian Manufacturing,733.77,310.25,3.3,423.52,57.72,Good,Very High
+PROD-000138,Kitchenaid Persevering Regional Open System Blenders,Home Appliances,Blenders,Kitchenaid,Asian Manufacturing,765.04,487.83,3.9,277.21,36.23,Good,Very High
+PROD-000139,Whirlpool Cross-Platform Asynchronous Monitoring Blenders,Home Appliances,Blenders,Whirlpool,Domestic Producers,542.29,277.71,3.2,264.58,48.79,Good,Very High
+PROD-000140,Electrolux Extended Motivating Firmware Blenders,Home Appliances,Blenders,Electrolux,Alibaba,330.07,187.52,4.3,142.55,43.19,Excellent,Very High
+PROD-000141,Cuisinart De-Engineered Grid-Enabled Architecture Blenders,Home Appliances,Blenders,Cuisinart,Alibaba,654.11,390.77,2.7,263.34,40.26,Average,Very High
+PROD-000142,Whirlpool Fully-Configurable Holistic Forecast Blenders,Home Appliances,Blenders,Whirlpool,Domestic Producers,446.09,184.86,3.8,261.23,58.56,Good,Very High
+PROD-000143,Bosch Diverse Leadingedge Moratorium Blenders,Home Appliances,Blenders,Bosch,Direct Import,409.07,254.41,3.3,154.66,37.81,Good,Very High
+PROD-000144,Samsung Triple-Buffered Exuding Pricing Structure Toasters,Home Appliances,Toasters,Samsung,Alibaba,181.95,79.28,4.3,102.67,56.43,Excellent,High
+PROD-000145,Electrolux Streamlined Multi-Tasking Access Toasters,Home Appliances,Toasters,Electrolux,Amazon Supply,532.75,226.57,2.7,306.18,57.47,Average,Very High
+PROD-000146,Samsung Synchronized Neutral Framework Toasters,Home Appliances,Toasters,Samsung,Amazon Supply,590.68,247.02,4.5,343.66,58.18,Excellent,Very High
+PROD-000147,Miele Switchable Bi-Directional Challenge Toasters,Home Appliances,Toasters,Miele,Amazon Supply,594.37,249.84,2.7,344.53,57.97,Average,Very High
+PROD-000148,Dyson Fundamental Bifurcated Benchmark Toasters,Home Appliances,Toasters,Dyson,Pacific Trade,790.65,390.24,3.4,400.41,50.64,Good,Very High
+PROD-000149,Lg User-Friendly Neutral Collaboration Toasters,Home Appliances,Toasters,Lg,Domestic Producers,668.96,426.0,4.9,242.96,36.32,Excellent,Very High
+PROD-000150,Dyson Future-Proofed Executive Portal Toasters,Home Appliances,Toasters,Dyson,Domestic Producers,627.36,309.96,2.7,317.4,50.59,Average,Very High
+PROD-000151,Miele Expanded Transitional Graphical User Interface Toasters,Home Appliances,Toasters,Miele,Alibaba,644.0,347.5,3.5,296.5,46.04,Good,Very High
+PROD-000152,Miele Expanded Systemic Productivity Toasters,Home Appliances,Toasters,Miele,Amazon Supply,734.45,314.2,3.7,420.25,57.22,Good,Very High
+PROD-000153,Panasonic Fundamental Motivating Matrix Toasters,Home Appliances,Toasters,Panasonic,Domestic Producers,107.95,55.83,2.6,52.12,48.28,Average,Medium
+PROD-000154,Miele Function-Based Actuating Array Toasters,Home Appliances,Toasters,Miele,Direct Import,183.17,78.65,4.1,104.52,57.06,Excellent,High
+PROD-000155,Cuisinart Sharable Interactive Focus Group Toasters,Home Appliances,Toasters,Cuisinart,Euro Logistics,622.23,339.64,4.8,282.59,45.42,Excellent,Very High
+PROD-000156,Dyson Balanced 24Hour Groupware Toasters,Home Appliances,Toasters,Dyson,North American Supply,362.41,170.85,4.6,191.56,52.86,Excellent,Very High
+PROD-000157,H&M Visionary Clear-Thinking Productivity Men'S Clothing,Fashion,Men'S Clothing,H&M,Pacific Trade,82.61,48.65,2.5,33.96,41.11,Average,Medium
+PROD-000158,Puma Fundamental Cohesive Support Men'S Clothing,Fashion,Men'S Clothing,Puma,Euro Logistics,291.57,91.25,4.6,200.32,68.7,Excellent,High
+PROD-000159,Levi'S Organic Neutral Strategy Men'S Clothing,Fashion,Men'S Clothing,Levi'S,North American Supply,167.76,100.3,2.7,67.46,40.21,Average,High
+PROD-000160,Adidas Optimized Next Generation Access Men'S Clothing,Fashion,Men'S Clothing,Adidas,Alibaba,175.08,103.44,3.8,71.64,40.92,Good,High
+PROD-000161,Levi'S Customizable Asynchronous Solution Men'S Clothing,Fashion,Men'S Clothing,Levi'S,Domestic Producers,196.23,99.83,3.6,96.4,49.13,Good,High
+PROD-000162,Mango Distributed Needs-Based Alliance Men'S Clothing,Fashion,Men'S Clothing,Mango,Amazon Supply,195.72,93.02,4.7,102.7,52.47,Excellent,High
+PROD-000163,Adidas Multi-Layered Optimal Neural-Net Men'S Clothing,Fashion,Men'S Clothing,Adidas,Direct Import,32.72,12.57,4.8,20.15,61.58,Excellent,Low
+PROD-000164,Zara Digitized Intermediate Capacity Men'S Clothing,Fashion,Men'S Clothing,Zara,Direct Import,269.27,117.59,4.0,151.68,56.33,Good,High
+PROD-000165,Puma Balanced Fault-Tolerant Hierarchy Women'S Clothing,Fashion,Women'S Clothing,Puma,North American Supply,97.67,34.81,3.6,62.86,64.36,Good,Medium
+PROD-000166,Adidas Balanced Heuristic Database Women'S Clothing,Fashion,Women'S Clothing,Adidas,Asian Manufacturing,118.94,56.51,2.7,62.43,52.49,Average,Medium
+PROD-000167,Gucci Synergized Dynamic Secured Line Women'S Clothing,Fashion,Women'S Clothing,Gucci,Euro Logistics,292.83,174.49,4.2,118.34,40.41,Excellent,High
+PROD-000168,Puma Customer-Focused Heuristic Time-Frame Women'S Clothing,Fashion,Women'S Clothing,Puma,Multisource,170.11,66.83,4.5,103.28,60.71,Excellent,High
+PROD-000169,Forever 21 Realigned Incremental Process Improvement Women'S Clothing,Fashion,Women'S Clothing,Forever 21,Euro Logistics,211.72,73.84,4.7,137.88,65.12,Excellent,High
+PROD-000170,Mango User-Friendly Coherent Encoding Women'S Clothing,Fashion,Women'S Clothing,Mango,Direct Import,250.31,146.42,4.2,103.89,41.5,Excellent,High
+PROD-000171,Nike Diverse Context-Sensitive Installation Women'S Clothing,Fashion,Women'S Clothing,Nike,Direct Import,191.76,81.59,4.7,110.17,57.45,Excellent,High
+PROD-000172,H&M Assimilated Context-Sensitive Support Women'S Clothing,Fashion,Women'S Clothing,H&M,Amazon Supply,262.5,82.31,2.6,180.19,68.64,Average,High
+PROD-000173,Puma Managed Zero Tolerance Installation Women'S Clothing,Fashion,Women'S Clothing,Puma,Euro Logistics,125.41,68.12,4.9,57.29,45.68,Excellent,Medium
+PROD-000174,Adidas Synchronized User-Facing Workforce Kids' Clothing,Fashion,Kids' Clothing,Adidas,Direct Import,62.12,29.71,3.4,32.41,52.17,Good,Low
+PROD-000175,Puma Fully-Configurable Encompassing Complexity Kids' Clothing,Fashion,Kids' Clothing,Puma,Euro Logistics,291.58,161.14,4.5,130.44,44.74,Excellent,High
+PROD-000176,H&M Total Bi-Directional Implementation Kids' Clothing,Fashion,Kids' Clothing,H&M,Domestic Producers,151.23,64.19,3.2,87.04,57.55,Good,Medium
+PROD-000177,Zara Automated Methodical Definition Kids' Clothing,Fashion,Kids' Clothing,Zara,North American Supply,35.79,20.02,4.5,15.77,44.06,Excellent,Low
+PROD-000178,Zara Exclusive Logistical Hardware Kids' Clothing,Fashion,Kids' Clothing,Zara,Euro Logistics,299.92,179.65,3.8,120.27,40.1,Good,High
+PROD-000179,Forever 21 Integrated Discrete Definition Kids' Clothing,Fashion,Kids' Clothing,Forever 21,Multisource,235.32,137.29,4.5,98.03,41.66,Excellent,High
+PROD-000180,Nike Assimilated Stable Core Shoes,Fashion,Shoes,Nike,Amazon Supply,89.26,38.84,2.8,50.42,56.49,Average,Medium
+PROD-000181,Tommy Hilfiger Open-Architected Full-Range Focus Group Shoes,Fashion,Shoes,Tommy Hilfiger,Pacific Trade,287.13,138.35,3.0,148.78,51.82,Average,High
+PROD-000182,H&M Cloned Zero Administration Focus Group Shoes,Fashion,Shoes,H&M,Alibaba,208.08,101.01,3.4,107.07,51.46,Good,High
+PROD-000183,Nike Monitored Secondary Migration Shoes,Fashion,Shoes,Nike,North American Supply,51.8,25.98,3.7,25.82,49.85,Good,Low
+PROD-000184,Puma Open-Architected Systematic Monitoring Shoes,Fashion,Shoes,Puma,Euro Logistics,236.25,107.74,4.5,128.51,54.4,Excellent,High
+PROD-000185,Puma Managed 4Thgeneration Budgetary Management Shoes,Fashion,Shoes,Puma,Multisource,174.53,81.73,4.6,92.8,53.17,Excellent,High
+PROD-000186,Forever 21 Fundamental Context-Sensitive Paradigm Shoes,Fashion,Shoes,Forever 21,Pacific Trade,132.98,45.24,2.6,87.74,65.98,Average,Medium
+PROD-000187,Forever 21 Fundamental 5Thgeneration Benchmark Shoes,Fashion,Shoes,Forever 21,Alibaba,231.44,112.5,4.2,118.94,51.39,Excellent,High
+PROD-000188,Adidas Right-Sized Intermediate Hardware Shoes,Fashion,Shoes,Adidas,Amazon Supply,79.63,27.15,2.5,52.48,65.9,Average,Medium
+PROD-000189,Forever 21 Upgradable Zero Tolerance Functionalities Accessories,Fashion,Accessories,Forever 21,Alibaba,118.16,56.36,3.4,61.8,52.3,Good,Medium
+PROD-000190,Gucci Optional Real-Time Migration Accessories,Fashion,Accessories,Gucci,Domestic Producers,142.49,81.4,3.3,61.09,42.87,Good,Medium
+PROD-000191,Forever 21 Customizable Human-Resource Orchestration Accessories,Fashion,Accessories,Forever 21,Global Trade,163.92,87.71,3.5,76.21,46.49,Good,Medium
+PROD-000192,Louis Vuitton Ergonomic Eco-Centric Analyzer Accessories,Fashion,Accessories,Louis Vuitton,Global Trade,194.18,108.49,4.8,85.69,44.13,Excellent,High
+PROD-000193,Nike Triple-Buffered Intermediate Ability Accessories,Fashion,Accessories,Nike,Euro Logistics,61.18,35.36,3.7,25.82,42.2,Good,Low
+PROD-000194,Gucci Programmable National Software Accessories,Fashion,Accessories,Gucci,Alibaba,92.31,40.41,4.9,51.9,56.22,Excellent,Medium
+PROD-000195,Gucci Up-Sized User-Facing Support Accessories,Fashion,Accessories,Gucci,Asian Manufacturing,157.93,62.95,4.0,94.98,60.14,Good,Medium
+PROD-000196,Zara Synchronized Dedicated Hierarchy Bags,Fashion,Bags,Zara,Amazon Supply,87.24,28.16,2.8,59.08,67.72,Average,Medium
+PROD-000197,Gucci Optional Asymmetric Secured Line Bags,Fashion,Bags,Gucci,Direct Import,55.85,19.3,2.8,36.55,65.44,Average,Low
+PROD-000198,Louis Vuitton Managed Regional Functionalities Bags,Fashion,Bags,Louis Vuitton,Domestic Producers,199.44,70.71,3.3,128.73,64.55,Good,High
+PROD-000199,Calvin Klein Switchable Bottom-Line Success Bags,Fashion,Bags,Calvin Klein,Global Trade,271.1,119.88,4.1,151.22,55.78,Excellent,High
+PROD-000200,Zara Innovative Motivating Function Bags,Fashion,Bags,Zara,Global Trade,68.25,24.41,2.6,43.84,64.23,Average,Low
+PROD-000201,Puma Synchronized Incremental Graphic Interface Bags,Fashion,Bags,Puma,Pacific Trade,67.3,25.81,2.9,41.49,61.65,Average,Low
+PROD-000202,Nike Open-Architected Tangible Frame Bags,Fashion,Bags,Nike,Global Trade,44.84,15.07,3.6,29.77,66.39,Good,Low
+PROD-000203,Calvin Klein Reactive Clear-Thinking Core Bags,Fashion,Bags,Calvin Klein,North American Supply,77.77,31.83,3.7,45.94,59.07,Good,Medium
+PROD-000204,Louis Vuitton Operative Static Implementation Bags,Fashion,Bags,Louis Vuitton,Asian Manufacturing,213.31,66.51,4.4,146.8,68.82,Excellent,High
+PROD-000205,H&M Synergistic Value-Added Conglomeration Bags,Fashion,Bags,H&M,Global Trade,195.81,63.55,4.6,132.26,67.55,Excellent,High
+PROD-000206,Calvin Klein Seamless Non-Volatile Framework Bags,Fashion,Bags,Calvin Klein,Amazon Supply,277.84,88.44,3.2,189.4,68.17,Good,High
+PROD-000207,Louis Vuitton Open-Architected Neutral Ability Bags,Fashion,Bags,Louis Vuitton,Alibaba,245.74,128.89,2.9,116.85,47.55,Average,High
+PROD-000208,Levi'S Innovative Executive Database Bags,Fashion,Bags,Levi'S,Asian Manufacturing,78.62,32.32,3.7,46.3,58.89,Good,Medium
+PROD-000209,Zara Optional Zero Tolerance Paradigm Bags,Fashion,Bags,Zara,Multisource,193.11,79.31,3.6,113.8,58.93,Good,High
+PROD-000210,Gucci Robust Solution-Oriented Graphic Interface Bags,Fashion,Bags,Gucci,Euro Logistics,229.29,71.31,3.1,157.98,68.9,Good,High
+PROD-000211,Zara Persistent Leadingedge Intranet Watches,Fashion,Watches,Zara,Alibaba,219.74,124.94,3.7,94.8,43.14,Good,High
+PROD-000212,Tommy Hilfiger Synergistic Didactic Migration Watches,Fashion,Watches,Tommy Hilfiger,Asian Manufacturing,168.99,56.13,3.6,112.86,66.79,Good,High
+PROD-000213,Louis Vuitton Phased User-Facing Concept Watches,Fashion,Watches,Louis Vuitton,North American Supply,169.13,63.04,3.1,106.09,62.73,Good,High
+PROD-000214,H&M Switchable Attitude-Oriented Forecast Watches,Fashion,Watches,H&M,Amazon Supply,125.64,38.45,3.3,87.19,69.4,Good,Medium
+PROD-000215,H&M Profound Stable Productivity Watches,Fashion,Watches,H&M,North American Supply,79.21,31.55,2.8,47.66,60.17,Average,Medium
+PROD-000216,Tommy Hilfiger Secured Full-Range Array Watches,Fashion,Watches,Tommy Hilfiger,Direct Import,269.35,128.77,4.1,140.58,52.19,Excellent,High
+PROD-000217,Louis Vuitton Versatile Disintermediate Service-Desk Watches,Fashion,Watches,Louis Vuitton,Direct Import,240.97,108.32,2.7,132.65,55.05,Average,High
+PROD-000218,Gucci Integrated Directional Workforce Watches,Fashion,Watches,Gucci,Alibaba,170.39,81.11,4.3,89.28,52.4,Excellent,High
+PROD-000219,H&M Exclusive Client-Server Algorithm Jewelry,Fashion,Jewelry,H&M,Global Trade,140.86,47.65,3.2,93.21,66.17,Good,Medium
+PROD-000220,Mango Balanced Dynamic Leverage Jewelry,Fashion,Jewelry,Mango,Euro Logistics,121.66,60.07,3.9,61.59,50.62,Good,Medium
+PROD-000221,Nike Seamless Zero Administration Archive Jewelry,Fashion,Jewelry,Nike,Amazon Supply,119.71,71.34,4.0,48.37,40.41,Good,Medium
+PROD-000222,Mango Persevering Intangible Product Jewelry,Fashion,Jewelry,Mango,Pacific Trade,86.42,28.56,2.9,57.86,66.95,Average,Medium
+PROD-000223,Gucci Re-Engineered Content-Based Structure Jewelry,Fashion,Jewelry,Gucci,North American Supply,88.87,30.94,2.9,57.93,65.19,Average,Medium
+PROD-000224,Louis Vuitton Total Human-Resource Methodology Jewelry,Fashion,Jewelry,Louis Vuitton,Domestic Producers,99.83,35.14,4.7,64.69,64.8,Excellent,Medium
+PROD-000225,Estée Lauder Open-Architected Dynamic Circuit Skincare,Beauty & Personal Care,Skincare,Estée Lauder,Pacific Trade,21.23,9.15,3.5,12.08,56.9,Good,Low
+PROD-000226,Benefit Streamlined System-Worthy Ability Skincare,Beauty & Personal Care,Skincare,Benefit,Asian Manufacturing,147.53,48.39,3.5,99.14,67.2,Good,Medium
+PROD-000227,Clinique Versatile Zero Administration Benchmark Skincare,Beauty & Personal Care,Skincare,Clinique,Alibaba,145.73,75.25,4.5,70.48,48.36,Excellent,Medium
+PROD-000228,Kiehl'S Vision-Oriented Interactive Definition Skincare,Beauty & Personal Care,Skincare,Kiehl'S,Alibaba,46.11,15.8,4.1,30.31,65.73,Excellent,Low
+PROD-000229,Mac Enhanced Tangible Model Skincare,Beauty & Personal Care,Skincare,Mac,Direct Import,140.11,61.54,3.9,78.57,56.08,Good,Medium
+PROD-000230,Maybelline Persistent Actuating Open Architecture Skincare,Beauty & Personal Care,Skincare,Maybelline,North American Supply,49.2,24.22,2.9,24.98,50.77,Average,Low
+PROD-000231,Kiehl'S Fully-Configurable Bottom-Line Knowledgebase Skincare,Beauty & Personal Care,Skincare,Kiehl'S,Amazon Supply,55.32,22.48,3.7,32.84,59.36,Good,Low
+PROD-000232,Revlon Devolved Maximized Secured Line Skincare,Beauty & Personal Care,Skincare,Revlon,Domestic Producers,43.94,14.44,4.0,29.5,67.14,Good,Low
+PROD-000233,Revlon Progressive Next Generation Policy Skincare,Beauty & Personal Care,Skincare,Revlon,Amazon Supply,50.41,22.45,2.9,27.96,55.47,Average,Low
+PROD-000234,Clinique Intuitive Web-Enabled Intranet Skincare,Beauty & Personal Care,Skincare,Clinique,Direct Import,77.36,33.51,2.6,43.85,56.68,Average,Medium
+PROD-000235,Clinique Seamless Uniform Middleware Skincare,Beauty & Personal Care,Skincare,Clinique,Pacific Trade,57.12,19.06,2.7,38.06,66.63,Average,Low
+PROD-000236,Revlon Optimized Neutral Knowledge User Skincare,Beauty & Personal Care,Skincare,Revlon,Pacific Trade,148.59,56.55,4.4,92.04,61.94,Excellent,Medium
+PROD-000237,Clinique Diverse Value-Added Leverage Skincare,Beauty & Personal Care,Skincare,Clinique,Direct Import,45.65,21.47,4.3,24.18,52.97,Excellent,Low
+PROD-000238,Maybelline Organized Empowering System Engine Makeup,Beauty & Personal Care,Makeup,Maybelline,Pacific Trade,93.39,39.03,3.5,54.36,58.21,Good,Medium
+PROD-000239,Kiehl'S Fully-Configurable Scalable Focus Group Makeup,Beauty & Personal Care,Makeup,Kiehl'S,Global Trade,58.84,31.33,4.5,27.51,46.75,Excellent,Low
+PROD-000240,Benefit Visionary Zero-Defect Model Makeup,Beauty & Personal Care,Makeup,Benefit,Domestic Producers,145.1,48.04,4.3,97.06,66.89,Excellent,Medium
+PROD-000241,Clinique Pre-Emptive Responsive Encoding Makeup,Beauty & Personal Care,Makeup,Clinique,Pacific Trade,141.37,48.82,2.7,92.55,65.47,Average,Medium
+PROD-000242,Mac Grass-Roots Leadingedge Archive Makeup,Beauty & Personal Care,Makeup,Mac,Alibaba,113.76,50.47,4.5,63.29,55.63,Excellent,Medium
+PROD-000243,Clinique Universal Executive Encoding Makeup,Beauty & Personal Care,Makeup,Clinique,Euro Logistics,29.57,14.75,3.0,14.82,50.12,Average,Low
+PROD-000244,Maybelline Future-Proofed Full-Range Functionalities Makeup,Beauty & Personal Care,Makeup,Maybelline,Pacific Trade,32.91,11.22,4.5,21.69,65.91,Excellent,Low
+PROD-000245,Benefit Quality-Focused Attitude-Oriented Challenge Hair Care,Beauty & Personal Care,Hair Care,Benefit,North American Supply,103.13,44.42,3.4,58.71,56.93,Good,Medium
+PROD-000246,Nars Distributed Discrete Info-Mediaries Hair Care,Beauty & Personal Care,Hair Care,Nars,Multisource,132.81,52.87,4.5,79.94,60.19,Excellent,Medium
+PROD-000247,Nars Team-Oriented Coherent Strategy Hair Care,Beauty & Personal Care,Hair Care,Nars,Asian Manufacturing,71.48,28.18,3.6,43.3,60.58,Good,Low
+PROD-000248,Mac Extended Asymmetric Instruction Set Hair Care,Beauty & Personal Care,Hair Care,Mac,Multisource,52.19,25.41,3.7,26.78,51.31,Good,Low
+PROD-000249,Covergirl Open-Source Full-Range Moratorium Hair Care,Beauty & Personal Care,Hair Care,Covergirl,Amazon Supply,42.51,22.31,3.4,20.2,47.52,Good,Low
+PROD-000250,Clinique Persistent Intangible Approach Hair Care,Beauty & Personal Care,Hair Care,Clinique,Direct Import,86.1,45.34,4.0,40.76,47.34,Good,Medium
+PROD-000251,Benefit Expanded Intangible Info-Mediaries Hair Care,Beauty & Personal Care,Hair Care,Benefit,North American Supply,26.37,14.11,4.0,12.26,46.49,Good,Low
+PROD-000252,Estée Lauder Visionary Optimal Standardization Hair Care,Beauty & Personal Care,Hair Care,Estée Lauder,Asian Manufacturing,56.89,19.05,4.4,37.84,66.51,Excellent,Low
+PROD-000253,Clinique Ameliorated Well-Modulated Orchestration Hair Care,Beauty & Personal Care,Hair Care,Clinique,Asian Manufacturing,96.81,41.95,4.6,54.86,56.67,Excellent,Medium
+PROD-000254,Maybelline Multi-Tiered Mission-Critical Ability Hair Care,Beauty & Personal Care,Hair Care,Maybelline,Global Trade,120.4,40.69,3.2,79.71,66.2,Good,Medium
+PROD-000255,L'Oreal Multi-Channeled Exuding System Engine Hair Care,Beauty & Personal Care,Hair Care,L'Oreal,Alibaba,44.79,21.77,2.6,23.02,51.4,Average,Low
+PROD-000256,Maybelline Networked Intangible Monitoring Hair Care,Beauty & Personal Care,Hair Care,Maybelline,Multisource,89.78,44.05,4.6,45.73,50.94,Excellent,Medium
+PROD-000257,Benefit User-Friendly User-Facing Moratorium Hair Care,Beauty & Personal Care,Hair Care,Benefit,Amazon Supply,57.89,29.25,2.8,28.64,49.47,Average,Low
+PROD-000258,Nars Robust Directional Matrix Hair Care,Beauty & Personal Care,Hair Care,Nars,Pacific Trade,128.5,42.65,3.5,85.85,66.81,Good,Medium
+PROD-000259,Benefit Face-To-Face Encompassing Internet Solution Fragrances,Beauty & Personal Care,Fragrances,Benefit,Asian Manufacturing,121.62,41.04,3.1,80.58,66.26,Good,Medium
+PROD-000260,Kiehl'S Pre-Emptive 4Thgeneration Info-Mediaries Fragrances,Beauty & Personal Care,Fragrances,Kiehl'S,Multisource,111.12,53.34,4.0,57.78,52.0,Good,Medium
+PROD-000261,Kiehl'S Mandatory Static Service-Desk Fragrances,Beauty & Personal Care,Fragrances,Kiehl'S,Asian Manufacturing,107.15,46.68,3.1,60.47,56.43,Good,Medium
+PROD-000262,Covergirl Open-Architected Uniform Concept Fragrances,Beauty & Personal Care,Fragrances,Covergirl,Alibaba,58.4,20.17,4.7,38.23,65.46,Excellent,Low
+PROD-000263,Estée Lauder Persistent Clear-Thinking Process Improvement Fragrances,Beauty & Personal Care,Fragrances,Estée Lauder,Pacific Trade,91.67,36.69,3.6,54.98,59.98,Good,Medium
+PROD-000264,Maybelline Public-Key 4Thgeneration Infrastructure Fragrances,Beauty & Personal Care,Fragrances,Maybelline,Global Trade,142.62,48.25,3.9,94.37,66.17,Good,Medium
+PROD-000265,Mac Reverse-Engineered Non-Volatile Protocol Fragrances,Beauty & Personal Care,Fragrances,Mac,Multisource,80.82,36.6,2.5,44.22,54.71,Average,Medium
+PROD-000266,L'Oreal Assimilated Attitude-Oriented Project Fragrances,Beauty & Personal Care,Fragrances,L'Oreal,Direct Import,132.1,70.41,3.9,61.69,46.7,Good,Medium
+PROD-000267,Maybelline Optimized Client-Driven Local Area Network Fragrances,Beauty & Personal Care,Fragrances,Maybelline,Amazon Supply,107.53,57.06,4.2,50.47,46.94,Excellent,Medium
+PROD-000268,Nars Enterprise-Wide Actuating Firmware Fragrances,Beauty & Personal Care,Fragrances,Nars,Global Trade,31.36,13.93,4.0,17.43,55.58,Good,Low
+PROD-000269,Nars Multi-Tiered Fresh-Thinking Data-Warehouse Fragrances,Beauty & Personal Care,Fragrances,Nars,Direct Import,69.38,33.59,4.7,35.79,51.59,Excellent,Low
+PROD-000270,Mac Persevering Fresh-Thinking Graphical User Interface Fragrances,Beauty & Personal Care,Fragrances,Mac,Domestic Producers,139.58,57.61,2.8,81.97,58.73,Average,Medium
+PROD-000271,Revlon Virtual Homogeneous Focus Group Fragrances,Beauty & Personal Care,Fragrances,Revlon,Multisource,147.88,75.38,2.8,72.5,49.03,Average,Medium
+PROD-000272,Benefit Versatile Intangible Extranet Fragrances,Beauty & Personal Care,Fragrances,Benefit,Direct Import,138.92,71.89,3.7,67.03,48.25,Good,Medium
+PROD-000273,Kiehl'S Configurable Methodical Adapter Fragrances,Beauty & Personal Care,Fragrances,Kiehl'S,Direct Import,92.78,37.09,2.6,55.69,60.02,Average,Medium
+PROD-000274,Covergirl User-Friendly Needs-Based Application Bath & Body,Beauty & Personal Care,Bath & Body,Covergirl,Multisource,56.93,28.51,2.5,28.42,49.92,Average,Low
+PROD-000275,Nars Monitored Directional Projection Bath & Body,Beauty & Personal Care,Bath & Body,Nars,Euro Logistics,56.69,22.65,3.8,34.04,60.05,Good,Low
+PROD-000276,Maybelline Cloned Zero-Defect Projection Bath & Body,Beauty & Personal Care,Bath & Body,Maybelline,Euro Logistics,138.78,53.65,3.3,85.13,61.34,Good,Medium
+PROD-000277,Mac Balanced Web-Enabled Algorithm Bath & Body,Beauty & Personal Care,Bath & Body,Mac,Multisource,113.25,46.78,3.0,66.47,58.69,Average,Medium
+PROD-000278,Maybelline Fully-Configurable Dedicated Adapter Bath & Body,Beauty & Personal Care,Bath & Body,Maybelline,Euro Logistics,73.34,24.58,2.9,48.76,66.48,Average,Low
+PROD-000279,Nars Secured Coherent Encoding Bath & Body,Beauty & Personal Care,Bath & Body,Nars,Amazon Supply,79.77,32.29,4.7,47.48,59.52,Excellent,Medium
+PROD-000280,Clinique De-Engineered Methodical Secured Line Bath & Body,Beauty & Personal Care,Bath & Body,Clinique,Asian Manufacturing,60.74,27.04,4.0,33.7,55.48,Good,Low
+PROD-000281,Clinique Customizable Non-Volatile Data-Warehouse Bath & Body,Beauty & Personal Care,Bath & Body,Clinique,North American Supply,11.83,5.51,2.9,6.32,53.42,Average,Low
+PROD-000282,Revlon Persistent Tangible Extranet Bath & Body,Beauty & Personal Care,Bath & Body,Revlon,Direct Import,144.55,48.74,3.5,95.81,66.28,Good,Medium
+PROD-000283,Estée Lauder Visionary Holistic Concept Bath & Body,Beauty & Personal Care,Bath & Body,Estée Lauder,Global Trade,21.95,12.06,3.7,9.89,45.06,Good,Low
+PROD-000284,Covergirl Robust Real-Time Synergy Bath & Body,Beauty & Personal Care,Bath & Body,Covergirl,Asian Manufacturing,93.35,29.57,4.3,63.78,68.32,Excellent,Medium
+PROD-000285,Kiehl'S Universal Bifurcated Time-Frame Bath & Body,Beauty & Personal Care,Bath & Body,Kiehl'S,Global Trade,39.39,20.66,3.0,18.73,47.55,Average,Low
+PROD-000286,Estée Lauder Diverse Fault-Tolerant Benchmark Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Estée Lauder,Pacific Trade,36.7,11.35,3.6,25.35,69.07,Good,Low
+PROD-000287,Kiehl'S Reduced 4Thgeneration Function Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Kiehl'S,North American Supply,89.08,28.19,4.4,60.89,68.35,Excellent,Medium
+PROD-000288,Mac Re-Engineered Systematic Implementation Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Mac,Multisource,73.46,31.67,3.6,41.79,56.89,Good,Low
+PROD-000289,Kiehl'S Object-Based Transitional Customer Loyalty Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Kiehl'S,Alibaba,66.11,29.08,2.9,37.03,56.01,Average,Low
+PROD-000290,Maybelline Compatible Optimizing Solution Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Maybelline,Pacific Trade,35.47,18.28,4.8,17.19,48.46,Excellent,Low
+PROD-000291,Kiehl'S Self-Enabling Dynamic Benchmark Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Kiehl'S,Domestic Producers,62.26,22.89,4.0,39.37,63.23,Good,Low
+PROD-000292,L'Oreal Total Zero Administration Framework Men'S Grooming,Beauty & Personal Care,Men'S Grooming,L'Oreal,Domestic Producers,67.22,20.59,2.9,46.63,69.37,Average,Low
+PROD-000293,Kiehl'S Synergized Radical Workforce Men'S Grooming,Beauty & Personal Care,Men'S Grooming,Kiehl'S,Multisource,110.24,51.23,2.6,59.01,53.53,Average,Medium
+PROD-000294,Revlon Decentralized Non-Volatile Toolset Oral Care,Beauty & Personal Care,Oral Care,Revlon,Euro Logistics,41.08,14.7,4.1,26.38,64.22,Excellent,Low
+PROD-000295,Kiehl'S Balanced Grid-Enabled Monitoring Oral Care,Beauty & Personal Care,Oral Care,Kiehl'S,Pacific Trade,12.76,4.16,4.4,8.6,67.4,Excellent,Low
+PROD-000296,Mac Optimized Stable Hub Oral Care,Beauty & Personal Care,Oral Care,Mac,Direct Import,35.0,16.21,3.1,18.79,53.69,Good,Low
+PROD-000297,Benefit Cloned Motivating Project Oral Care,Beauty & Personal Care,Oral Care,Benefit,Asian Manufacturing,23.92,8.63,4.2,15.29,63.92,Excellent,Low
+PROD-000298,Nars Mandatory 24/7 Instruction Set Oral Care,Beauty & Personal Care,Oral Care,Nars,Asian Manufacturing,129.8,65.88,3.5,63.92,49.24,Good,Medium
+PROD-000299,Kiehl'S Pre-Emptive Bi-Directional Internet Solution Deodorants,Beauty & Personal Care,Deodorants,Kiehl'S,Multisource,103.53,36.36,3.2,67.17,64.88,Good,Medium
+PROD-000300,L'Oreal Multi-Lateral Scalable Knowledgebase Deodorants,Beauty & Personal Care,Deodorants,L'Oreal,Pacific Trade,135.49,41.09,2.7,94.4,69.67,Average,Medium
+PROD-000301,Revlon Triple-Buffered Coherent Internet Solution Deodorants,Beauty & Personal Care,Deodorants,Revlon,Pacific Trade,39.1,11.99,2.9,27.11,69.34,Average,Low
+PROD-000302,Covergirl Enhanced Upward-Trending Model Deodorants,Beauty & Personal Care,Deodorants,Covergirl,Multisource,91.63,37.14,4.6,54.49,59.47,Excellent,Medium
+PROD-000303,Covergirl Streamlined Encompassing Pricing Structure Deodorants,Beauty & Personal Care,Deodorants,Covergirl,Domestic Producers,124.44,47.97,3.1,76.47,61.45,Good,Medium
+PROD-000304,Mac Public-Key Zero-Defect Matrices Deodorants,Beauty & Personal Care,Deodorants,Mac,Alibaba,63.16,28.27,3.1,34.89,55.24,Good,Low
+PROD-000305,Kiehl'S Persistent Intermediate Superstructure Deodorants,Beauty & Personal Care,Deodorants,Kiehl'S,Domestic Producers,97.38,39.18,3.8,58.2,59.77,Good,Medium
+PROD-000306,Benefit Reverse-Engineered Encompassing Graphic Interface Deodorants,Beauty & Personal Care,Deodorants,Benefit,Alibaba,71.06,26.55,4.8,44.51,62.64,Excellent,Low
+PROD-000307,Estée Lauder Fully-Configurable Background Focus Group Deodorants,Beauty & Personal Care,Deodorants,Estée Lauder,Pacific Trade,116.9,39.16,4.6,77.74,66.5,Excellent,Medium
+PROD-000308,Wayfair Organized Dynamic System Engine Cookware,Home & Kitchen,Cookware,Wayfair,Global Trade,202.66,116.25,4.4,86.41,42.64,Excellent,High
+PROD-000309,Ikea Persistent Non-Volatile Pricing Structure Cookware,Home & Kitchen,Cookware,Ikea,Euro Logistics,178.71,63.55,3.1,115.16,64.44,Good,High
+PROD-000310,Home Depot Synchronized Homogeneous Graphical User Interface Cookware,Home & Kitchen,Cookware,Home Depot,North American Supply,223.53,113.64,3.1,109.89,49.16,Good,High
+PROD-000311,Williams-Sonoma Assimilated Modular Graphic Interface Cookware,Home & Kitchen,Cookware,Williams-Sonoma,Multisource,68.65,38.36,4.9,30.29,44.12,Excellent,Low
+PROD-000312,Walmart Enterprise-Wide Mobile Data-Warehouse Cookware,Home & Kitchen,Cookware,Walmart,North American Supply,217.39,85.42,3.2,131.97,60.71,Good,High
+PROD-000313,Home Depot Multi-Channeled Empowering Graphical User Interface Cookware,Home & Kitchen,Cookware,Home Depot,Euro Logistics,22.08,12.77,2.8,9.31,42.16,Average,Low
+PROD-000314,Home Depot Grass-Roots Radical Standardization Cookware,Home & Kitchen,Cookware,Home Depot,Euro Logistics,236.96,99.17,3.8,137.79,58.15,Good,High
+PROD-000315,Wayfair Grass-Roots Next Generation Access Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Wayfair,Alibaba,265.8,148.17,3.0,117.63,44.26,Average,High
+PROD-000316,Ikea Programmable Content-Based Artificial Intelligence Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Ikea,North American Supply,19.23,7.39,4.7,11.84,61.57,Excellent,Low
+PROD-000317,Williams-Sonoma Front-Line Uniform Installation Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Williams-Sonoma,Amazon Supply,351.45,175.5,3.9,175.95,50.06,Good,Very High
+PROD-000318,Ikea Pre-Emptive Next Generation Task-Force Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Ikea,Alibaba,271.04,106.75,4.7,164.29,60.61,Excellent,High
+PROD-000319,Williams-Sonoma Front-Line System-Worthy Leverage Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Williams-Sonoma,Asian Manufacturing,176.23,78.56,3.7,97.67,55.42,Good,High
+PROD-000320,Ikea Stand-Alone Transitional Matrix Kitchen Utensils,Home & Kitchen,Kitchen Utensils,Ikea,Domestic Producers,33.08,12.95,4.3,20.13,60.85,Excellent,Low
+PROD-000321,Williams-Sonoma Organized 3Rdgeneration Array Bedding,Home & Kitchen,Bedding,Williams-Sonoma,Global Trade,46.88,23.48,3.1,23.4,49.91,Good,Low
+PROD-000322,Wayfair Implemented Directional Initiative Bedding,Home & Kitchen,Bedding,Wayfair,Amazon Supply,164.88,69.61,3.4,95.27,57.78,Good,Medium
+PROD-000323,Williams-Sonoma Team-Oriented Dynamic Function Bedding,Home & Kitchen,Bedding,Williams-Sonoma,Multisource,291.83,123.82,3.9,168.01,57.57,Good,High
+PROD-000324,Target Switchable Optimal Hub Bedding,Home & Kitchen,Bedding,Target,North American Supply,198.28,102.3,4.7,95.98,48.41,Excellent,High
+PROD-000325,Pottery Barn Phased Neutral Moderator Bedding,Home & Kitchen,Bedding,Pottery Barn,Domestic Producers,297.04,119.93,2.6,177.11,59.62,Average,High
+PROD-000326,Crate & Barrel Monitored Interactive Synergy Bedding,Home & Kitchen,Bedding,Crate & Barrel,Global Trade,115.97,57.84,2.6,58.13,50.13,Average,Medium
+PROD-000327,Target Reactive Full-Range Help-Desk Bedding,Home & Kitchen,Bedding,Target,Amazon Supply,206.1,102.89,3.3,103.21,50.08,Good,High
+PROD-000328,Ikea Total Logistical Flexibility Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Ikea,Euro Logistics,311.8,117.44,2.7,194.36,62.33,Average,Very High
+PROD-000329,Home Depot Integrated Eco-Centric Emulation Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Home Depot,Pacific Trade,295.35,139.96,4.2,155.39,52.61,Excellent,High
+PROD-000330,Williams-Sonoma Decentralized Uniform Core Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Williams-Sonoma,Amazon Supply,182.41,75.08,4.5,107.33,58.84,Excellent,High
+PROD-000331,Williams-Sonoma Intuitive Bottom-Line Synergy Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Williams-Sonoma,Amazon Supply,322.78,169.03,3.2,153.75,47.63,Good,Very High
+PROD-000332,Target Public-Key Well-Modulated Solution Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Target,Domestic Producers,242.24,106.64,2.7,135.6,55.98,Average,High
+PROD-000333,Crate & Barrel Enterprise-Wide Content-Based Data-Warehouse Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Crate & Barrel,Domestic Producers,368.17,141.45,4.8,226.72,61.58,Excellent,Very High
+PROD-000334,Ikea User-Centric Mission-Critical Focus Group Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Ikea,North American Supply,186.71,73.99,3.8,112.72,60.37,Good,High
+PROD-000335,Home Depot Up-Sized Optimizing Task-Force Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Home Depot,North American Supply,351.08,187.15,4.4,163.93,46.69,Excellent,Very High
+PROD-000336,Crate & Barrel Progressive Radical Forecast Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Crate & Barrel,Direct Import,268.63,140.51,4.5,128.12,47.69,Excellent,High
+PROD-000337,Walmart Cross-Platform Content-Based Frame Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Walmart,Alibaba,111.12,52.49,3.0,58.63,52.76,Average,Medium
+PROD-000338,Home Depot Focused High-Level Conglomeration Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Home Depot,Multisource,395.25,231.62,2.6,163.63,41.4,Average,Very High
+PROD-000339,Crate & Barrel Innovative 24/7 Strategy Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Crate & Barrel,Pacific Trade,286.65,166.63,2.9,120.02,41.87,Average,High
+PROD-000340,Walmart Public-Key Clear-Thinking Focus Group Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Walmart,Multisource,233.66,135.26,2.6,98.4,42.11,Average,High
+PROD-000341,Pottery Barn Balanced Actuating Neural-Net Bathroom Accessories,Home & Kitchen,Bathroom Accessories,Pottery Barn,Pacific Trade,283.51,120.3,4.7,163.21,57.57,Excellent,High
+PROD-000342,Target Implemented Tangible Capacity Furniture,Home & Kitchen,Furniture,Target,Domestic Producers,388.86,227.9,3.6,160.96,41.39,Good,Very High
+PROD-000343,Wayfair Sharable Web-Enabled Matrix Furniture,Home & Kitchen,Furniture,Wayfair,Multisource,346.89,194.65,3.3,152.24,43.89,Good,Very High
+PROD-000344,Home Depot Customer-Focused 24/7 Orchestration Furniture,Home & Kitchen,Furniture,Home Depot,Domestic Producers,334.13,120.04,3.9,214.09,64.07,Good,Very High
+PROD-000345,Target Horizontal Methodical Matrices Furniture,Home & Kitchen,Furniture,Target,North American Supply,103.55,39.36,2.7,64.19,61.99,Average,Medium
+PROD-000346,Williams-Sonoma Organic Global Contingency Furniture,Home & Kitchen,Furniture,Williams-Sonoma,Amazon Supply,283.07,123.13,4.2,159.94,56.5,Excellent,High
+PROD-000347,Target Business-Focused Eco-Centric Matrices Furniture,Home & Kitchen,Furniture,Target,Multisource,40.16,17.22,3.8,22.94,57.12,Good,Low
+PROD-000348,Williams-Sonoma Customizable Asymmetric Initiative Furniture,Home & Kitchen,Furniture,Williams-Sonoma,Multisource,319.43,137.26,4.0,182.17,57.03,Good,Very High
+PROD-000349,Home Depot Pre-Emptive Asynchronous Orchestration Decor,Home & Kitchen,Decor,Home Depot,North American Supply,356.1,179.46,3.1,176.64,49.6,Good,Very High
+PROD-000350,Ikea Self-Enabling Systemic Application Decor,Home & Kitchen,Decor,Ikea,Multisource,24.39,13.84,2.6,10.55,43.26,Average,Low
+PROD-000351,Walmart Distributed Coherent Workforce Decor,Home & Kitchen,Decor,Walmart,Global Trade,351.76,169.63,4.8,182.13,51.78,Excellent,Very High
+PROD-000352,Wayfair Re-Contextualized Exuding Artificial Intelligence Decor,Home & Kitchen,Decor,Wayfair,Asian Manufacturing,322.53,193.35,3.3,129.18,40.05,Good,Very High
+PROD-000353,Walmart Fully-Configurable Bottom-Line Open Architecture Decor,Home & Kitchen,Decor,Walmart,Euro Logistics,310.37,139.82,3.7,170.55,54.95,Good,High
+PROD-000354,Walmart Virtual Intangible Portal Decor,Home & Kitchen,Decor,Walmart,Euro Logistics,256.59,145.85,4.9,110.74,43.16,Excellent,High
+PROD-000355,Target Right-Sized Regional Definition Decor,Home & Kitchen,Decor,Target,Direct Import,310.79,141.24,3.5,169.55,54.55,Good,High
+PROD-000356,Ikea Vision-Oriented Multi-State Implementation Decor,Home & Kitchen,Decor,Ikea,Direct Import,298.97,122.49,2.8,176.48,59.03,Average,High
+PROD-000357,Williams-Sonoma Organized Leadingedge Framework Decor,Home & Kitchen,Decor,Williams-Sonoma,Amazon Supply,151.53,63.92,3.2,87.61,57.82,Good,Medium
+PROD-000358,Williams-Sonoma Reverse-Engineered Interactive Function Decor,Home & Kitchen,Decor,Williams-Sonoma,Pacific Trade,104.94,37.83,2.5,67.11,63.95,Average,Medium
+PROD-000359,Wayfair Re-Contextualized Regional Approach Decor,Home & Kitchen,Decor,Wayfair,Direct Import,395.27,180.62,3.4,214.65,54.3,Good,Very High
+PROD-000360,Williams-Sonoma Seamless User-Facing Attitude Decor,Home & Kitchen,Decor,Williams-Sonoma,Multisource,276.66,111.93,4.8,164.73,59.54,Excellent,High
+PROD-000361,Wayfair Virtual Demand-Driven Product Decor,Home & Kitchen,Decor,Wayfair,Multisource,317.74,118.31,3.5,199.43,62.77,Good,Very High
+PROD-000362,Ikea Extended Empowering Protocol Decor,Home & Kitchen,Decor,Ikea,Amazon Supply,353.46,207.19,3.6,146.27,41.38,Good,Very High
+PROD-000363,Williams-Sonoma Configurable Cohesive Encoding Storage,Home & Kitchen,Storage,Williams-Sonoma,Pacific Trade,251.16,98.39,4.9,152.77,60.83,Excellent,High
+PROD-000364,Williams-Sonoma Enhanced Neutral Archive Storage,Home & Kitchen,Storage,Williams-Sonoma,Euro Logistics,104.19,61.02,4.1,43.17,41.43,Excellent,Medium
+PROD-000365,Walmart Diverse 24Hour Installation Storage,Home & Kitchen,Storage,Walmart,Multisource,248.98,119.06,3.1,129.92,52.18,Good,High
+PROD-000366,Walmart Organized System-Worthy Policy Storage,Home & Kitchen,Storage,Walmart,Pacific Trade,82.96,33.61,2.9,49.35,59.49,Average,Medium
+PROD-000367,Walmart Phased Explicit Alliance Storage,Home & Kitchen,Storage,Walmart,North American Supply,315.14,137.88,2.6,177.26,56.25,Average,Very High
+PROD-000368,Wayfair Focused Executive Strategy Storage,Home & Kitchen,Storage,Wayfair,Euro Logistics,388.1,221.58,4.7,166.52,42.91,Excellent,Very High
+PROD-000369,Target Horizontal Tangible Knowledgebase Storage,Home & Kitchen,Storage,Target,Euro Logistics,398.04,156.62,3.5,241.42,60.65,Good,Very High
+PROD-000370,Williams-Sonoma Compatible Systemic Emulation Storage,Home & Kitchen,Storage,Williams-Sonoma,Amazon Supply,306.92,160.83,2.9,146.09,47.6,Average,High
+PROD-000371,Williams-Sonoma Fundamental Zero Tolerance Utilization Storage,Home & Kitchen,Storage,Williams-Sonoma,North American Supply,329.1,133.65,3.0,195.45,59.39,Average,Very High
+PROD-000372,Pottery Barn Self-Enabling Optimizing Protocol Lighting,Home & Kitchen,Lighting,Pottery Barn,Asian Manufacturing,221.74,110.48,3.9,111.26,50.18,Good,High
+PROD-000373,Williams-Sonoma Exclusive Interactive Budgetary Management Lighting,Home & Kitchen,Lighting,Williams-Sonoma,Multisource,50.22,28.59,3.1,21.63,43.07,Good,Low
+PROD-000374,Target Quality-Focused Directional Project Lighting,Home & Kitchen,Lighting,Target,Domestic Producers,64.86,37.11,4.8,27.75,42.78,Excellent,Low
+PROD-000375,Target Distributed Encompassing Circuit Lighting,Home & Kitchen,Lighting,Target,Amazon Supply,346.92,191.63,4.1,155.29,44.76,Excellent,Very High
+PROD-000376,Williams-Sonoma Compatible Analyzing Concept Lighting,Home & Kitchen,Lighting,Williams-Sonoma,Euro Logistics,227.08,84.42,3.5,142.66,62.82,Good,High
+PROD-000377,Williams-Sonoma Integrated Radical Synergy Lighting,Home & Kitchen,Lighting,Williams-Sonoma,North American Supply,158.49,65.76,4.2,92.73,58.51,Excellent,Medium
+PROD-000378,The North Face Re-Contextualized Executive Intranet Fitness Equipment,Sports & Outdoors,Fitness Equipment,The North Face,Alibaba,260.54,97.52,3.0,163.02,62.57,Average,High
+PROD-000379,Wilson Decentralized Maximized Solution Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wilson,Global Trade,349.55,130.33,4.5,219.22,62.71,Excellent,Very High
+PROD-000380,The North Face Innovative Tangible Initiative Fitness Equipment,Sports & Outdoors,Fitness Equipment,The North Face,Alibaba,260.19,128.58,3.9,131.61,50.58,Good,High
+PROD-000381,Nike Future-Proofed Motivating Moratorium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Nike,Direct Import,416.72,189.33,4.1,227.39,54.57,Excellent,Very High
+PROD-000382,The North Face Proactive Leadingedge Artificial Intelligence Fitness Equipment,Sports & Outdoors,Fitness Equipment,The North Face,Global Trade,293.72,126.33,4.6,167.39,56.99,Excellent,High
+PROD-000383,Puma Right-Sized 6Thgeneration Internet Solution Fitness Equipment,Sports & Outdoors,Fitness Equipment,Puma,Amazon Supply,403.78,221.08,4.5,182.7,45.25,Excellent,Very High
+PROD-000384,Nike User-Centric Fresh-Thinking Portal Fitness Equipment,Sports & Outdoors,Fitness Equipment,Nike,Domestic Producers,436.96,245.79,4.5,191.17,43.75,Excellent,Very High
+PROD-000385,Puma Function-Based 4Thgeneration Array Outdoor Gear,Sports & Outdoors,Outdoor Gear,Puma,Multisource,356.3,197.41,4.0,158.89,44.59,Good,Very High
+PROD-000386,Puma Focused Systematic Orchestration Outdoor Gear,Sports & Outdoors,Outdoor Gear,Puma,North American Supply,382.54,152.09,4.6,230.45,60.24,Excellent,Very High
+PROD-000387,Under Armour Reverse-Engineered 3Rdgeneration Task-Force Outdoor Gear,Sports & Outdoors,Outdoor Gear,Under Armour,Alibaba,439.13,157.55,4.5,281.58,64.12,Excellent,Very High
+PROD-000388,The North Face Synergistic Encompassing Orchestration Outdoor Gear,Sports & Outdoors,Outdoor Gear,The North Face,Multisource,86.21,38.84,4.3,47.37,54.95,Excellent,Medium
+PROD-000389,Adidas Balanced Well-Modulated System Engine Outdoor Gear,Sports & Outdoors,Outdoor Gear,Adidas,Amazon Supply,101.36,60.35,4.5,41.01,40.46,Excellent,Medium
+PROD-000390,Reebok Enhanced Methodical Model Outdoor Gear,Sports & Outdoors,Outdoor Gear,Reebok,Multisource,266.05,93.63,3.2,172.42,64.81,Good,High
+PROD-000391,Adidas Streamlined Leadingedge Focus Group Outdoor Gear,Sports & Outdoors,Outdoor Gear,Adidas,Domestic Producers,318.04,204.93,4.0,113.11,35.56,Good,Very High
+PROD-000392,Nike Enterprise-Wide Optimal Internet Solution Outdoor Gear,Sports & Outdoors,Outdoor Gear,Nike,Global Trade,148.41,80.17,3.8,68.24,45.98,Good,Medium
+PROD-000393,Under Armour Sharable Mobile Array Outdoor Gear,Sports & Outdoors,Outdoor Gear,Under Armour,Domestic Producers,395.43,151.09,4.3,244.34,61.79,Excellent,Very High
+PROD-000394,Adidas Phased Grid-Enabled Installation Camping,Sports & Outdoors,Camping,Adidas,Asian Manufacturing,282.1,180.23,3.3,101.87,36.11,Good,High
+PROD-000395,Adidas Managed Fresh-Thinking Secured Line Camping,Sports & Outdoors,Camping,Adidas,Direct Import,325.5,204.94,2.7,120.56,37.04,Average,Very High
+PROD-000396,Reebok Customer-Focused Cohesive Groupware Camping,Sports & Outdoors,Camping,Reebok,Domestic Producers,470.18,261.59,2.7,208.59,44.36,Average,Very High
+PROD-000397,Spalding Open-Source System-Worthy Methodology Camping,Sports & Outdoors,Camping,Spalding,Domestic Producers,167.96,94.47,2.7,73.49,43.75,Average,High
+PROD-000398,Columbia Horizontal Stable Initiative Camping,Sports & Outdoors,Camping,Columbia,Direct Import,301.53,136.82,4.0,164.71,54.62,Good,High
+PROD-000399,Reebok Virtual Neutral Alliance Camping,Sports & Outdoors,Camping,Reebok,Multisource,46.73,28.57,4.8,18.16,38.86,Excellent,Low
+PROD-000400,Puma Persevering Background Functionalities Camping,Sports & Outdoors,Camping,Puma,Euro Logistics,485.22,278.95,2.8,206.27,42.51,Average,Very High
+PROD-000401,Spalding Function-Based Fresh-Thinking Budgetary Management Camping,Sports & Outdoors,Camping,Spalding,Pacific Trade,385.18,137.65,2.6,247.53,64.26,Average,Very High
+PROD-000402,The North Face Visionary Impactful Migration Camping,Sports & Outdoors,Camping,The North Face,Domestic Producers,178.71,88.75,4.3,89.96,50.34,Excellent,High
+PROD-000403,Nike Adaptive Stable Moratorium Cycling,Sports & Outdoors,Cycling,Nike,Domestic Producers,349.57,169.11,3.2,180.46,51.62,Good,Very High
+PROD-000404,Adidas Persistent Incremental Application Cycling,Sports & Outdoors,Cycling,Adidas,Asian Manufacturing,498.63,238.27,3.6,260.36,52.22,Good,Very High
+PROD-000405,Columbia Ergonomic Multi-State Hierarchy Cycling,Sports & Outdoors,Cycling,Columbia,Euro Logistics,102.72,60.44,4.2,42.28,41.16,Excellent,Medium
+PROD-000406,Adidas Secured Web-Enabled Methodology Cycling,Sports & Outdoors,Cycling,Adidas,Global Trade,129.87,48.66,4.1,81.21,62.53,Excellent,Medium
+PROD-000407,Columbia Self-Enabling Leadingedge Task-Force Cycling,Sports & Outdoors,Cycling,Columbia,Global Trade,335.89,145.1,4.8,190.79,56.8,Excellent,Very High
+PROD-000408,Wilson Business-Focused Demand-Driven Flexibility Cycling,Sports & Outdoors,Cycling,Wilson,Amazon Supply,96.75,46.41,4.8,50.34,52.03,Excellent,Medium
+PROD-000409,Under Armour Reactive Clear-Thinking Forecast Cycling,Sports & Outdoors,Cycling,Under Armour,Alibaba,224.37,121.51,3.5,102.86,45.84,Good,High
+PROD-000410,Reebok Organic Tangible Matrix Cycling,Sports & Outdoors,Cycling,Reebok,Multisource,155.25,100.17,3.5,55.08,35.48,Good,Medium
+PROD-000411,Spalding Decentralized 4Thgeneration Product Cycling,Sports & Outdoors,Cycling,Spalding,Multisource,449.7,188.42,3.0,261.28,58.1,Average,Very High
+PROD-000412,The North Face Robust Disintermediate Strategy Cycling,Sports & Outdoors,Cycling,The North Face,Alibaba,39.79,21.71,3.4,18.08,45.44,Good,Low
+PROD-000413,Columbia Diverse Fault-Tolerant Neural-Net Cycling,Sports & Outdoors,Cycling,Columbia,Euro Logistics,435.57,214.28,4.8,221.29,50.8,Excellent,Very High
+PROD-000414,The North Face Advanced Neutral Installation Cycling,Sports & Outdoors,Cycling,The North Face,Multisource,113.12,69.07,4.4,44.05,38.94,Excellent,Medium
+PROD-000415,Adidas Cross-Group Directional Budgetary Management Cycling,Sports & Outdoors,Cycling,Adidas,Asian Manufacturing,391.19,236.06,4.3,155.13,39.66,Excellent,Very High
+PROD-000416,The North Face Persistent Bottom-Line Project Cycling,Sports & Outdoors,Cycling,The North Face,Domestic Producers,322.45,125.55,2.6,196.9,61.06,Average,Very High
+PROD-000417,Columbia Distributed Modular Structure Yoga,Sports & Outdoors,Yoga,Columbia,Pacific Trade,462.4,247.38,4.4,215.02,46.5,Excellent,Very High
+PROD-000418,Adidas Implemented Multimedia Strategy Yoga,Sports & Outdoors,Yoga,Adidas,Direct Import,253.72,97.73,2.8,155.99,61.48,Average,High
+PROD-000419,Columbia Future-Proofed Intangible Matrices Yoga,Sports & Outdoors,Yoga,Columbia,Global Trade,350.64,167.99,3.0,182.65,52.09,Average,Very High
+PROD-000420,The North Face Phased Dynamic Knowledgebase Yoga,Sports & Outdoors,Yoga,The North Face,Global Trade,258.51,95.46,3.9,163.05,63.07,Good,High
+PROD-000421,Adidas Reactive Client-Server Info-Mediaries Yoga,Sports & Outdoors,Yoga,Adidas,Alibaba,152.77,90.02,3.2,62.75,41.07,Good,Medium
+PROD-000422,Under Armour Ergonomic Radical Migration Yoga,Sports & Outdoors,Yoga,Under Armour,Euro Logistics,241.23,85.27,2.7,155.96,64.65,Average,High
+PROD-000423,Spalding User-Friendly Client-Driven Architecture Yoga,Sports & Outdoors,Yoga,Spalding,Domestic Producers,211.43,104.44,3.9,106.99,50.6,Good,High
+PROD-000424,The North Face Grass-Roots Zero Administration Utilization Yoga,Sports & Outdoors,Yoga,The North Face,Multisource,163.54,91.34,4.6,72.2,44.15,Excellent,Medium
+PROD-000425,Adidas Operative Global Toolset Yoga,Sports & Outdoors,Yoga,Adidas,Multisource,395.43,143.1,3.7,252.33,63.81,Good,Very High
+PROD-000426,The North Face Profit-Focused Encompassing Ability Yoga,Sports & Outdoors,Yoga,The North Face,Pacific Trade,74.84,31.63,4.9,43.21,57.74,Excellent,Medium
+PROD-000427,The North Face Horizontal Uniform Framework Yoga,Sports & Outdoors,Yoga,The North Face,Direct Import,92.69,46.31,4.0,46.38,50.04,Good,Medium
+PROD-000428,Wilson Reverse-Engineered Optimal Protocol Yoga,Sports & Outdoors,Yoga,Wilson,Multisource,358.67,185.75,2.5,172.92,48.21,Average,Very High
+PROD-000429,Puma Pre-Emptive Coherent Knowledge User Yoga,Sports & Outdoors,Yoga,Puma,Amazon Supply,180.07,90.99,2.7,89.08,49.47,Average,High
+PROD-000430,Spalding Public-Key Mission-Critical Hardware Yoga,Sports & Outdoors,Yoga,Spalding,Alibaba,191.55,68.95,2.7,122.6,64.0,Average,High
+PROD-000431,Reebok Managed Neutral Task-Force Yoga,Sports & Outdoors,Yoga,Reebok,North American Supply,213.54,83.24,3.9,130.3,61.02,Good,High
+PROD-000432,The North Face Quality-Focused Homogeneous Knowledgebase Running,Sports & Outdoors,Running,The North Face,Alibaba,352.5,208.04,3.0,144.46,40.98,Average,Very High
+PROD-000433,Adidas Inverse Content-Based Standardization Running,Sports & Outdoors,Running,Adidas,Asian Manufacturing,104.55,39.87,4.0,64.68,61.87,Good,Medium
+PROD-000434,Spalding Front-Line Object-Oriented Info-Mediaries Running,Sports & Outdoors,Running,Spalding,Domestic Producers,360.58,129.62,4.7,230.96,64.05,Excellent,Very High
+PROD-000435,Nike Focused Zero-Defect Installation Running,Sports & Outdoors,Running,Nike,Euro Logistics,49.69,25.46,4.2,24.23,48.76,Excellent,Low
+PROD-000436,Spalding Balanced Foreground Synergy Running,Sports & Outdoors,Running,Spalding,Alibaba,438.71,247.53,4.4,191.18,43.58,Excellent,Very High
+PROD-000437,Under Armour Phased Tertiary Workforce Running,Sports & Outdoors,Running,Under Armour,Multisource,186.24,110.71,2.7,75.53,40.56,Average,High
+PROD-000438,Wilson Multi-Tiered Human-Resource Protocol Running,Sports & Outdoors,Running,Wilson,Multisource,450.04,231.45,4.5,218.59,48.57,Excellent,Very High
+PROD-000439,The North Face Streamlined Coherent Methodology Running,Sports & Outdoors,Running,The North Face,Global Trade,239.85,130.26,3.8,109.59,45.69,Good,High
+PROD-000440,Spalding Automated Clear-Thinking Middleware Running,Sports & Outdoors,Running,Spalding,Pacific Trade,372.51,139.5,2.6,233.01,62.55,Average,Very High
+PROD-000441,Puma Reverse-Engineered Full-Range Attitude Running,Sports & Outdoors,Running,Puma,Amazon Supply,142.37,56.64,4.6,85.73,60.22,Excellent,Medium
+PROD-000442,Puma Organic Bandwidth-Monitored Moderator Running,Sports & Outdoors,Running,Puma,North American Supply,129.13,83.0,3.3,46.13,35.72,Good,Medium
+PROD-000443,Reebok Persevering 24/7 Success Running,Sports & Outdoors,Running,Reebok,North American Supply,111.51,65.45,4.1,46.06,41.31,Excellent,Medium
+PROD-000444,Patagonia Digitized Incremental Projection Running,Sports & Outdoors,Running,Patagonia,Amazon Supply,261.64,135.17,4.2,126.47,48.34,Excellent,High
+PROD-000445,Under Armour Distributed Asynchronous Leverage Running,Sports & Outdoors,Running,Under Armour,North American Supply,133.52,86.64,4.8,46.88,35.11,Excellent,Medium
+PROD-000446,Puma Fundamental Global Process Improvement Team Sports,Sports & Outdoors,Team Sports,Puma,Euro Logistics,333.9,136.85,4.1,197.05,59.01,Excellent,Very High
+PROD-000447,Reebok Team-Oriented Hybrid Projection Team Sports,Sports & Outdoors,Team Sports,Reebok,Direct Import,59.29,21.3,3.1,37.99,64.07,Good,Low
+PROD-000448,Nike Configurable Full-Range Service-Desk Team Sports,Sports & Outdoors,Team Sports,Nike,Multisource,244.75,149.42,4.2,95.33,38.95,Excellent,High
+PROD-000449,Adidas Public-Key Homogeneous Functionalities Team Sports,Sports & Outdoors,Team Sports,Adidas,North American Supply,377.79,180.45,3.3,197.34,52.24,Good,Very High
+PROD-000450,The North Face Self-Enabling Transitional Task-Force Team Sports,Sports & Outdoors,Team Sports,The North Face,North American Supply,201.24,130.06,2.6,71.18,35.37,Average,High
+PROD-000451,Adidas Pre-Emptive Needs-Based Alliance Team Sports,Sports & Outdoors,Team Sports,Adidas,Pacific Trade,436.84,228.73,3.6,208.11,47.64,Good,Very High
+PROD-000452,Wilson Secured Asymmetric Encoding Team Sports,Sports & Outdoors,Team Sports,Wilson,Alibaba,369.5,183.27,4.6,186.23,50.4,Excellent,Very High
+PROD-000453,Wilson Self-Enabling Systemic Forecast Team Sports,Sports & Outdoors,Team Sports,Wilson,Multisource,452.83,215.78,3.2,237.05,52.35,Good,Very High
+PROD-000454,Reebok Focused Value-Added Array Team Sports,Sports & Outdoors,Team Sports,Reebok,Alibaba,306.37,191.09,3.0,115.28,37.63,Average,High
+PROD-000455,Columbia Optional Bandwidth-Monitored Task-Force Team Sports,Sports & Outdoors,Team Sports,Columbia,Direct Import,320.91,173.12,4.3,147.79,46.05,Excellent,Very High
+PROD-000456,Patagonia Sharable Tertiary Attitude Team Sports,Sports & Outdoors,Team Sports,Patagonia,Domestic Producers,87.49,49.41,4.7,38.08,43.52,Excellent,Medium
+PROD-000457,Puma Organic Composite Solution Swimming,Sports & Outdoors,Swimming,Puma,Alibaba,110.35,46.49,4.8,63.86,57.87,Excellent,Medium
+PROD-000458,Columbia Innovative 4Thgeneration Analyzer Swimming,Sports & Outdoors,Swimming,Columbia,Euro Logistics,110.96,67.28,3.7,43.68,39.37,Good,Medium
+PROD-000459,Wilson Inverse Analyzing Frame Swimming,Sports & Outdoors,Swimming,Wilson,Global Trade,142.43,87.06,3.6,55.37,38.88,Good,Medium
+PROD-000460,The North Face Multi-Channeled Holistic Internet Solution Swimming,Sports & Outdoors,Swimming,The North Face,Multisource,269.54,123.39,3.9,146.15,54.22,Good,High
+PROD-000461,Puma Digitized Dynamic Moderator Swimming,Sports & Outdoors,Swimming,Puma,Amazon Supply,102.67,47.98,4.8,54.69,53.27,Excellent,Medium
+PROD-000462,Nike Open-Source Non-Volatile Software Swimming,Sports & Outdoors,Swimming,Nike,Domestic Producers,147.61,80.75,3.3,66.86,45.3,Good,Medium
+PROD-000463,Columbia Enterprise-Wide Composite Conglomeration Swimming,Sports & Outdoors,Swimming,Columbia,Global Trade,392.4,152.75,4.8,239.65,61.07,Excellent,Very High
+PROD-000464,The North Face Configurable Reciprocal Implementation Swimming,Sports & Outdoors,Swimming,The North Face,Direct Import,240.55,101.23,2.7,139.32,57.92,Average,High
+PROD-000465,Nike Secured Systemic Encoding Swimming,Sports & Outdoors,Swimming,Nike,Direct Import,105.64,53.45,3.3,52.19,49.4,Good,Medium
+PROD-000466,Reebok Proactive Optimal Circuit Swimming,Sports & Outdoors,Swimming,Reebok,Amazon Supply,418.72,200.68,3.1,218.04,52.07,Good,Very High
+PROD-000467,Columbia Focused Maximized Productivity Swimming,Sports & Outdoors,Swimming,Columbia,Amazon Supply,318.14,178.81,2.9,139.33,43.8,Average,Very High
+PROD-000468,Puma Function-Based Logistical Extranet Swimming,Sports & Outdoors,Swimming,Puma,Amazon Supply,104.62,37.77,4.3,66.85,63.9,Excellent,Medium
+PROD-000469,Simon & Schuster Synchronized 24/7 Website Fiction,Books & Media,Fiction,Simon & Schuster,Multisource,56.47,22.3,4.5,34.17,60.51,Excellent,Low
+PROD-000470,Hachette Persistent Executive Service-Desk Fiction,Books & Media,Fiction,Hachette,Direct Import,66.4,27.69,4.6,38.71,58.3,Excellent,Low
+PROD-000471,Hachette Quality-Focused Cohesive Archive Fiction,Books & Media,Fiction,Hachette,Pacific Trade,24.41,7.87,3.1,16.54,67.76,Good,Low
+PROD-000472,Pearson Organic Grid-Enabled Parallelism Fiction,Books & Media,Fiction,Pearson,Multisource,14.0,5.69,4.7,8.31,59.36,Excellent,Low
+PROD-000473,Random House Innovative Scalable Interface Fiction,Books & Media,Fiction,Random House,Multisource,12.75,4.14,3.6,8.61,67.53,Good,Low
+PROD-000474,Audible Team-Oriented Eco-Centric Knowledgebase Fiction,Books & Media,Fiction,Audible,Global Trade,75.37,27.38,3.7,47.99,63.67,Good,Medium
+PROD-000475,Mcgraw-Hill Innovative Dedicated Info-Mediaries Fiction,Books & Media,Fiction,Mcgraw-Hill,Asian Manufacturing,12.91,4.26,4.9,8.65,67.0,Excellent,Low
+PROD-000476,Audible Polarized Bi-Directional Encoding Fiction,Books & Media,Fiction,Audible,Global Trade,77.56,23.34,4.8,54.22,69.91,Excellent,Medium
+PROD-000477,Harpercollins Multi-Tiered Object-Oriented Help-Desk Fiction,Books & Media,Fiction,Harpercollins,Euro Logistics,54.74,25.92,3.6,28.82,52.65,Good,Low
+PROD-000478,Mcgraw-Hill Re-Engineered Explicit Standardization Fiction,Books & Media,Fiction,Mcgraw-Hill,North American Supply,46.09,18.33,4.1,27.76,60.23,Excellent,Low
+PROD-000479,Audible Implemented 3Rdgeneration Protocol Fiction,Books & Media,Fiction,Audible,Euro Logistics,19.78,6.05,3.2,13.73,69.41,Good,Low
+PROD-000480,Penguin Object-Based Even-Keeled Access Fiction,Books & Media,Fiction,Penguin,Euro Logistics,59.33,20.19,4.1,39.14,65.97,Excellent,Low
+PROD-000481,Hachette Re-Contextualized Systemic Time-Frame Fiction,Books & Media,Fiction,Hachette,Domestic Producers,77.89,24.83,4.1,53.06,68.12,Excellent,Medium
+PROD-000482,Pearson User-Friendly Actuating Portal Fiction,Books & Media,Fiction,Pearson,Global Trade,41.06,19.45,2.9,21.61,52.63,Average,Low
+PROD-000483,Pearson User-Friendly Modular Forecast Fiction,Books & Media,Fiction,Pearson,Direct Import,58.48,27.35,4.8,31.13,53.23,Excellent,Low
+PROD-000484,Scholastic Vision-Oriented Discrete Portal Non-Fiction,Books & Media,Non-Fiction,Scholastic,North American Supply,57.83,23.1,4.0,34.73,60.06,Good,Low
+PROD-000485,Audible Multi-Channeled Directional Productivity Non-Fiction,Books & Media,Non-Fiction,Audible,Direct Import,70.82,29.33,2.6,41.49,58.59,Average,Low
+PROD-000486,Mcgraw-Hill Ergonomic Regional Extranet Non-Fiction,Books & Media,Non-Fiction,Mcgraw-Hill,Multisource,75.17,32.92,4.1,42.25,56.21,Excellent,Medium
+PROD-000487,Scholastic Synergistic Web-Enabled Success Non-Fiction,Books & Media,Non-Fiction,Scholastic,Asian Manufacturing,25.1,10.84,3.4,14.26,56.81,Good,Low
+PROD-000488,Random House Visionary Stable Software Non-Fiction,Books & Media,Non-Fiction,Random House,Domestic Producers,55.59,17.86,4.1,37.73,67.87,Excellent,Low
+PROD-000489,Mcgraw-Hill Devolved Responsive Attitude Non-Fiction,Books & Media,Non-Fiction,Mcgraw-Hill,Asian Manufacturing,79.96,24.76,4.8,55.2,69.03,Excellent,Medium
+PROD-000490,Mcgraw-Hill Self-Enabling Secondary Analyzer Non-Fiction,Books & Media,Non-Fiction,Mcgraw-Hill,Alibaba,38.48,18.25,4.4,20.23,52.57,Excellent,Low
+PROD-000491,Scholastic Integrated Zero Tolerance Intranet Non-Fiction,Books & Media,Non-Fiction,Scholastic,Multisource,49.69,22.25,4.6,27.44,55.22,Excellent,Low
+PROD-000492,Mcgraw-Hill Automated Optimal Hierarchy Non-Fiction,Books & Media,Non-Fiction,Mcgraw-Hill,Pacific Trade,38.29,13.99,4.1,24.3,63.46,Excellent,Low
+PROD-000493,Simon & Schuster Upgradable Clear-Thinking Array Non-Fiction,Books & Media,Non-Fiction,Simon & Schuster,Multisource,66.55,30.11,4.4,36.44,54.76,Excellent,Low
+PROD-000494,Penguin Implemented Fresh-Thinking Synergy Non-Fiction,Books & Media,Non-Fiction,Penguin,Global Trade,40.49,18.77,2.8,21.72,53.64,Average,Low
+PROD-000495,Audible Operative Context-Sensitive Customer Loyalty Non-Fiction,Books & Media,Non-Fiction,Audible,Domestic Producers,48.11,14.49,3.3,33.62,69.88,Good,Low
+PROD-000496,Harpercollins De-Engineered Zero Tolerance Moratorium Academic,Books & Media,Academic,Harpercollins,Multisource,35.65,13.52,4.2,22.13,62.08,Excellent,Low
+PROD-000497,Harpercollins Multi-Lateral Multi-Tasking Middleware Academic,Books & Media,Academic,Harpercollins,Direct Import,37.2,14.5,3.1,22.7,61.02,Good,Low
+PROD-000498,Pearson Future-Proofed Composite Extranet Academic,Books & Media,Academic,Pearson,Alibaba,36.13,12.48,2.7,23.65,65.46,Average,Low
+PROD-000499,Simon & Schuster Polarized Explicit Synergy Academic,Books & Media,Academic,Simon & Schuster,Pacific Trade,52.24,22.65,4.0,29.59,56.64,Good,Low
+PROD-000500,Simon & Schuster Mandatory Bifurcated Local Area Network Academic,Books & Media,Academic,Simon & Schuster,Amazon Supply,42.44,15.96,4.6,26.48,62.39,Excellent,Low
+PROD-000501,Pearson Compatible Client-Server System Engine Academic,Books & Media,Academic,Pearson,Euro Logistics,46.34,18.34,2.6,28.0,60.42,Average,Low
+PROD-000502,Scholastic Face-To-Face Systematic Success Academic,Books & Media,Academic,Scholastic,Domestic Producers,33.89,12.74,3.5,21.15,62.41,Good,Low
+PROD-000503,Mcgraw-Hill Synergistic Hybrid Website Academic,Books & Media,Academic,Mcgraw-Hill,Amazon Supply,50.61,20.58,4.0,30.03,59.34,Good,Low
+PROD-000504,Scholastic Realigned High-Level Array Academic,Books & Media,Academic,Scholastic,Direct Import,63.54,29.39,4.2,34.15,53.75,Excellent,Low
+PROD-000505,Mcgraw-Hill Object-Based 24/7 Firmware Academic,Books & Media,Academic,Mcgraw-Hill,North American Supply,76.89,23.35,3.0,53.54,69.63,Average,Medium
+PROD-000506,Pearson Public-Key Bottom-Line Knowledgebase Children'S Books,Books & Media,Children'S Books,Pearson,Direct Import,10.53,4.52,4.7,6.01,57.08,Excellent,Low
+PROD-000507,Penguin Multi-Layered Systematic Synergy Children'S Books,Books & Media,Children'S Books,Penguin,Domestic Producers,27.04,13.13,2.6,13.91,51.44,Average,Low
+PROD-000508,Harpercollins Synergistic Empowering Paradigm Children'S Books,Books & Media,Children'S Books,Harpercollins,Asian Manufacturing,75.41,27.93,2.7,47.48,62.96,Average,Medium
+PROD-000509,Hachette Multi-Tiered Scalable Hub Children'S Books,Books & Media,Children'S Books,Hachette,Asian Manufacturing,44.01,15.46,3.2,28.55,64.87,Good,Low
+PROD-000510,Harpercollins Customer-Focused Systematic Emulation Children'S Books,Books & Media,Children'S Books,Harpercollins,Pacific Trade,31.51,14.51,3.8,17.0,53.95,Good,Low
+PROD-000511,Harpercollins Phased 4Thgeneration Process Improvement Children'S Books,Books & Media,Children'S Books,Harpercollins,Amazon Supply,31.79,13.42,4.2,18.37,57.79,Excellent,Low
+PROD-000512,Pearson Realigned Fresh-Thinking Pricing Structure Children'S Books,Books & Media,Children'S Books,Pearson,Global Trade,29.08,11.13,2.8,17.95,61.73,Average,Low
+PROD-000513,Hachette Face-To-Face Secondary Architecture Children'S Books,Books & Media,Children'S Books,Hachette,Alibaba,22.68,9.89,2.9,12.79,56.39,Average,Low
+PROD-000514,Penguin Sharable Maximized Standardization Children'S Books,Books & Media,Children'S Books,Penguin,North American Supply,46.76,20.66,2.8,26.1,55.82,Average,Low
+PROD-000515,Penguin Innovative Solution-Oriented Installation Children'S Books,Books & Media,Children'S Books,Penguin,Euro Logistics,49.71,17.46,4.8,32.25,64.88,Excellent,Low
+PROD-000516,Scholastic Customizable Client-Driven Analyzer Children'S Books,Books & Media,Children'S Books,Scholastic,North American Supply,43.85,20.22,3.8,23.63,53.89,Good,Low
+PROD-000517,Mcgraw-Hill Automated Exuding Methodology Children'S Books,Books & Media,Children'S Books,Mcgraw-Hill,Global Trade,13.04,5.56,4.8,7.48,57.36,Excellent,Low
+PROD-000518,Random House Customizable Bandwidth-Monitored Encoding Children'S Books,Books & Media,Children'S Books,Random House,Direct Import,52.11,24.17,4.6,27.94,53.62,Excellent,Low
+PROD-000519,Mcgraw-Hill Public-Key Client-Driven Info-Mediaries Children'S Books,Books & Media,Children'S Books,Mcgraw-Hill,Domestic Producers,25.97,8.89,4.0,17.08,65.77,Good,Low
+PROD-000520,Simon & Schuster Persevering Holistic Secured Line Children'S Books,Books & Media,Children'S Books,Simon & Schuster,Global Trade,38.77,18.14,4.7,20.63,53.21,Excellent,Low
+PROD-000521,Harpercollins User-Friendly Tangible Moratorium Comics,Books & Media,Comics,Harpercollins,Domestic Producers,34.74,12.07,4.4,22.67,65.26,Excellent,Low
+PROD-000522,Mcgraw-Hill Operative Optimizing Synergy Comics,Books & Media,Comics,Mcgraw-Hill,Domestic Producers,29.24,13.58,3.5,15.66,53.56,Good,Low
+PROD-000523,Random House Upgradable Coherent Instruction Set Comics,Books & Media,Comics,Random House,Multisource,56.73,18.1,4.0,38.63,68.09,Good,Low
+PROD-000524,Simon & Schuster Streamlined Bandwidth-Monitored Matrix Comics,Books & Media,Comics,Simon & Schuster,Asian Manufacturing,41.62,17.37,2.9,24.25,58.27,Average,Low
+PROD-000525,Pearson Seamless Incremental Focus Group Comics,Books & Media,Comics,Pearson,Euro Logistics,61.58,29.1,3.0,32.48,52.74,Average,Low
+PROD-000526,Pearson Automated System-Worthy Hub Comics,Books & Media,Comics,Pearson,Euro Logistics,16.7,5.09,4.0,11.61,69.52,Good,Low
+PROD-000527,Penguin Extended Leadingedge Intranet Comics,Books & Media,Comics,Penguin,Multisource,52.5,21.49,3.1,31.01,59.07,Good,Low
+PROD-000528,Audible Front-Line High-Level Attitude Audiobooks,Books & Media,Audiobooks,Audible,Global Trade,37.36,15.65,3.7,21.71,58.11,Good,Low
+PROD-000529,Harpercollins Synergized Holistic Moratorium Audiobooks,Books & Media,Audiobooks,Harpercollins,Multisource,79.14,25.9,4.2,53.24,67.27,Excellent,Medium
+PROD-000530,Scholastic Stand-Alone Heuristic Approach Audiobooks,Books & Media,Audiobooks,Scholastic,Domestic Producers,38.3,14.77,4.2,23.53,61.44,Excellent,Low
+PROD-000531,Hachette Object-Based Even-Keeled Core Audiobooks,Books & Media,Audiobooks,Hachette,Pacific Trade,58.47,29.13,2.8,29.34,50.18,Average,Low
+PROD-000532,Hachette Decentralized Logistical Array Audiobooks,Books & Media,Audiobooks,Hachette,Multisource,17.29,7.69,3.9,9.6,55.52,Good,Low
+PROD-000533,Hachette Switchable Didactic Project Audiobooks,Books & Media,Audiobooks,Hachette,Asian Manufacturing,29.19,9.22,2.7,19.97,68.41,Average,Low
+PROD-000534,Mcgraw-Hill Sharable Radical Adapter Audiobooks,Books & Media,Audiobooks,Mcgraw-Hill,Multisource,72.59,24.56,3.3,48.03,66.17,Good,Low
+PROD-000535,Harpercollins Business-Focused Zero Tolerance Groupware Audiobooks,Books & Media,Audiobooks,Harpercollins,Asian Manufacturing,25.87,9.6,2.7,16.27,62.89,Average,Low
+PROD-000536,Mcgraw-Hill Fully-Configurable Clear-Thinking Toolset Audiobooks,Books & Media,Audiobooks,Mcgraw-Hill,Domestic Producers,46.33,14.53,4.4,31.8,68.64,Excellent,Low
+PROD-000537,Hachette Re-Contextualized Demand-Driven Architecture Music,Books & Media,Music,Hachette,Euro Logistics,26.36,10.75,4.6,15.61,59.22,Excellent,Low
+PROD-000538,Penguin Virtual Neutral Database Music,Books & Media,Music,Penguin,Pacific Trade,55.56,22.59,3.3,32.97,59.34,Good,Low
+PROD-000539,Hachette Reverse-Engineered Didactic Emulation Music,Books & Media,Music,Hachette,Alibaba,33.31,14.45,4.9,18.86,56.62,Excellent,Low
+PROD-000540,Penguin Managed Zero-Defect Circuit Music,Books & Media,Music,Penguin,Domestic Producers,56.33,23.18,4.3,33.15,58.85,Excellent,Low
+PROD-000541,Pearson Right-Sized 24Hour Focus Group Music,Books & Media,Music,Pearson,Euro Logistics,42.56,13.28,3.8,29.28,68.8,Good,Low
+PROD-000542,Random House Digitized Clear-Thinking Moratorium Music,Books & Media,Music,Random House,Domestic Producers,77.03,25.81,4.2,51.22,66.49,Excellent,Medium
+PROD-000543,Scholastic Function-Based Context-Sensitive Budgetary Management Music,Books & Media,Music,Scholastic,Asian Manufacturing,24.07,9.8,2.7,14.27,59.29,Average,Low
+PROD-000544,Random House Switchable 4Thgeneration Capacity Music,Books & Media,Music,Random House,Domestic Producers,41.53,18.74,3.3,22.79,54.88,Good,Low
+PROD-000545,Hachette Advanced Heuristic Utilization Music,Books & Media,Music,Hachette,Global Trade,56.54,25.96,4.7,30.58,54.09,Excellent,Low
+PROD-000546,Harpercollins Front-Line Optimizing Graphic Interface Music,Books & Media,Music,Harpercollins,Alibaba,26.42,10.04,2.9,16.38,62.0,Average,Low
+PROD-000547,Pearson Ameliorated Context-Sensitive Firmware Movies,Books & Media,Movies,Pearson,Alibaba,79.47,38.57,3.8,40.9,51.47,Good,Medium
+PROD-000548,Scholastic Business-Focused Clear-Thinking Support Movies,Books & Media,Movies,Scholastic,Global Trade,68.94,27.86,4.0,41.08,59.59,Good,Low
+PROD-000549,Harpercollins Operative Multi-Tasking Budgetary Management Movies,Books & Media,Movies,Harpercollins,Euro Logistics,16.24,7.33,2.8,8.91,54.86,Average,Low
+PROD-000550,Scholastic User-Friendly Asymmetric Leverage Movies,Books & Media,Movies,Scholastic,Pacific Trade,67.82,30.95,4.2,36.87,54.36,Excellent,Low
+PROD-000551,Simon & Schuster Organized Zero-Defect Hierarchy Movies,Books & Media,Movies,Simon & Schuster,Asian Manufacturing,12.53,4.52,3.1,8.01,63.93,Good,Low
+PROD-000552,Simon & Schuster Profound Optimizing Benchmark Movies,Books & Media,Movies,Simon & Schuster,Direct Import,35.21,11.18,4.7,24.03,68.25,Excellent,Low
+PROD-000553,Scholastic Organized Motivating Definition Movies,Books & Media,Movies,Scholastic,Direct Import,48.77,17.61,3.5,31.16,63.89,Good,Low
+PROD-000554,Audible Seamless 6Thgeneration Superstructure Movies,Books & Media,Movies,Audible,Euro Logistics,41.3,17.35,3.7,23.95,57.99,Good,Low
+PROD-000555,Simon & Schuster Switchable Multi-State Framework Movies,Books & Media,Movies,Simon & Schuster,Euro Logistics,74.36,29.7,4.9,44.66,60.06,Excellent,Low
+PROD-000556,Melissa & Doug Persevering Secondary Algorithm Action Figures,Toys & Games,Action Figures,Melissa & Doug,North American Supply,172.51,60.75,4.7,111.76,64.78,Excellent,High
+PROD-000557,Hasbro Centralized Mission-Critical Initiative Action Figures,Toys & Games,Action Figures,Hasbro,Multisource,36.53,18.42,3.4,18.11,49.58,Good,Low
+PROD-000558,Hasbro Optimized Systemic Benchmark Action Figures,Toys & Games,Action Figures,Hasbro,Global Trade,177.43,91.73,4.4,85.7,48.3,Excellent,High
+PROD-000559,Fisher-Price Pre-Emptive Transitional Intranet Action Figures,Toys & Games,Action Figures,Fisher-Price,Pacific Trade,161.16,60.62,2.7,100.54,62.39,Average,Medium
+PROD-000560,Nerf Compatible Attitude-Oriented Graphic Interface Action Figures,Toys & Games,Action Figures,Nerf,North American Supply,89.55,30.75,4.2,58.8,65.66,Excellent,Medium
+PROD-000561,Hasbro Robust Client-Server Architecture Action Figures,Toys & Games,Action Figures,Hasbro,Pacific Trade,79.03,42.98,4.0,36.05,45.62,Good,Medium
+PROD-000562,Lego De-Engineered Even-Keeled Process Improvement Action Figures,Toys & Games,Action Figures,Lego,Euro Logistics,167.16,55.69,4.6,111.47,66.68,Excellent,High
+PROD-000563,Nerf Sharable Optimal Neural-Net Action Figures,Toys & Games,Action Figures,Nerf,Amazon Supply,185.71,78.33,4.0,107.38,57.82,Good,High
+PROD-000564,Bandai Universal Fresh-Thinking Implementation Action Figures,Toys & Games,Action Figures,Bandai,North American Supply,156.49,53.79,3.7,102.7,65.63,Good,Medium
+PROD-000565,Melissa & Doug Right-Sized Multi-Tasking Frame Action Figures,Toys & Games,Action Figures,Melissa & Doug,Domestic Producers,88.75,29.87,3.4,58.88,66.34,Good,Medium
+PROD-000566,Spin Master Persevering Motivating Portal Action Figures,Toys & Games,Action Figures,Spin Master,North American Supply,27.61,8.46,2.8,19.15,69.36,Average,Low
+PROD-000567,Hasbro Optional Bandwidth-Monitored Utilization Action Figures,Toys & Games,Action Figures,Hasbro,Asian Manufacturing,193.18,84.49,4.8,108.69,56.26,Excellent,High
+PROD-000568,Lego Total Bifurcated Projection Board Games,Toys & Games,Board Games,Lego,Domestic Producers,95.01,35.91,3.7,59.1,62.2,Good,Medium
+PROD-000569,Nerf Streamlined Zero Administration Neural-Net Board Games,Toys & Games,Board Games,Nerf,North American Supply,96.31,31.44,4.0,64.87,67.36,Good,Medium
+PROD-000570,Barbie Up-Sized Didactic Internet Solution Board Games,Toys & Games,Board Games,Barbie,Asian Manufacturing,54.97,25.01,4.1,29.96,54.5,Excellent,Low
+PROD-000571,Hasbro Organized Discrete Installation Board Games,Toys & Games,Board Games,Hasbro,Multisource,43.12,13.6,4.4,29.52,68.46,Excellent,Low
+PROD-000572,Melissa & Doug Mandatory Logistical Initiative Board Games,Toys & Games,Board Games,Melissa & Doug,Pacific Trade,100.06,31.47,4.9,68.59,68.55,Excellent,Medium
+PROD-000573,Hasbro Operative Upward-Trending Attitude Board Games,Toys & Games,Board Games,Hasbro,Global Trade,25.69,12.17,4.9,13.52,52.63,Excellent,Low
+PROD-000574,Lego Intuitive Interactive Functionalities Board Games,Toys & Games,Board Games,Lego,Alibaba,59.25,19.88,2.8,39.37,66.45,Average,Low
+PROD-000575,Melissa & Doug Synchronized Eco-Centric Hub Board Games,Toys & Games,Board Games,Melissa & Doug,Multisource,71.11,23.13,4.2,47.98,67.47,Excellent,Low
+PROD-000576,Hasbro Distributed Systemic Leverage Board Games,Toys & Games,Board Games,Hasbro,Amazon Supply,26.52,11.33,4.9,15.19,57.28,Excellent,Low
+PROD-000577,Fisher-Price Cloned Background Artificial Intelligence Board Games,Toys & Games,Board Games,Fisher-Price,Direct Import,165.58,75.14,3.2,90.44,54.62,Good,High
+PROD-000578,Mattel Cross-Group Intermediate Attitude Board Games,Toys & Games,Board Games,Mattel,Pacific Trade,130.42,56.31,3.5,74.11,56.82,Good,Medium
+PROD-000579,Bandai User-Friendly User-Facing Hub Board Games,Toys & Games,Board Games,Bandai,North American Supply,39.18,20.44,3.6,18.74,47.83,Good,Low
+PROD-000580,Nerf De-Engineered Next Generation Approach Educational Toys,Toys & Games,Educational Toys,Nerf,Pacific Trade,51.01,19.99,3.5,31.02,60.81,Good,Low
+PROD-000581,Barbie Reverse-Engineered Next Generation Open Architecture Educational Toys,Toys & Games,Educational Toys,Barbie,Global Trade,168.09,81.26,4.3,86.83,51.66,Excellent,High
+PROD-000582,Spin Master Managed Static Capability Educational Toys,Toys & Games,Educational Toys,Spin Master,Amazon Supply,17.04,6.88,3.7,10.16,59.62,Good,Low
+PROD-000583,Bandai Open-Source Heuristic Secured Line Educational Toys,Toys & Games,Educational Toys,Bandai,Domestic Producers,18.55,6.77,4.3,11.78,63.5,Excellent,Low
+PROD-000584,Spin Master Versatile Interactive Success Educational Toys,Toys & Games,Educational Toys,Spin Master,Euro Logistics,40.37,17.51,3.0,22.86,56.63,Average,Low
+PROD-000585,Lego Business-Focused Executive Policy Educational Toys,Toys & Games,Educational Toys,Lego,North American Supply,17.24,6.21,4.8,11.03,63.98,Excellent,Low
+PROD-000586,Fisher-Price Integrated Heuristic Benchmark Educational Toys,Toys & Games,Educational Toys,Fisher-Price,Multisource,163.28,88.15,3.7,75.13,46.01,Good,Medium
+PROD-000587,Bandai Re-Engineered Motivating Data-Warehouse Educational Toys,Toys & Games,Educational Toys,Bandai,Asian Manufacturing,35.3,15.43,3.6,19.87,56.29,Good,Low
+PROD-000588,Ravensburger Distributed Stable Matrices Educational Toys,Toys & Games,Educational Toys,Ravensburger,Amazon Supply,171.21,55.56,3.7,115.65,67.55,Good,High
+PROD-000589,Ravensburger Face-To-Face Bi-Directional Hardware Educational Toys,Toys & Games,Educational Toys,Ravensburger,Direct Import,42.76,16.3,4.3,26.46,61.88,Excellent,Low
+PROD-000590,Ravensburger Realigned Holistic Budgetary Management Educational Toys,Toys & Games,Educational Toys,Ravensburger,Alibaba,103.06,40.6,3.4,62.46,60.61,Good,Medium
+PROD-000591,Spin Master Virtual Even-Keeled Orchestration Educational Toys,Toys & Games,Educational Toys,Spin Master,Euro Logistics,100.0,49.63,4.6,50.37,50.37,Excellent,Medium
+PROD-000592,Fisher-Price Face-To-Face Interactive Open Architecture Educational Toys,Toys & Games,Educational Toys,Fisher-Price,Amazon Supply,191.74,95.24,3.3,96.5,50.33,Good,High
+PROD-000593,Bandai Visionary Regional Pricing Structure Educational Toys,Toys & Games,Educational Toys,Bandai,Amazon Supply,142.3,58.26,3.1,84.04,59.06,Good,Medium
+PROD-000594,Fisher-Price Synergistic Secondary Open Architecture Educational Toys,Toys & Games,Educational Toys,Fisher-Price,Domestic Producers,170.56,52.81,4.7,117.75,69.04,Excellent,High
+PROD-000595,Lego Assimilated Real-Time Protocol Dolls,Toys & Games,Dolls,Lego,North American Supply,100.37,46.1,4.1,54.27,54.07,Excellent,Medium
+PROD-000596,Fisher-Price Team-Oriented Encompassing Algorithm Dolls,Toys & Games,Dolls,Fisher-Price,Global Trade,180.6,82.93,4.0,97.67,54.08,Good,High
+PROD-000597,Barbie Enterprise-Wide Encompassing Standardization Dolls,Toys & Games,Dolls,Barbie,Asian Manufacturing,27.33,11.74,2.9,15.59,57.04,Average,Low
+PROD-000598,Hasbro Virtual Fault-Tolerant Graphical User Interface Dolls,Toys & Games,Dolls,Hasbro,Direct Import,151.43,64.82,4.1,86.61,57.19,Excellent,Medium
+PROD-000599,Fisher-Price Monitored 24Hour Contingency Dolls,Toys & Games,Dolls,Fisher-Price,Domestic Producers,22.71,7.29,4.2,15.42,67.9,Excellent,Low
+PROD-000600,Fisher-Price Digitized Non-Volatile Protocol Remote Control,Toys & Games,Remote Control,Fisher-Price,North American Supply,28.34,9.01,2.5,19.33,68.21,Average,Low
+PROD-000601,Mattel Open-Architected Asymmetric Circuit Remote Control,Toys & Games,Remote Control,Mattel,Domestic Producers,191.95,92.98,3.3,98.97,51.56,Good,High
+PROD-000602,Lego User-Centric Scalable Algorithm Remote Control,Toys & Games,Remote Control,Lego,Euro Logistics,69.86,27.07,4.4,42.79,61.25,Excellent,Low
+PROD-000603,Mattel Cross-Group Value-Added Moderator Remote Control,Toys & Games,Remote Control,Mattel,Global Trade,137.35,47.56,2.9,89.79,65.37,Average,Medium
+PROD-000604,Nerf Extended Homogeneous Instruction Set Remote Control,Toys & Games,Remote Control,Nerf,Euro Logistics,33.2,15.44,4.3,17.76,53.49,Excellent,Low
+PROD-000605,Mattel Persevering Global Complexity Remote Control,Toys & Games,Remote Control,Mattel,Amazon Supply,64.03,19.54,2.7,44.49,69.48,Average,Low
+PROD-000606,Lego Multi-Layered Fault-Tolerant Success Remote Control,Toys & Games,Remote Control,Lego,Global Trade,194.05,72.55,4.3,121.5,62.61,Excellent,High
+PROD-000607,Lego Inverse Zero-Defect Open System Remote Control,Toys & Games,Remote Control,Lego,North American Supply,130.56,51.63,3.0,78.93,60.45,Average,Medium
+PROD-000608,Barbie Right-Sized Attitude-Oriented Application Puzzles,Toys & Games,Puzzles,Barbie,North American Supply,37.46,17.0,4.4,20.46,54.62,Excellent,Low
+PROD-000609,Lego Distributed Cohesive System Engine Puzzles,Toys & Games,Puzzles,Lego,Global Trade,134.12,58.02,2.6,76.1,56.74,Average,Medium
+PROD-000610,Melissa & Doug Secured Actuating Service-Desk Puzzles,Toys & Games,Puzzles,Melissa & Doug,Alibaba,194.17,97.02,3.2,97.15,50.03,Good,High
+PROD-000611,Mattel Configurable Encompassing Intranet Puzzles,Toys & Games,Puzzles,Mattel,Pacific Trade,196.29,88.42,3.9,107.87,54.95,Good,High
+PROD-000612,Nerf Switchable Interactive Matrix Puzzles,Toys & Games,Puzzles,Nerf,Amazon Supply,153.39,77.15,4.1,76.24,49.7,Excellent,Medium
+PROD-000613,Hasbro Robust Leadingedge Instruction Set Puzzles,Toys & Games,Puzzles,Hasbro,Multisource,38.7,14.88,4.7,23.82,61.55,Excellent,Low
+PROD-000614,Bandai Future-Proofed Didactic System Engine Puzzles,Toys & Games,Puzzles,Bandai,North American Supply,56.55,22.23,3.5,34.32,60.69,Good,Low
+PROD-000615,Nerf Profound Bifurcated Hardware Puzzles,Toys & Games,Puzzles,Nerf,Domestic Producers,96.29,43.64,4.8,52.65,54.68,Excellent,Medium
+PROD-000616,Bandai Optional Bifurcated Forecast Arts & Crafts,Toys & Games,Arts & Crafts,Bandai,Direct Import,59.53,19.67,3.0,39.86,66.96,Average,Low
+PROD-000617,Fisher-Price Synergistic Systematic Parallelism Arts & Crafts,Toys & Games,Arts & Crafts,Fisher-Price,Domestic Producers,179.08,82.64,3.2,96.44,53.85,Good,High
+PROD-000618,Lego Pre-Emptive Multi-Tasking Secured Line Arts & Crafts,Toys & Games,Arts & Crafts,Lego,Direct Import,165.95,85.52,4.5,80.43,48.47,Excellent,High
+PROD-000619,Melissa & Doug Integrated 6Thgeneration Definition Arts & Crafts,Toys & Games,Arts & Crafts,Melissa & Doug,Multisource,185.0,67.17,4.3,117.83,63.69,Excellent,High
+PROD-000620,Lego Object-Based Radical Approach Arts & Crafts,Toys & Games,Arts & Crafts,Lego,Alibaba,100.2,51.15,4.2,49.05,48.95,Excellent,Medium
+PROD-000621,Bandai Adaptive Demand-Driven Framework Arts & Crafts,Toys & Games,Arts & Crafts,Bandai,Pacific Trade,158.64,73.62,2.9,85.02,53.59,Average,Medium
+PROD-000622,Hasbro Extended Zero Administration Challenge Outdoor Toys,Toys & Games,Outdoor Toys,Hasbro,Multisource,115.83,63.26,4.7,52.57,45.39,Excellent,Medium
+PROD-000623,Bandai Virtual Eco-Centric Frame Outdoor Toys,Toys & Games,Outdoor Toys,Bandai,Amazon Supply,22.99,7.84,2.8,15.15,65.9,Average,Low
+PROD-000624,Hasbro Inverse Bottom-Line Ability Outdoor Toys,Toys & Games,Outdoor Toys,Hasbro,North American Supply,149.31,75.32,3.0,73.99,49.55,Average,Medium
+PROD-000625,Barbie Proactive Value-Added Internet Solution Outdoor Toys,Toys & Games,Outdoor Toys,Barbie,Global Trade,108.58,55.39,4.3,53.19,48.99,Excellent,Medium
+PROD-000626,Hasbro Enhanced Clear-Thinking Implementation Outdoor Toys,Toys & Games,Outdoor Toys,Hasbro,Global Trade,115.31,51.61,3.7,63.7,55.24,Good,Medium
+PROD-000627,Melissa & Doug Public-Key Tertiary Emulation Outdoor Toys,Toys & Games,Outdoor Toys,Melissa & Doug,Domestic Producers,70.05,30.91,4.2,39.14,55.87,Excellent,Low
+PROD-000628,Barbie Profit-Focused Next Generation Secured Line Outdoor Toys,Toys & Games,Outdoor Toys,Barbie,Direct Import,176.56,81.05,4.3,95.51,54.09,Excellent,High
+PROD-000629,Ravensburger Multi-Channeled Asynchronous Infrastructure Outdoor Toys,Toys & Games,Outdoor Toys,Ravensburger,Pacific Trade,44.61,18.53,2.5,26.08,58.46,Average,Low
+PROD-000630,Barbie User-Centric 6Thgeneration Internet Solution Outdoor Toys,Toys & Games,Outdoor Toys,Barbie,Direct Import,60.64,29.21,4.9,31.43,51.83,Excellent,Low
+PROD-000631,Melissa & Doug Ameliorated Logistical Archive Outdoor Toys,Toys & Games,Outdoor Toys,Melissa & Doug,Multisource,33.35,13.35,4.4,20.0,59.97,Excellent,Low
+PROD-000632,Nerf Intuitive Object-Oriented Interface Outdoor Toys,Toys & Games,Outdoor Toys,Nerf,Domestic Producers,52.75,23.15,4.3,29.6,56.11,Excellent,Low
+PROD-000633,Bridgestone Re-Engineered Impactful Strategy Car Accessories,Automotive,Car Accessories,Bridgestone,Amazon Supply,377.27,172.19,3.4,205.08,54.36,Good,Very High
+PROD-000634,Thule Sharable Intangible Frame Car Accessories,Automotive,Car Accessories,Thule,Asian Manufacturing,474.6,268.75,2.5,205.85,43.37,Average,Very High
+PROD-000635,Castrol Customizable Impactful Adapter Car Accessories,Automotive,Car Accessories,Castrol,Multisource,461.37,189.44,4.3,271.93,58.94,Excellent,Very High
+PROD-000636,Bosch Inverse Composite Website Car Accessories,Automotive,Car Accessories,Bosch,Pacific Trade,137.44,94.48,3.4,42.96,31.26,Good,Medium
+PROD-000637,Mobil Secured Logistical Solution Car Accessories,Automotive,Car Accessories,Mobil,Multisource,209.62,93.21,3.2,116.41,55.53,Good,High
+PROD-000638,Castrol Multi-Lateral Background Internet Solution Car Accessories,Automotive,Car Accessories,Castrol,Pacific Trade,528.46,369.34,3.4,159.12,30.11,Good,Very High
+PROD-000639,Bridgestone Customer-Focused Dynamic Internet Solution Car Accessories,Automotive,Car Accessories,Bridgestone,North American Supply,280.19,172.77,4.6,107.42,38.34,Excellent,High
+PROD-000640,Castrol Reverse-Engineered Impactful Moderator Car Accessories,Automotive,Car Accessories,Castrol,North American Supply,363.97,188.34,3.5,175.63,48.25,Good,Very High
+PROD-000641,Continental Configurable Hybrid Function Car Accessories,Automotive,Car Accessories,Continental,North American Supply,423.46,169.79,4.0,253.67,59.9,Good,Very High
+PROD-000642,Goodyear User-Friendly Global Definition Car Accessories,Automotive,Car Accessories,Goodyear,Multisource,226.19,144.37,2.7,81.82,36.17,Average,High
+PROD-000643,Bridgestone Managed Zero-Defect Concept Car Accessories,Automotive,Car Accessories,Bridgestone,Amazon Supply,361.16,196.58,4.0,164.58,45.57,Good,Very High
+PROD-000644,Bridgestone Compatible Multimedia Productivity Maintenance,Automotive,Maintenance,Bridgestone,Pacific Trade,57.62,33.07,3.8,24.55,42.61,Good,Low
+PROD-000645,Bridgestone Customizable Multi-Tasking Migration Maintenance,Automotive,Maintenance,Bridgestone,North American Supply,345.18,200.57,4.1,144.61,41.89,Excellent,Very High
+PROD-000646,Goodyear Ergonomic Zero-Defect Hardware Maintenance,Automotive,Maintenance,Goodyear,Direct Import,486.89,234.17,4.5,252.72,51.9,Excellent,Very High
+PROD-000647,Michelin Monitored Upward-Trending Project Maintenance,Automotive,Maintenance,Michelin,Domestic Producers,308.99,130.74,2.6,178.25,57.69,Average,High
+PROD-000648,Thule Digitized Disintermediate Benchmark Maintenance,Automotive,Maintenance,Thule,Direct Import,213.86,135.9,4.2,77.96,36.45,Excellent,High
+PROD-000649,Mobil Digitized Eco-Centric Customer Loyalty Maintenance,Automotive,Maintenance,Mobil,Amazon Supply,477.4,265.04,3.6,212.36,44.48,Good,Very High
+PROD-000650,Mobil Enhanced Real-Time Collaboration Tires,Automotive,Tires,Mobil,Pacific Trade,105.52,52.6,3.5,52.92,50.15,Good,Medium
+PROD-000651,Michelin Virtual Well-Modulated Projection Tires,Automotive,Tires,Michelin,Euro Logistics,71.39,33.28,3.9,38.11,53.38,Good,Low
+PROD-000652,Yakima Compatible Context-Sensitive Throughput Tires,Automotive,Tires,Yakima,Euro Logistics,446.68,312.45,4.7,134.23,30.05,Excellent,Very High
+PROD-000653,Mobil Self-Enabling Modular Local Area Network Tires,Automotive,Tires,Mobil,Amazon Supply,392.69,206.7,4.0,185.99,47.36,Good,Very High
+PROD-000654,Yakima Versatile Non-Volatile Task-Force Tires,Automotive,Tires,Yakima,Direct Import,475.68,207.16,3.5,268.52,56.45,Good,Very High
+PROD-000655,Bosch Reduced Local Software Tires,Automotive,Tires,Bosch,Global Trade,507.09,261.23,3.9,245.86,48.48,Good,Very High
+PROD-000656,Valvoline Re-Contextualized Secondary Productivity Tires,Automotive,Tires,Valvoline,Asian Manufacturing,360.91,164.34,3.4,196.57,54.47,Good,Very High
+PROD-000657,Bridgestone Secured Fresh-Thinking Product Tires,Automotive,Tires,Bridgestone,North American Supply,214.02,87.29,2.6,126.73,59.21,Average,High
+PROD-000658,Thule Intuitive Coherent Intranet Tires,Automotive,Tires,Thule,North American Supply,502.38,242.11,3.7,260.27,51.81,Good,Very High
+PROD-000659,Bridgestone Cloned Methodical Intranet Tires,Automotive,Tires,Bridgestone,Euro Logistics,193.26,131.84,3.1,61.42,31.78,Good,High
+PROD-000660,Yakima Self-Enabling Exuding Utilization Tires,Automotive,Tires,Yakima,Asian Manufacturing,269.2,178.16,4.5,91.04,33.82,Excellent,High
+PROD-000661,Thule Grass-Roots Optimizing Approach Batteries,Automotive,Batteries,Thule,Domestic Producers,127.94,81.98,3.6,45.96,35.92,Good,Medium
+PROD-000662,Yakima Multi-Channeled Motivating Archive Batteries,Automotive,Batteries,Yakima,Direct Import,300.12,132.07,2.7,168.05,55.99,Average,High
+PROD-000663,Michelin Integrated Maximized Knowledge User Batteries,Automotive,Batteries,Michelin,Domestic Producers,442.2,242.74,3.5,199.46,45.11,Good,Very High
+PROD-000664,Continental Automated Analyzing Hub Batteries,Automotive,Batteries,Continental,Alibaba,443.11,279.01,2.9,164.1,37.03,Average,Very High
+PROD-000665,Goodyear Horizontal Asynchronous Project Batteries,Automotive,Batteries,Goodyear,Euro Logistics,373.93,164.76,4.3,209.17,55.94,Excellent,Very High
+PROD-000666,Continental Cross-Group Reciprocal Policy Batteries,Automotive,Batteries,Continental,North American Supply,401.03,275.5,2.7,125.53,31.3,Average,Very High
+PROD-000667,Mobil Profit-Focused Human-Resource Local Area Network Batteries,Automotive,Batteries,Mobil,Alibaba,53.09,25.73,3.1,27.36,51.54,Good,Low
+PROD-000668,Goodyear Reduced Neutral Utilization Batteries,Automotive,Batteries,Goodyear,Global Trade,163.25,109.68,3.1,53.57,32.81,Good,Medium
+PROD-000669,Yakima User-Centric 6Thgeneration Knowledge User Batteries,Automotive,Batteries,Yakima,Pacific Trade,177.73,111.58,3.6,66.15,37.22,Good,High
+PROD-000670,Bridgestone Re-Engineered Solution-Oriented Core Batteries,Automotive,Batteries,Bridgestone,Global Trade,470.49,197.42,3.7,273.07,58.04,Good,Very High
+PROD-000671,Michelin Inverse Real-Time Leverage Batteries,Automotive,Batteries,Michelin,Amazon Supply,39.5,16.54,4.7,22.96,58.13,Excellent,Low
+PROD-000672,Bosch Profit-Focused Coherent Approach Car Electronics,Automotive,Car Electronics,Bosch,Pacific Trade,100.76,56.4,3.5,44.36,44.03,Good,Medium
+PROD-000673,Castrol Organized Bi-Directional Workforce Car Electronics,Automotive,Car Electronics,Castrol,Multisource,221.46,148.37,2.6,73.09,33.0,Average,High
+PROD-000674,Mobil Mandatory Transitional Artificial Intelligence Car Electronics,Automotive,Car Electronics,Mobil,Global Trade,405.0,279.05,3.8,125.95,31.1,Good,Very High
+PROD-000675,Mobil Profit-Focused Secondary Conglomeration Car Electronics,Automotive,Car Electronics,Mobil,Euro Logistics,563.36,234.18,3.5,329.18,58.43,Good,Very High
+PROD-000676,Mobil Balanced Dynamic Strategy Car Electronics,Automotive,Car Electronics,Mobil,Domestic Producers,170.89,105.82,4.9,65.07,38.08,Excellent,High
+PROD-000677,Yakima Organic Leadingedge Moderator Car Electronics,Automotive,Car Electronics,Yakima,Amazon Supply,168.79,100.64,3.0,68.15,40.38,Average,High
+PROD-000678,Michelin Programmable Reciprocal Complexity Car Electronics,Automotive,Car Electronics,Michelin,Global Trade,347.89,187.58,4.8,160.31,46.08,Excellent,Very High
+PROD-000679,Goodyear Multi-Lateral Holistic Forecast Car Electronics,Automotive,Car Electronics,Goodyear,Domestic Producers,372.95,188.28,2.8,184.67,49.52,Average,Very High
+PROD-000680,Michelin Networked Incremental Time-Frame Car Electronics,Automotive,Car Electronics,Michelin,Amazon Supply,107.72,50.37,3.1,57.35,53.24,Good,Medium
+PROD-000681,Continental Mandatory Systematic Policy Car Electronics,Automotive,Car Electronics,Continental,Multisource,513.36,291.78,3.8,221.58,43.16,Good,Very High
+PROD-000682,Castrol Business-Focused Responsive Project Car Electronics,Automotive,Car Electronics,Castrol,Multisource,86.57,56.97,4.2,29.6,34.19,Excellent,Medium
+PROD-000683,Yakima Managed Asymmetric Groupware Car Electronics,Automotive,Car Electronics,Yakima,Multisource,59.25,36.28,3.8,22.97,38.77,Good,Low
+PROD-000684,Castrol Cross-Platform Next Generation Service-Desk Car Electronics,Automotive,Car Electronics,Castrol,Euro Logistics,67.4,36.23,3.7,31.17,46.25,Good,Low
+PROD-000685,Thule Networked Executive Extranet Motorcycle Gear,Automotive,Motorcycle Gear,Thule,Amazon Supply,116.15,79.41,4.5,36.74,31.63,Excellent,Medium
+PROD-000686,Mobil Up-Sized Stable Portal Motorcycle Gear,Automotive,Motorcycle Gear,Mobil,Pacific Trade,408.03,219.8,3.5,188.23,46.13,Good,Very High
+PROD-000687,Bridgestone Distributed Full-Range Artificial Intelligence Motorcycle Gear,Automotive,Motorcycle Gear,Bridgestone,Euro Logistics,397.56,224.08,2.6,173.48,43.64,Average,Very High
+PROD-000688,Yakima Reduced Stable Circuit Motorcycle Gear,Automotive,Motorcycle Gear,Yakima,Multisource,317.25,203.65,3.6,113.6,35.81,Good,Very High
+PROD-000689,Thule Monitored Fault-Tolerant Projection Motorcycle Gear,Automotive,Motorcycle Gear,Thule,Euro Logistics,50.13,31.88,3.0,18.25,36.41,Average,Low
+PROD-000690,Michelin Total Stable Infrastructure Motorcycle Gear,Automotive,Motorcycle Gear,Michelin,Asian Manufacturing,170.0,76.4,3.3,93.6,55.06,Good,High
+PROD-000691,Castrol De-Engineered Radical Strategy Motorcycle Gear,Automotive,Motorcycle Gear,Castrol,Domestic Producers,458.92,255.07,3.0,203.85,44.42,Average,Very High
+PROD-000692,Michelin Configurable Fault-Tolerant Open Architecture Motorcycle Gear,Automotive,Motorcycle Gear,Michelin,Alibaba,529.14,351.28,4.6,177.86,33.61,Excellent,Very High
+PROD-000693,Continental Multi-Tiered Secondary Utilization Tools,Automotive,Tools,Continental,Asian Manufacturing,158.5,84.86,4.9,73.64,46.46,Excellent,Medium
+PROD-000694,Goodyear Managed Clear-Thinking Secured Line Tools,Automotive,Tools,Goodyear,Euro Logistics,467.77,190.92,2.7,276.85,59.19,Average,Very High
+PROD-000695,Continental Total User-Facing Software Tools,Automotive,Tools,Continental,North American Supply,289.08,194.48,3.8,94.6,32.72,Good,High
+PROD-000696,Bridgestone Progressive Background Project Tools,Automotive,Tools,Bridgestone,Alibaba,308.73,133.26,4.1,175.47,56.84,Excellent,High
+PROD-000697,Valvoline Synchronized Interactive Migration Tools,Automotive,Tools,Valvoline,Pacific Trade,496.82,255.43,4.4,241.39,48.59,Excellent,Very High
+PROD-000698,Goodyear Multi-Lateral 3Rdgeneration Hierarchy Tools,Automotive,Tools,Goodyear,Global Trade,579.4,267.18,3.8,312.22,53.89,Good,Very High
+PROD-000699,Castrol Integrated Contextually-Based Data-Warehouse Tools,Automotive,Tools,Castrol,Direct Import,186.54,118.99,3.9,67.55,36.21,Good,High
+PROD-000700,Bosch Mandatory Zero Administration Matrix Tools,Automotive,Tools,Bosch,Direct Import,388.06,248.12,3.5,139.94,36.06,Good,Very High
+PROD-000701,Mobil Ergonomic Directional Challenge Cleaning,Automotive,Cleaning,Mobil,Amazon Supply,550.75,308.37,2.9,242.38,44.01,Average,Very High
+PROD-000702,Castrol Distributed Asynchronous Frame Cleaning,Automotive,Cleaning,Castrol,Alibaba,423.62,270.26,3.3,153.36,36.2,Good,Very High
+PROD-000703,Castrol Cross-Platform Motivating Throughput Cleaning,Automotive,Cleaning,Castrol,Alibaba,517.16,347.45,3.2,169.71,32.82,Good,Very High
+PROD-000704,Valvoline Quality-Focused User-Facing Moderator Cleaning,Automotive,Cleaning,Valvoline,Amazon Supply,590.44,261.1,3.0,329.34,55.78,Average,Very High
+PROD-000705,Mobil Automated Stable Graphical User Interface Cleaning,Automotive,Cleaning,Mobil,Domestic Producers,126.85,84.76,4.1,42.09,33.18,Excellent,Medium
+PROD-000706,Castrol Visionary Regional Capacity Cleaning,Automotive,Cleaning,Castrol,Domestic Producers,108.22,57.58,4.0,50.64,46.79,Good,Medium
+PROD-000707,Castrol Right-Sized Homogeneous Collaboration Cleaning,Automotive,Cleaning,Castrol,Pacific Trade,68.41,45.47,4.4,22.94,33.53,Excellent,Low
+PROD-000708,Continental Diverse Contextually-Based Solution Cleaning,Automotive,Cleaning,Continental,Amazon Supply,313.02,216.03,3.5,96.99,30.99,Good,Very High
+PROD-000709,Castrol Visionary Regional Workforce Cleaning,Automotive,Cleaning,Castrol,Alibaba,590.78,354.69,4.0,236.09,39.96,Good,Very High
+PROD-000710,Mobil Down-Sized Uniform Intranet Cleaning,Automotive,Cleaning,Mobil,Global Trade,116.25,77.26,3.5,38.99,33.54,Good,Medium
+PROD-000711,Yakima Balanced Incremental Hierarchy Cleaning,Automotive,Cleaning,Yakima,Multisource,114.1,46.07,3.8,68.03,59.62,Good,Medium
+PROD-000712,Mobil Synergistic Uniform Encoding Cleaning,Automotive,Cleaning,Mobil,Amazon Supply,325.89,200.69,4.6,125.2,38.42,Excellent,Very High
+PROD-000713,Castrol Organic Reciprocal Forecast Cleaning,Automotive,Cleaning,Castrol,Amazon Supply,66.06,40.92,2.9,25.14,38.06,Average,Low
+PROD-000714,Braun Versatile Value-Added Toolset Vitamins,Health & Wellness,Vitamins,Braun,Domestic Producers,259.58,144.01,3.8,115.57,44.52,Good,High
+PROD-000715,Braun Organized Discrete Monitoring Vitamins,Health & Wellness,Vitamins,Braun,Direct Import,217.42,93.18,3.6,124.24,57.14,Good,High
+PROD-000716,Garmin Front-Line Fault-Tolerant Workforce Vitamins,Health & Wellness,Vitamins,Garmin,Pacific Trade,249.17,115.82,3.4,133.35,53.52,Good,High
+PROD-000717,Cvs Health Phased Content-Based Hub Vitamins,Health & Wellness,Vitamins,Cvs Health,North American Supply,155.85,86.82,3.3,69.03,44.29,Good,Medium
+PROD-000718,Pfizer Synergistic Object-Oriented Intranet Vitamins,Health & Wellness,Vitamins,Pfizer,North American Supply,64.52,34.07,4.5,30.45,47.19,Excellent,Low
+PROD-000719,Johnson & Johnson Persistent Zero Administration Forecast Vitamins,Health & Wellness,Vitamins,Johnson & Johnson,Amazon Supply,43.68,17.91,2.8,25.77,59.0,Average,Low
+PROD-000720,Gnc Vision-Oriented Homogeneous Middleware Vitamins,Health & Wellness,Vitamins,Gnc,Amazon Supply,114.16,52.81,4.3,61.35,53.74,Excellent,Medium
+PROD-000721,Gnc Progressive Intangible Complexity Vitamins,Health & Wellness,Vitamins,Gnc,Direct Import,200.58,101.34,3.3,99.24,49.48,Good,High
+PROD-000722,Omron Exclusive Real-Time Challenge Supplements,Health & Wellness,Supplements,Omron,North American Supply,254.81,119.21,4.8,135.6,53.22,Excellent,High
+PROD-000723,Johnson & Johnson Function-Based Actuating Project Supplements,Health & Wellness,Supplements,Johnson & Johnson,Asian Manufacturing,195.73,74.68,4.1,121.05,61.85,Excellent,High
+PROD-000724,Garmin Polarized Holistic Neural-Net Supplements,Health & Wellness,Supplements,Garmin,Global Trade,107.65,56.15,2.7,51.5,47.84,Average,Medium
+PROD-000725,Cvs Health Customer-Focused Transitional Model Supplements,Health & Wellness,Supplements,Cvs Health,Asian Manufacturing,64.84,36.57,3.0,28.27,43.6,Average,Low
+PROD-000726,Johnson & Johnson Decentralized Executive Artificial Intelligence Supplements,Health & Wellness,Supplements,Johnson & Johnson,Domestic Producers,253.56,106.45,4.0,147.11,58.02,Good,High
+PROD-000727,Johnson & Johnson Virtual Cohesive Flexibility Supplements,Health & Wellness,Supplements,Johnson & Johnson,Amazon Supply,212.83,101.77,3.2,111.06,52.18,Good,High
+PROD-000728,Johnson & Johnson Organized Multimedia Circuit Supplements,Health & Wellness,Supplements,Johnson & Johnson,Multisource,75.6,27.09,3.2,48.51,64.17,Good,Medium
+PROD-000729,Philips Optional Background Definition Supplements,Health & Wellness,Supplements,Philips,Domestic Producers,201.15,117.59,4.6,83.56,41.54,Excellent,High
+PROD-000730,Philips Organized Grid-Enabled Algorithm Medical Devices,Health & Wellness,Medical Devices,Philips,Domestic Producers,233.33,127.66,4.1,105.67,45.29,Excellent,High
+PROD-000731,Pure Vitamin Operative Actuating Infrastructure Medical Devices,Health & Wellness,Medical Devices,Pure Vitamin,North American Supply,89.18,51.44,4.1,37.74,42.32,Excellent,Medium
+PROD-000732,Omron Profit-Focused Holistic Encoding Medical Devices,Health & Wellness,Medical Devices,Omron,Global Trade,174.73,66.0,3.6,108.73,62.23,Good,High
+PROD-000733,Philips Networked Attitude-Oriented Hub Medical Devices,Health & Wellness,Medical Devices,Philips,Amazon Supply,146.2,82.77,3.8,63.43,43.39,Good,Medium
+PROD-000734,Philips Face-To-Face 4Thgeneration Functionalities Medical Devices,Health & Wellness,Medical Devices,Philips,Multisource,123.41,73.33,2.8,50.08,40.58,Average,Medium
+PROD-000735,Cvs Health Cross-Platform Transitional Projection Medical Devices,Health & Wellness,Medical Devices,Cvs Health,Euro Logistics,135.43,48.82,4.3,86.61,63.95,Excellent,Medium
+PROD-000736,Pure Vitamin Managed Client-Server Challenge Medical Devices,Health & Wellness,Medical Devices,Pure Vitamin,Alibaba,276.65,116.2,4.6,160.45,58.0,Excellent,High
+PROD-000737,Omron Automated Executive Leverage Medical Devices,Health & Wellness,Medical Devices,Omron,Direct Import,98.28,56.78,4.3,41.5,42.23,Excellent,Medium
+PROD-000738,Garmin Total Client-Driven Task-Force Medical Devices,Health & Wellness,Medical Devices,Garmin,Euro Logistics,244.4,86.64,4.8,157.76,64.55,Excellent,High
+PROD-000739,Philips Triple-Buffered Methodical Knowledge User Medical Devices,Health & Wellness,Medical Devices,Philips,Multisource,222.1,94.66,4.5,127.44,57.38,Excellent,High
+PROD-000740,Fitbit Seamless 24Hour Artificial Intelligence Medical Devices,Health & Wellness,Medical Devices,Fitbit,Alibaba,95.23,54.11,2.8,41.12,43.18,Average,Medium
+PROD-000741,Omron Ameliorated Eco-Centric Data-Warehouse Medical Devices,Health & Wellness,Medical Devices,Omron,Euro Logistics,215.55,104.58,2.7,110.97,51.48,Average,High
+PROD-000742,Garmin Distributed Neutral Superstructure Medical Devices,Health & Wellness,Medical Devices,Garmin,Amazon Supply,83.94,29.64,3.6,54.3,64.69,Good,Medium
+PROD-000743,Pure Vitamin Robust Multi-Tasking Interface Medical Devices,Health & Wellness,Medical Devices,Pure Vitamin,Domestic Producers,100.86,50.39,3.2,50.47,50.04,Good,Medium
+PROD-000744,Braun Customizable Zero-Defect Forecast Fitness Trackers,Health & Wellness,Fitness Trackers,Braun,Multisource,100.48,53.84,2.6,46.64,46.42,Average,Medium
+PROD-000745,Pure Vitamin Front-Line Exuding Capability Fitness Trackers,Health & Wellness,Fitness Trackers,Pure Vitamin,Direct Import,272.33,153.34,4.1,118.99,43.69,Excellent,High
+PROD-000746,Fitbit Business-Focused Disintermediate Instruction Set Fitness Trackers,Health & Wellness,Fitness Trackers,Fitbit,Multisource,184.07,105.49,2.9,78.58,42.69,Average,High
+PROD-000747,Pure Vitamin Sharable Regional Knowledgebase Fitness Trackers,Health & Wellness,Fitness Trackers,Pure Vitamin,Asian Manufacturing,37.51,15.37,4.4,22.14,59.02,Excellent,Low
+PROD-000748,Omron Cloned Bifurcated Methodology Fitness Trackers,Health & Wellness,Fitness Trackers,Omron,Domestic Producers,24.88,12.33,4.9,12.55,50.44,Excellent,Low
+PROD-000749,Philips Right-Sized National Adapter Fitness Trackers,Health & Wellness,Fitness Trackers,Philips,Direct Import,258.87,124.35,2.7,134.52,51.96,Average,High
+PROD-000750,Johnson & Johnson Self-Enabling Multimedia Orchestration Fitness Trackers,Health & Wellness,Fitness Trackers,Johnson & Johnson,Alibaba,251.94,125.91,2.8,126.03,50.02,Average,High
+PROD-000751,Philips Front-Line Transitional Circuit Fitness Trackers,Health & Wellness,Fitness Trackers,Philips,Amazon Supply,41.75,24.11,4.1,17.64,42.25,Excellent,Low
+PROD-000752,Omron Implemented Interactive Ability Fitness Trackers,Health & Wellness,Fitness Trackers,Omron,Amazon Supply,251.35,143.21,3.9,108.14,43.02,Good,High
+PROD-000753,Gnc Seamless Heuristic Encoding Fitness Trackers,Health & Wellness,Fitness Trackers,Gnc,Global Trade,162.47,74.35,3.3,88.12,54.24,Good,Medium
+PROD-000754,Fitbit Re-Engineered Intangible Contingency Fitness Trackers,Health & Wellness,Fitness Trackers,Fitbit,Asian Manufacturing,138.86,75.47,3.9,63.39,45.65,Good,Medium
+PROD-000755,Philips Synchronized Static Artificial Intelligence Fitness Trackers,Health & Wellness,Fitness Trackers,Philips,Multisource,269.37,124.14,4.0,145.23,53.91,Good,High
+PROD-000756,Gnc Progressive High-Level Architecture Fitness Trackers,Health & Wellness,Fitness Trackers,Gnc,Direct Import,194.92,97.06,4.2,97.86,50.21,Excellent,High
+PROD-000757,Johnson & Johnson Progressive Needs-Based Middleware Massagers,Health & Wellness,Massagers,Johnson & Johnson,North American Supply,82.67,39.52,2.8,43.15,52.2,Average,Medium
+PROD-000758,Omron Profit-Focused Neutral Adapter Massagers,Health & Wellness,Massagers,Omron,Euro Logistics,124.59,58.8,4.1,65.79,52.81,Excellent,Medium
+PROD-000759,Braun Networked Methodical Analyzer Massagers,Health & Wellness,Massagers,Braun,Pacific Trade,285.9,143.0,4.3,142.9,49.98,Excellent,High
+PROD-000760,Omron Sharable Human-Resource Hub Massagers,Health & Wellness,Massagers,Omron,Domestic Producers,159.29,81.0,2.7,78.29,49.15,Average,Medium
+PROD-000761,Fitbit Function-Based Value-Added Adapter Massagers,Health & Wellness,Massagers,Fitbit,North American Supply,87.5,38.54,3.6,48.96,55.95,Good,Medium
+PROD-000762,Garmin Multi-Channeled Zero Tolerance Architecture Massagers,Health & Wellness,Massagers,Garmin,North American Supply,28.01,10.78,3.2,17.23,61.51,Good,Low
+PROD-000763,Garmin Monitored Disintermediate Superstructure Massagers,Health & Wellness,Massagers,Garmin,Direct Import,291.89,126.34,3.7,165.55,56.72,Good,High
+PROD-000764,Braun Switchable Responsive Benchmark Massagers,Health & Wellness,Massagers,Braun,Euro Logistics,70.89,35.64,3.2,35.25,49.72,Good,Low
+PROD-000765,Cvs Health Visionary Optimal Support Massagers,Health & Wellness,Massagers,Cvs Health,Domestic Producers,73.99,35.45,2.5,38.54,52.09,Average,Low
+PROD-000766,Johnson & Johnson Versatile Full-Range Challenge Massagers,Health & Wellness,Massagers,Johnson & Johnson,North American Supply,17.18,6.95,2.6,10.23,59.55,Average,Low
+PROD-000767,Garmin Balanced Heuristic Moratorium Massagers,Health & Wellness,Massagers,Garmin,Domestic Producers,45.79,19.91,4.4,25.88,56.52,Excellent,Low
+PROD-000768,Johnson & Johnson Mandatory Secondary Conglomeration Massagers,Health & Wellness,Massagers,Johnson & Johnson,North American Supply,178.03,85.13,3.2,92.9,52.18,Good,High
+PROD-000769,Cvs Health Vision-Oriented Systemic Local Area Network Massagers,Health & Wellness,Massagers,Cvs Health,Pacific Trade,280.55,126.04,2.7,154.51,55.07,Average,High
+PROD-000770,Johnson & Johnson Total Mission-Critical Product Massagers,Health & Wellness,Massagers,Johnson & Johnson,Domestic Producers,190.86,72.23,3.3,118.63,62.16,Good,High
+PROD-000771,Cvs Health Enterprise-Wide Client-Driven Architecture Thermometers,Health & Wellness,Thermometers,Cvs Health,Direct Import,159.61,90.75,3.7,68.86,43.14,Good,Medium
+PROD-000772,Braun Universal Zero-Defect Knowledgebase Thermometers,Health & Wellness,Thermometers,Braun,North American Supply,215.14,128.7,2.8,86.44,40.18,Average,High
+PROD-000773,Johnson & Johnson Automated Explicit Customer Loyalty Thermometers,Health & Wellness,Thermometers,Johnson & Johnson,Direct Import,93.3,41.86,3.5,51.44,55.13,Good,Medium
+PROD-000774,Garmin Balanced Dedicated Analyzer Thermometers,Health & Wellness,Thermometers,Garmin,Pacific Trade,132.14,76.23,4.2,55.91,42.31,Excellent,Medium
+PROD-000775,Gnc Intuitive Fault-Tolerant Migration Thermometers,Health & Wellness,Thermometers,Gnc,North American Supply,188.25,80.45,4.5,107.8,57.26,Excellent,High
+PROD-000776,Fitbit Object-Based Needs-Based Leverage Thermometers,Health & Wellness,Thermometers,Fitbit,North American Supply,287.19,159.48,2.5,127.71,44.47,Average,High
+PROD-000777,Johnson & Johnson Function-Based 5Thgeneration System Engine Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Johnson & Johnson,Asian Manufacturing,196.37,71.24,3.1,125.13,63.72,Good,High
+PROD-000778,Omron Stand-Alone Content-Based Forecast Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Omron,Multisource,31.96,16.01,4.1,15.95,49.91,Excellent,Low
+PROD-000779,Pfizer Multi-Channeled Zero-Defect Application Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Pfizer,Asian Manufacturing,47.63,21.24,3.6,26.39,55.41,Good,Low
+PROD-000780,Johnson & Johnson Streamlined Full-Range Flexibility Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Johnson & Johnson,Global Trade,120.18,45.7,3.5,74.48,61.97,Good,Medium
+PROD-000781,Garmin Decentralized Holistic Internet Solution Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Garmin,Euro Logistics,229.09,84.25,2.7,144.84,63.22,Average,High
+PROD-000782,Garmin Open-Architected Value-Added Intranet Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Garmin,Direct Import,116.11,67.97,4.1,48.14,41.46,Excellent,Medium
+PROD-000783,Gnc Networked Global Contingency Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Gnc,Direct Import,208.42,91.8,3.9,116.62,55.95,Good,High
+PROD-000784,Fitbit Proactive System-Worthy Methodology Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Fitbit,North American Supply,17.89,9.11,4.7,8.78,49.08,Excellent,Low
+PROD-000785,Pure Vitamin Multi-Layered Multi-State Flexibility Blood Pressure Monitors,Health & Wellness,Blood Pressure Monitors,Pure Vitamin,Global Trade,189.58,107.76,4.2,81.82,43.16,Excellent,High
+PROD-000786,Braun Configurable Upward-Trending Interface First Aid,Health & Wellness,First Aid,Braun,Global Trade,49.36,28.41,2.7,20.95,42.44,Average,Low
+PROD-000787,Johnson & Johnson Configurable Intermediate Portal First Aid,Health & Wellness,First Aid,Johnson & Johnson,Global Trade,167.18,64.45,2.5,102.73,61.45,Average,High
+PROD-000788,Pure Vitamin Enterprise-Wide Needs-Based Frame First Aid,Health & Wellness,First Aid,Pure Vitamin,Global Trade,135.28,57.33,3.7,77.95,57.62,Good,Medium
+PROD-000789,Philips Inverse Bi-Directional Artificial Intelligence First Aid,Health & Wellness,First Aid,Philips,Alibaba,179.5,64.79,2.8,114.71,63.91,Average,High
+PROD-000790,Braun Inverse Stable Frame First Aid,Health & Wellness,First Aid,Braun,North American Supply,174.21,75.92,4.3,98.29,56.42,Excellent,High
+PROD-000791,Pfizer Integrated Local Portal First Aid,Health & Wellness,First Aid,Pfizer,Multisource,200.9,112.79,4.2,88.11,43.86,Excellent,High
+PROD-000792,Pure Vitamin Universal Interactive Concept First Aid,Health & Wellness,First Aid,Pure Vitamin,Euro Logistics,137.53,71.27,3.2,66.26,48.18,Good,Medium
+PROD-000793,Philips Team-Oriented Leadingedge Hardware First Aid,Health & Wellness,First Aid,Philips,Asian Manufacturing,102.3,55.98,3.6,46.32,45.28,Good,Medium
+PROD-000794,Gnc Organized 6Thgeneration Superstructure First Aid,Health & Wellness,First Aid,Gnc,Asian Manufacturing,242.54,134.76,4.6,107.78,44.44,Excellent,High
+PROD-000795,Cvs Health Multi-Channeled Reciprocal Internet Solution First Aid,Health & Wellness,First Aid,Cvs Health,Multisource,276.24,126.45,3.3,149.79,54.22,Good,High
+PROD-000796,Pfizer Grass-Roots Scalable Utilization First Aid,Health & Wellness,First Aid,Pfizer,North American Supply,180.93,80.11,3.9,100.82,55.72,Good,High
+PROD-000797,Pure Vitamin Centralized Asynchronous Secured Line First Aid,Health & Wellness,First Aid,Pure Vitamin,Multisource,216.09,112.82,3.4,103.27,47.79,Good,High
+PROD-000798,Philips Sharable Impactful Hierarchy First Aid,Health & Wellness,First Aid,Philips,Euro Logistics,62.56,28.63,2.8,33.93,54.24,Average,Low
+PROD-000799,Braun Profound Value-Added Service-Desk First Aid,Health & Wellness,First Aid,Braun,Direct Import,268.68,117.27,2.9,151.41,56.35,Average,High
+PROD-000800,Petsafe Diverse 4Thgeneration Circuit Pet Food,Pet Supplies,Pet Food,Petsafe,Global Trade,16.11,7.43,4.0,8.68,53.88,Good,Low
+PROD-000801,Blue Buffalo Robust Systematic Toolset Pet Food,Pet Supplies,Pet Food,Blue Buffalo,Domestic Producers,91.74,29.17,3.5,62.57,68.2,Good,Medium
+PROD-000802,Hill'S Organic 5Thgeneration Capacity Pet Food,Pet Supplies,Pet Food,Hill'S,Euro Logistics,84.69,39.74,4.0,44.95,53.08,Good,Medium
+PROD-000803,Purina Cloned Disintermediate Time-Frame Pet Food,Pet Supplies,Pet Food,Purina,Multisource,97.5,34.56,4.9,62.94,64.55,Excellent,Medium
+PROD-000804,Kong Stand-Alone High-Level Hierarchy Pet Food,Pet Supplies,Pet Food,Kong,Direct Import,118.96,56.16,2.8,62.8,52.79,Average,Medium
+PROD-000805,Royal Canin Networked Non-Volatile Alliance Pet Food,Pet Supplies,Pet Food,Royal Canin,Direct Import,126.54,38.83,3.7,87.71,69.31,Good,Medium
+PROD-000806,Royal Canin Robust Coherent Service-Desk Pet Food,Pet Supplies,Pet Food,Royal Canin,Euro Logistics,241.36,95.59,2.6,145.77,60.4,Average,High
+PROD-000807,Royal Canin Organized Holistic Hub Pet Food,Pet Supplies,Pet Food,Royal Canin,Global Trade,17.43,6.92,2.9,10.51,60.3,Average,Low
+PROD-000808,Iams Organic Well-Modulated Archive Pet Food,Pet Supplies,Pet Food,Iams,Multisource,15.6,7.63,3.6,7.97,51.09,Good,Low
+PROD-000809,Petmate Re-Engineered Client-Driven Moderator Pet Food,Pet Supplies,Pet Food,Petmate,Global Trade,79.42,41.7,2.8,37.72,47.49,Average,Medium
+PROD-000810,Petsafe Multi-Lateral Hybrid Functionalities Pet Food,Pet Supplies,Pet Food,Petsafe,Amazon Supply,239.42,90.62,4.6,148.8,62.15,Excellent,High
+PROD-000811,Blue Buffalo Streamlined Even-Keeled Encryption Pet Food,Pet Supplies,Pet Food,Blue Buffalo,Multisource,154.71,78.39,4.9,76.32,49.33,Excellent,Medium
+PROD-000812,Kong Customizable 4Thgeneration Support Pet Food,Pet Supplies,Pet Food,Kong,Alibaba,79.22,42.8,3.4,36.42,45.97,Good,Medium
+PROD-000813,Purina Enterprise-Wide Modular Model Pet Toys,Pet Supplies,Pet Toys,Purina,Pacific Trade,102.52,39.48,3.8,63.04,61.49,Good,Medium
+PROD-000814,Petmate Networked Next Generation Capability Pet Toys,Pet Supplies,Pet Toys,Petmate,North American Supply,46.99,20.6,3.8,26.39,56.16,Good,Low
+PROD-000815,Blue Buffalo Fundamental Zero-Defect Firmware Pet Toys,Pet Supplies,Pet Toys,Blue Buffalo,Pacific Trade,192.86,98.05,3.6,94.81,49.16,Good,High
+PROD-000816,Royal Canin Triple-Buffered Local Data-Warehouse Pet Toys,Pet Supplies,Pet Toys,Royal Canin,North American Supply,82.56,30.12,3.0,52.44,63.52,Average,Medium
+PROD-000817,Blue Buffalo Seamless Executive Solution Pet Toys,Pet Supplies,Pet Toys,Blue Buffalo,Alibaba,23.84,9.19,3.1,14.65,61.45,Good,Low
+PROD-000818,Kong Pre-Emptive Dedicated Capability Pet Toys,Pet Supplies,Pet Toys,Kong,Amazon Supply,241.94,106.32,3.3,135.62,56.06,Good,High
+PROD-000819,Kong Devolved Asynchronous Knowledge User Pet Toys,Pet Supplies,Pet Toys,Kong,Global Trade,149.31,49.99,3.6,99.32,66.52,Good,Medium
+PROD-000820,Hill'S Enhanced Transitional Intranet Pet Toys,Pet Supplies,Pet Toys,Hill'S,Alibaba,160.3,67.68,3.5,92.62,57.78,Good,Medium
+PROD-000821,Iams Cross-Group Systemic Functionalities Pet Toys,Pet Supplies,Pet Toys,Iams,Multisource,248.52,129.25,4.0,119.27,47.99,Good,High
+PROD-000822,Hill'S Synchronized Grid-Enabled Strategy Pet Toys,Pet Supplies,Pet Toys,Hill'S,Multisource,146.65,66.75,3.0,79.9,54.48,Average,Medium
+PROD-000823,Nylabone Cloned Neutral Moratorium Pet Toys,Pet Supplies,Pet Toys,Nylabone,Domestic Producers,104.83,32.48,3.6,72.35,69.02,Good,Medium
+PROD-000824,Royal Canin Implemented Exuding Complexity Pet Beds,Pet Supplies,Pet Beds,Royal Canin,Alibaba,140.33,50.09,4.8,90.24,64.31,Excellent,Medium
+PROD-000825,Iams Universal Tertiary Standardization Pet Beds,Pet Supplies,Pet Beds,Iams,Asian Manufacturing,228.27,109.69,3.8,118.58,51.95,Good,High
+PROD-000826,Hill'S Sharable Context-Sensitive Utilization Pet Beds,Pet Supplies,Pet Beds,Hill'S,Direct Import,218.79,72.78,4.4,146.01,66.74,Excellent,High
+PROD-000827,Arm & Hammer Multi-Lateral Multimedia Definition Pet Beds,Pet Supplies,Pet Beds,Arm & Hammer,Direct Import,39.96,19.92,3.2,20.04,50.15,Good,Low
+PROD-000828,Petsafe Decentralized Dedicated Utilization Pet Beds,Pet Supplies,Pet Beds,Petsafe,Amazon Supply,220.5,118.19,2.9,102.31,46.4,Average,High
+PROD-000829,Blue Buffalo Devolved Disintermediate Utilization Collars & Leashes,Pet Supplies,Collars & Leashes,Blue Buffalo,Euro Logistics,121.04,66.0,3.7,55.04,45.47,Good,Medium
+PROD-000830,Royal Canin Proactive 4Thgeneration Hierarchy Collars & Leashes,Pet Supplies,Collars & Leashes,Royal Canin,Alibaba,217.25,97.15,3.4,120.1,55.28,Good,High
+PROD-000831,Blue Buffalo Reactive Object-Oriented Hub Collars & Leashes,Pet Supplies,Collars & Leashes,Blue Buffalo,Pacific Trade,78.59,27.57,4.3,51.02,64.92,Excellent,Medium
+PROD-000832,Arm & Hammer Persistent Neutral Capacity Collars & Leashes,Pet Supplies,Collars & Leashes,Arm & Hammer,Multisource,102.77,43.97,3.7,58.8,57.22,Good,Medium
+PROD-000833,Royal Canin Seamless Background Architecture Collars & Leashes,Pet Supplies,Collars & Leashes,Royal Canin,Amazon Supply,148.55,76.71,4.9,71.84,48.36,Excellent,Medium
+PROD-000834,Nylabone Integrated Hybrid Structure Collars & Leashes,Pet Supplies,Collars & Leashes,Nylabone,Domestic Producers,107.82,54.65,4.3,53.17,49.31,Excellent,Medium
+PROD-000835,Petmate Up-Sized Mission-Critical Moderator Collars & Leashes,Pet Supplies,Collars & Leashes,Petmate,Alibaba,147.65,79.59,3.0,68.06,46.1,Average,Medium
+PROD-000836,Petmate Open-Source Zero Administration Installation Collars & Leashes,Pet Supplies,Collars & Leashes,Petmate,Domestic Producers,36.22,18.6,3.6,17.62,48.65,Good,Low
+PROD-000837,Blue Buffalo Re-Engineered Asynchronous Capacity Collars & Leashes,Pet Supplies,Collars & Leashes,Blue Buffalo,Global Trade,213.27,111.6,2.6,101.67,47.67,Average,High
+PROD-000838,Petsafe Intuitive Secondary Archive Grooming,Pet Supplies,Grooming,Petsafe,Alibaba,222.03,91.49,3.7,130.54,58.79,Good,High
+PROD-000839,Arm & Hammer Organized Maximized Software Grooming,Pet Supplies,Grooming,Arm & Hammer,North American Supply,160.38,85.26,2.5,75.12,46.84,Average,Medium
+PROD-000840,Blue Buffalo Programmable Grid-Enabled Capacity Grooming,Pet Supplies,Grooming,Blue Buffalo,Domestic Producers,124.44,58.73,4.2,65.71,52.8,Excellent,Medium
+PROD-000841,Petsafe Vision-Oriented Neutral Productivity Grooming,Pet Supplies,Grooming,Petsafe,Global Trade,176.21,58.79,3.2,117.42,66.64,Good,High
+PROD-000842,Royal Canin Reverse-Engineered Contextually-Based Throughput Grooming,Pet Supplies,Grooming,Royal Canin,Direct Import,96.09,48.15,3.2,47.94,49.89,Good,Medium
+PROD-000843,Kong De-Engineered Intermediate Middleware Grooming,Pet Supplies,Grooming,Kong,Amazon Supply,60.57,32.67,2.5,27.9,46.06,Average,Low
+PROD-000844,Petmate Centralized Bottom-Line Model Grooming,Pet Supplies,Grooming,Petmate,Direct Import,249.48,117.06,4.5,132.42,53.08,Excellent,High
+PROD-000845,Petmate Distributed Exuding Concept Grooming,Pet Supplies,Grooming,Petmate,Direct Import,80.71,24.5,4.3,56.21,69.64,Excellent,Medium
+PROD-000846,Petmate Diverse Fresh-Thinking Strategy Grooming,Pet Supplies,Grooming,Petmate,Alibaba,210.19,101.97,2.8,108.22,51.49,Average,High
+PROD-000847,Nylabone Face-To-Face Grid-Enabled Model Health Supplies,Pet Supplies,Health Supplies,Nylabone,Alibaba,190.82,93.93,4.1,96.89,50.78,Excellent,High
+PROD-000848,Petsafe Horizontal Attitude-Oriented Extranet Health Supplies,Pet Supplies,Health Supplies,Petsafe,North American Supply,193.87,99.16,4.0,94.71,48.85,Good,High
+PROD-000849,Iams Exclusive Scalable Neural-Net Health Supplies,Pet Supplies,Health Supplies,Iams,Alibaba,31.27,13.19,2.7,18.08,57.82,Average,Low
+PROD-000850,Kong Grass-Roots Clear-Thinking Product Health Supplies,Pet Supplies,Health Supplies,Kong,Amazon Supply,107.81,43.32,2.7,64.49,59.82,Average,Medium
+PROD-000851,Kong Innovative Reciprocal Monitoring Health Supplies,Pet Supplies,Health Supplies,Kong,Asian Manufacturing,93.72,30.72,4.4,63.0,67.22,Excellent,Medium
+PROD-000852,Royal Canin Cross-Group Motivating Project Health Supplies,Pet Supplies,Health Supplies,Royal Canin,Domestic Producers,237.45,75.53,4.8,161.92,68.19,Excellent,High
+PROD-000853,Kong Down-Sized Optimizing Paradigm Health Supplies,Pet Supplies,Health Supplies,Kong,Global Trade,135.42,50.77,2.7,84.65,62.51,Average,Medium
+PROD-000854,Purina Distributed Composite Protocol Health Supplies,Pet Supplies,Health Supplies,Purina,North American Supply,130.15,64.9,4.2,65.25,50.13,Excellent,Medium
+PROD-000855,Petmate Secured Uniform Portal Health Supplies,Pet Supplies,Health Supplies,Petmate,North American Supply,22.05,7.02,3.5,15.03,68.16,Good,Low
+PROD-000856,Hill'S Mandatory Non-Volatile Analyzer Health Supplies,Pet Supplies,Health Supplies,Hill'S,Multisource,80.87,28.96,3.2,51.91,64.19,Good,Medium
+PROD-000857,Nylabone Assimilated Attitude-Oriented Analyzer Health Supplies,Pet Supplies,Health Supplies,Nylabone,Global Trade,202.84,107.97,3.5,94.87,46.77,Good,High
+PROD-000858,Royal Canin Stand-Alone Zero Administration Orchestration Aquariums,Pet Supplies,Aquariums,Royal Canin,Multisource,227.47,86.52,3.6,140.95,61.96,Good,High
+PROD-000859,Purina Fundamental Solution-Oriented Database Aquariums,Pet Supplies,Aquariums,Purina,Euro Logistics,64.25,29.56,4.8,34.69,53.99,Excellent,Low
+PROD-000860,Blue Buffalo Visionary Object-Oriented Instruction Set Aquariums,Pet Supplies,Aquariums,Blue Buffalo,Alibaba,154.84,60.3,4.1,94.54,61.06,Excellent,Medium
+PROD-000861,Blue Buffalo Secured Scalable Algorithm Aquariums,Pet Supplies,Aquariums,Blue Buffalo,Alibaba,39.5,20.63,3.7,18.87,47.77,Good,Low
+PROD-000862,Kong Proactive Responsive Moratorium Aquariums,Pet Supplies,Aquariums,Kong,Euro Logistics,117.84,52.61,4.0,65.23,55.35,Good,Medium
+PROD-000863,Petmate Implemented Secondary Framework Aquariums,Pet Supplies,Aquariums,Petmate,Pacific Trade,27.23,12.82,3.1,14.41,52.92,Good,Low
+PROD-000864,Petmate Polarized Dynamic Workforce Aquariums,Pet Supplies,Aquariums,Petmate,Multisource,181.35,91.7,4.4,89.65,49.43,Excellent,High
+PROD-000865,Purina Synergized Impactful Framework Bird Cages,Pet Supplies,Bird Cages,Purina,Asian Manufacturing,142.6,61.32,2.8,81.28,57.0,Average,Medium
+PROD-000866,Iams Persevering Asynchronous Solution Bird Cages,Pet Supplies,Bird Cages,Iams,North American Supply,196.08,72.13,3.7,123.95,63.21,Good,High
+PROD-000867,Purina Centralized Cohesive Intranet Bird Cages,Pet Supplies,Bird Cages,Purina,North American Supply,78.23,26.09,4.0,52.14,66.65,Good,Medium
+PROD-000868,Iams Operative Mission-Critical Local Area Network Bird Cages,Pet Supplies,Bird Cages,Iams,Amazon Supply,23.04,11.22,3.3,11.82,51.3,Good,Low
+PROD-000869,Kong Expanded Global Portal Bird Cages,Pet Supplies,Bird Cages,Kong,Pacific Trade,10.03,4.29,2.6,5.74,57.23,Average,Low
+PROD-000870,Petsafe Digitized Foreground Structure Bird Cages,Pet Supplies,Bird Cages,Petsafe,Multisource,76.28,36.37,2.7,39.91,52.32,Average,Medium
+PROD-000871,Petsafe Intuitive Upward-Trending Hardware Bird Cages,Pet Supplies,Bird Cages,Petsafe,North American Supply,211.44,63.63,3.1,147.81,69.91,Good,High
+PROD-000872,Hill'S Open-Architected Clear-Thinking Task-Force Bird Cages,Pet Supplies,Bird Cages,Hill'S,Multisource,187.82,71.2,2.7,116.62,62.09,Average,High
+PROD-000873,Nylabone Multi-Layered Multimedia Open Architecture Bird Cages,Pet Supplies,Bird Cages,Nylabone,North American Supply,96.46,35.46,4.5,61.0,63.24,Excellent,Medium
+PROD-000874,Graco Customer-Focused Foreground Encoding Diapers,Baby & Kids,Diapers,Graco,Amazon Supply,119.97,64.39,4.6,55.58,46.33,Excellent,Medium
+PROD-000875,Vtech Persistent Bottom-Line Flexibility Diapers,Baby & Kids,Diapers,Vtech,Amazon Supply,160.33,91.87,3.4,68.46,42.7,Good,Medium
+PROD-000876,Vtech Organized Dynamic Circuit Diapers,Baby & Kids,Diapers,Vtech,Domestic Producers,337.97,110.44,4.1,227.53,67.32,Excellent,Very High
+PROD-000877,Gerber Cross-Platform Actuating Frame Diapers,Baby & Kids,Diapers,Gerber,Direct Import,180.43,75.11,4.0,105.32,58.37,Good,High
+PROD-000878,Graco Networked Reciprocal Instruction Set Diapers,Baby & Kids,Diapers,Graco,North American Supply,250.79,75.57,2.9,175.22,69.87,Average,High
+PROD-000879,Huggies Fully-Configurable Cohesive Graphic Interface Diapers,Baby & Kids,Diapers,Huggies,Amazon Supply,253.87,126.91,4.8,126.96,50.01,Excellent,High
+PROD-000880,Baby Einstein Re-Engineered Uniform Functionalities Diapers,Baby & Kids,Diapers,Baby Einstein,Euro Logistics,269.95,157.98,4.2,111.97,41.48,Excellent,High
+PROD-000881,Graco Ergonomic Well-Modulated Complexity Diapers,Baby & Kids,Diapers,Graco,Multisource,114.85,38.09,4.4,76.76,66.84,Excellent,Medium
+PROD-000882,Britax Proactive Multimedia Local Area Network Diapers,Baby & Kids,Diapers,Britax,Pacific Trade,230.79,72.57,3.4,158.22,68.56,Good,High
+PROD-000883,Gerber Proactive Fault-Tolerant Methodology Diapers,Baby & Kids,Diapers,Gerber,Multisource,335.53,151.03,3.5,184.5,54.99,Good,Very High
+PROD-000884,Baby Einstein Ameliorated Background Infrastructure Diapers,Baby & Kids,Diapers,Baby Einstein,Multisource,168.33,61.05,3.4,107.28,63.73,Good,High
+PROD-000885,Pampers Profit-Focused Logistical Encoding Diapers,Baby & Kids,Diapers,Pampers,North American Supply,138.89,43.85,4.3,95.04,68.43,Excellent,Medium
+PROD-000886,Britax Extended Optimal Help-Desk Diapers,Baby & Kids,Diapers,Britax,Pacific Trade,154.53,84.47,4.5,70.06,45.34,Excellent,Medium
+PROD-000887,Pampers Business-Focused Actuating Forecast Baby Food,Baby & Kids,Baby Food,Pampers,Amazon Supply,86.02,42.77,3.6,43.25,50.28,Good,Medium
+PROD-000888,Vtech Proactive Radical Projection Baby Food,Baby & Kids,Baby Food,Vtech,North American Supply,309.85,113.01,4.1,196.84,63.53,Excellent,High
+PROD-000889,Chicco Synergistic Methodical Forecast Baby Food,Baby & Kids,Baby Food,Chicco,Global Trade,218.6,84.95,2.8,133.65,61.14,Average,High
+PROD-000890,Pampers Public-Key 24/7 Benchmark Baby Food,Baby & Kids,Baby Food,Pampers,Global Trade,233.3,121.68,3.3,111.62,47.84,Good,High
+PROD-000891,Britax Optional Client-Driven Firmware Baby Food,Baby & Kids,Baby Food,Britax,Multisource,231.02,96.69,4.2,134.33,58.15,Excellent,High
+PROD-000892,Pampers Upgradable High-Level Task-Force Baby Food,Baby & Kids,Baby Food,Pampers,Global Trade,81.74,46.35,3.2,35.39,43.3,Good,Medium
+PROD-000893,Huggies Open-Architected High-Level Analyzer Baby Food,Baby & Kids,Baby Food,Huggies,Asian Manufacturing,138.21,43.87,2.8,94.34,68.26,Average,Medium
+PROD-000894,Baby Einstein Open-Architected Actuating Open System Baby Food,Baby & Kids,Baby Food,Baby Einstein,North American Supply,187.81,71.42,4.5,116.39,61.97,Excellent,High
+PROD-000895,Vtech Realigned Content-Based Hierarchy Baby Food,Baby & Kids,Baby Food,Vtech,Domestic Producers,19.92,8.24,3.3,11.68,58.63,Good,Low
+PROD-000896,Britax Reactive Executive Archive Baby Gear,Baby & Kids,Baby Gear,Britax,Global Trade,21.47,7.24,3.5,14.23,66.28,Good,Low
+PROD-000897,Evenflo Networked Motivating Knowledge User Baby Gear,Baby & Kids,Baby Gear,Evenflo,North American Supply,180.11,75.88,3.8,104.23,57.87,Good,High
+PROD-000898,Baby Einstein Virtual Neutral Focus Group Baby Gear,Baby & Kids,Baby Gear,Baby Einstein,Multisource,214.37,64.95,3.6,149.42,69.7,Good,High
+PROD-000899,Huggies Secured Systemic Pricing Structure Baby Gear,Baby & Kids,Baby Gear,Huggies,Domestic Producers,337.77,153.93,4.1,183.84,54.43,Excellent,Very High
+PROD-000900,Gerber Decentralized Clear-Thinking Attitude Baby Gear,Baby & Kids,Baby Gear,Gerber,Direct Import,119.47,63.58,4.4,55.89,46.78,Excellent,Medium
+PROD-000901,Vtech Object-Based Holistic Utilization Toys,Baby & Kids,Toys,Vtech,North American Supply,189.63,112.41,2.8,77.22,40.72,Average,High
+PROD-000902,Graco Mandatory Next Generation Hierarchy Toys,Baby & Kids,Toys,Graco,Asian Manufacturing,20.68,10.98,4.4,9.7,46.91,Excellent,Low
+PROD-000903,Huggies Versatile Client-Server Customer Loyalty Toys,Baby & Kids,Toys,Huggies,Alibaba,55.27,20.98,2.5,34.29,62.04,Average,Low
+PROD-000904,Gerber Robust Multimedia Initiative Toys,Baby & Kids,Toys,Gerber,Multisource,113.26,60.25,3.7,53.01,46.8,Good,Medium
+PROD-000905,Chicco Profit-Focused 6Thgeneration Analyzer Toys,Baby & Kids,Toys,Chicco,Pacific Trade,131.61,54.16,2.5,77.45,58.85,Average,Medium
+PROD-000906,Chicco Automated Client-Driven Structure Toys,Baby & Kids,Toys,Chicco,Amazon Supply,115.43,57.02,4.8,58.41,50.6,Excellent,Medium
+PROD-000907,Graco Managed Methodical Model Toys,Baby & Kids,Toys,Graco,Euro Logistics,298.77,91.75,4.7,207.02,69.29,Excellent,High
+PROD-000908,Evenflo Persevering Coherent Portal Toys,Baby & Kids,Toys,Evenflo,Asian Manufacturing,277.37,148.15,3.6,129.22,46.59,Good,High
+PROD-000909,Britax Profound Client-Driven Graphic Interface Toys,Baby & Kids,Toys,Britax,Euro Logistics,148.33,57.98,2.7,90.35,60.91,Average,Medium
+PROD-000910,Evenflo Seamless Foreground Complexity Toys,Baby & Kids,Toys,Evenflo,Asian Manufacturing,91.46,34.2,3.7,57.26,62.61,Good,Medium
+PROD-000911,Gerber Object-Based Reciprocal Support Clothing,Baby & Kids,Clothing,Gerber,Amazon Supply,265.39,117.34,2.6,148.05,55.79,Average,High
+PROD-000912,Evenflo Innovative Optimizing Graphical User Interface Clothing,Baby & Kids,Clothing,Evenflo,Global Trade,335.86,195.75,4.4,140.11,41.72,Excellent,Very High
+PROD-000913,Evenflo Profit-Focused Multimedia Monitoring Clothing,Baby & Kids,Clothing,Evenflo,Amazon Supply,347.09,160.82,4.8,186.27,53.67,Excellent,Very High
+PROD-000914,Baby Einstein Pre-Emptive Tertiary Open System Clothing,Baby & Kids,Clothing,Baby Einstein,North American Supply,40.33,16.52,3.0,23.81,59.04,Average,Low
+PROD-000915,Huggies Innovative Methodical Adapter Clothing,Baby & Kids,Clothing,Huggies,Direct Import,80.6,27.58,4.0,53.02,65.78,Good,Medium
+PROD-000916,Chicco Multi-Layered Full-Range Service-Desk Clothing,Baby & Kids,Clothing,Chicco,Euro Logistics,276.74,131.03,2.9,145.71,52.65,Average,High
+PROD-000917,Gerber Customizable Intangible Paradigm Furniture,Baby & Kids,Furniture,Gerber,Global Trade,286.73,140.72,3.4,146.01,50.92,Good,High
+PROD-000918,Baby Einstein Integrated Uniform Solution Furniture,Baby & Kids,Furniture,Baby Einstein,Direct Import,240.83,91.03,3.3,149.8,62.2,Good,High
+PROD-000919,Fisher-Price Self-Enabling 4Thgeneration Policy Furniture,Baby & Kids,Furniture,Fisher-Price,Amazon Supply,322.36,124.8,3.6,197.56,61.29,Good,Very High
+PROD-000920,Fisher-Price Phased Empowering Projection Furniture,Baby & Kids,Furniture,Fisher-Price,Global Trade,313.2,160.46,2.6,152.74,48.77,Average,Very High
+PROD-000921,Fisher-Price Vision-Oriented Optimal Orchestration Furniture,Baby & Kids,Furniture,Fisher-Price,Multisource,64.35,19.46,4.0,44.89,69.76,Good,Low
+PROD-000922,Pampers Focused Uniform Application Furniture,Baby & Kids,Furniture,Pampers,North American Supply,164.97,56.14,4.8,108.83,65.97,Excellent,Medium
+PROD-000923,Chicco Reduced Mission-Critical Concept Furniture,Baby & Kids,Furniture,Chicco,Domestic Producers,192.44,71.7,3.7,120.74,62.74,Good,High
+PROD-000924,Baby Einstein Progressive Responsive Success Furniture,Baby & Kids,Furniture,Baby Einstein,Multisource,242.67,78.35,3.2,164.32,67.71,Good,High
+PROD-000925,Chicco Secured Zero-Defect Implementation Furniture,Baby & Kids,Furniture,Chicco,Global Trade,285.33,124.95,3.8,160.38,56.21,Good,High
+PROD-000926,Huggies Digitized Systemic Encryption Strollers,Baby & Kids,Strollers,Huggies,Amazon Supply,159.99,50.1,2.9,109.89,68.69,Average,Medium
+PROD-000927,Graco Automated Object-Oriented Standardization Strollers,Baby & Kids,Strollers,Graco,Pacific Trade,164.26,59.59,2.6,104.67,63.72,Average,Medium
+PROD-000928,Evenflo Customizable Content-Based Adapter Strollers,Baby & Kids,Strollers,Evenflo,Direct Import,297.62,176.89,4.4,120.73,40.57,Excellent,High
+PROD-000929,Vtech Organic Foreground Instruction Set Strollers,Baby & Kids,Strollers,Vtech,Pacific Trade,301.02,112.16,4.8,188.86,62.74,Excellent,High
+PROD-000930,Britax Distributed Incremental Solution Strollers,Baby & Kids,Strollers,Britax,Amazon Supply,80.97,47.4,4.9,33.57,41.46,Excellent,Medium
+PROD-000931,Gerber Expanded Incremental Middleware Strollers,Baby & Kids,Strollers,Gerber,North American Supply,253.43,150.62,3.9,102.81,40.57,Good,High
+PROD-000932,Huggies Vision-Oriented Reciprocal Leverage Strollers,Baby & Kids,Strollers,Huggies,Multisource,101.95,43.95,3.9,58.0,56.89,Good,Medium
+PROD-000933,Evenflo User-Centric Upward-Trending Approach Strollers,Baby & Kids,Strollers,Evenflo,Direct Import,39.48,19.22,4.9,20.26,51.32,Excellent,Low
+PROD-000934,Baby Einstein Triple-Buffered Client-Driven Model Strollers,Baby & Kids,Strollers,Baby Einstein,Global Trade,78.69,42.32,4.7,36.37,46.22,Excellent,Medium
+PROD-000935,Chicco Expanded Next Generation Graphic Interface Strollers,Baby & Kids,Strollers,Chicco,Domestic Producers,331.14,194.72,3.8,136.42,41.2,Good,Very High
+PROD-000936,Gerber Switchable Mission-Critical Moderator Strollers,Baby & Kids,Strollers,Gerber,Global Trade,342.4,180.51,2.9,161.89,47.28,Average,Very High
+PROD-000937,Vtech Multi-Tiered Foreground Conglomeration Strollers,Baby & Kids,Strollers,Vtech,Direct Import,174.76,90.09,3.1,84.67,48.45,Good,High
+PROD-000938,Pampers Persevering National Graphical User Interface Strollers,Baby & Kids,Strollers,Pampers,Amazon Supply,229.61,114.8,2.9,114.81,50.0,Average,High
+PROD-000939,Chicco Quality-Focused Heuristic Service-Desk Strollers,Baby & Kids,Strollers,Chicco,Global Trade,204.3,108.58,3.7,95.72,46.85,Good,High
+PROD-000940,Gerber Visionary Uniform Software Car Seats,Baby & Kids,Car Seats,Gerber,Global Trade,19.05,5.77,3.4,13.28,69.71,Good,Low
+PROD-000941,Baby Einstein Stand-Alone System-Worthy Firmware Car Seats,Baby & Kids,Car Seats,Baby Einstein,Asian Manufacturing,325.28,119.9,4.0,205.38,63.14,Good,Very High
+PROD-000942,Baby Einstein Seamless Mission-Critical Core Car Seats,Baby & Kids,Car Seats,Baby Einstein,Direct Import,89.4,35.45,4.5,53.95,60.35,Excellent,Medium
+PROD-000943,Graco Fully-Configurable Even-Keeled Open Architecture Car Seats,Baby & Kids,Car Seats,Graco,Amazon Supply,259.17,85.17,3.5,174.0,67.14,Good,High
+PROD-000944,Graco Innovative Directional Framework Car Seats,Baby & Kids,Car Seats,Graco,Asian Manufacturing,24.77,11.0,4.1,13.77,55.59,Excellent,Low
+PROD-000945,Chicco Visionary Executive Strategy Car Seats,Baby & Kids,Car Seats,Chicco,Euro Logistics,54.7,21.15,3.5,33.55,61.33,Good,Low
+PROD-000946,Gerber Expanded System-Worthy Strategy Car Seats,Baby & Kids,Car Seats,Gerber,Euro Logistics,323.04,193.17,2.6,129.87,40.2,Average,Very High
+PROD-000947,Britax Pre-Emptive Foreground Matrices Car Seats,Baby & Kids,Car Seats,Britax,Direct Import,269.94,111.08,3.4,158.86,58.85,Good,High
+PROD-000948,Huggies Monitored Next Generation Utilization Car Seats,Baby & Kids,Car Seats,Huggies,Direct Import,267.68,154.06,4.8,113.62,42.45,Excellent,High
+PROD-000949,Pandora Up-Sized Even-Keeled Forecast Rings,Jewelry,Rings,Pandora,Domestic Producers,598.27,303.4,4.4,294.87,49.29,Excellent,Very High
+PROD-000950,Mikimoto Decentralized Object-Oriented Service-Desk Rings,Jewelry,Rings,Mikimoto,Global Trade,288.45,164.19,3.4,124.26,43.08,Good,High
+PROD-000951,Pandora Quality-Focused Homogeneous Infrastructure Rings,Jewelry,Rings,Pandora,Domestic Producers,673.8,318.11,3.0,355.69,52.79,Average,Very High
+PROD-000952,Mikimoto Monitored Zero Administration Website Rings,Jewelry,Rings,Mikimoto,North American Supply,922.33,397.1,3.7,525.23,56.95,Good,Very High
+PROD-000953,Mikimoto Digitized Explicit Analyzer Rings,Jewelry,Rings,Mikimoto,Alibaba,259.81,106.96,2.6,152.85,58.83,Average,High
+PROD-000954,Tiffany Horizontal Transitional Artificial Intelligence Rings,Jewelry,Rings,Tiffany,Amazon Supply,216.46,142.87,3.2,73.59,34.0,Good,High
+PROD-000955,Tiffany Monitored Leadingedge Projection Rings,Jewelry,Rings,Tiffany,Domestic Producers,952.94,547.45,3.5,405.49,42.55,Good,Very High
+PROD-000956,Bvlgari Function-Based Value-Added Matrices Rings,Jewelry,Rings,Bvlgari,Asian Manufacturing,601.08,333.61,4.3,267.47,44.5,Excellent,Very High
+PROD-000957,Mikimoto Extended Dedicated Monitoring Rings,Jewelry,Rings,Mikimoto,Pacific Trade,318.37,161.07,4.6,157.3,49.41,Excellent,Very High
+PROD-000958,Mikimoto Future-Proofed Next Generation Standardization Rings,Jewelry,Rings,Mikimoto,Alibaba,949.13,633.8,3.5,315.33,33.22,Good,Very High
+PROD-000959,David Yurman Future-Proofed Client-Driven Benchmark Rings,Jewelry,Rings,David Yurman,Direct Import,791.35,429.62,3.7,361.73,45.71,Good,Very High
+PROD-000960,Bvlgari Seamless User-Facing Parallelism Rings,Jewelry,Rings,Bvlgari,Euro Logistics,244.45,141.13,2.9,103.32,42.27,Average,High
+PROD-000961,David Yurman Front-Line Dynamic Application Rings,Jewelry,Rings,David Yurman,Asian Manufacturing,364.99,239.62,3.0,125.37,34.35,Average,Very High
+PROD-000962,Messika Synchronized Multi-Tasking Definition Rings,Jewelry,Rings,Messika,Euro Logistics,117.6,49.47,4.8,68.13,57.93,Excellent,Medium
+PROD-000963,David Yurman Sharable Discrete Application Rings,Jewelry,Rings,David Yurman,Amazon Supply,531.57,277.92,4.4,253.65,47.72,Excellent,Very High
+PROD-000964,Pandora Cross-Platform Incremental Groupware Necklaces,Jewelry,Necklaces,Pandora,Multisource,844.03,421.73,4.2,422.3,50.03,Excellent,Very High
+PROD-000965,Messika Universal Methodical Attitude Necklaces,Jewelry,Necklaces,Messika,Multisource,782.57,466.72,2.9,315.85,40.36,Average,Very High
+PROD-000966,David Yurman Synergized Zero Administration Challenge Necklaces,Jewelry,Necklaces,David Yurman,Asian Manufacturing,882.09,495.49,3.2,386.6,43.83,Good,Very High
+PROD-000967,Van Cleef Adaptive Neutral Complexity Necklaces,Jewelry,Necklaces,Van Cleef,Domestic Producers,453.97,186.7,2.8,267.27,58.87,Average,Very High
+PROD-000968,Pandora Open-Source Solution-Oriented Leverage Necklaces,Jewelry,Necklaces,Pandora,North American Supply,777.27,310.91,3.5,466.36,60.0,Good,Very High
+PROD-000969,Van Cleef Polarized Solution-Oriented Customer Loyalty Earrings,Jewelry,Earrings,Van Cleef,Pacific Trade,546.38,227.51,4.8,318.87,58.36,Excellent,Very High
+PROD-000970,Pandora Versatile Executive Graphic Interface Earrings,Jewelry,Earrings,Pandora,North American Supply,264.82,130.1,3.2,134.72,50.87,Good,High
+PROD-000971,Tous Horizontal Secondary Approach Earrings,Jewelry,Earrings,Tous,Direct Import,268.9,107.68,4.3,161.22,59.96,Excellent,High
+PROD-000972,Cartier Visionary Background Projection Earrings,Jewelry,Earrings,Cartier,North American Supply,968.5,452.57,4.1,515.93,53.27,Excellent,Very High
+PROD-000973,Swarovski Re-Engineered Discrete Monitoring Earrings,Jewelry,Earrings,Swarovski,Multisource,754.8,494.04,3.5,260.76,34.55,Good,Very High
+PROD-000974,Cartier User-Centric Uniform Alliance Earrings,Jewelry,Earrings,Cartier,Euro Logistics,337.78,168.08,4.2,169.7,50.24,Excellent,Very High
+PROD-000975,David Yurman Enhanced Intangible Conglomeration Earrings,Jewelry,Earrings,David Yurman,Asian Manufacturing,825.94,375.38,3.4,450.56,54.55,Good,Very High
+PROD-000976,Pandora Automated Hybrid Toolset Earrings,Jewelry,Earrings,Pandora,Amazon Supply,906.84,582.2,4.9,324.64,35.8,Excellent,Very High
+PROD-000977,Tiffany Proactive Contextually-Based Synergy Earrings,Jewelry,Earrings,Tiffany,Euro Logistics,766.54,397.04,3.9,369.5,48.2,Good,Very High
+PROD-000978,Messika Implemented 5Thgeneration Access Earrings,Jewelry,Earrings,Messika,Domestic Producers,677.96,287.14,3.8,390.82,57.65,Good,Very High
+PROD-000979,Swarovski Innovative Non-Volatile Portal Bracelets,Jewelry,Bracelets,Swarovski,Global Trade,723.85,325.87,4.4,397.98,54.98,Excellent,Very High
+PROD-000980,Van Cleef Customer-Focused Full-Range Forecast Bracelets,Jewelry,Bracelets,Van Cleef,Domestic Producers,604.58,414.54,2.6,190.04,31.43,Average,Very High
+PROD-000981,Van Cleef Persevering Secondary Moratorium Bracelets,Jewelry,Bracelets,Van Cleef,Asian Manufacturing,302.06,175.34,3.2,126.72,41.95,Good,High
+PROD-000982,Pandora Progressive Modular Challenge Bracelets,Jewelry,Bracelets,Pandora,Multisource,728.7,457.41,2.7,271.29,37.23,Average,Very High
+PROD-000983,Tous Profit-Focused Maximized Flexibility Bracelets,Jewelry,Bracelets,Tous,Multisource,538.16,297.42,3.4,240.74,44.73,Good,Very High
+PROD-000984,David Yurman Ergonomic Bifurcated Groupware Bracelets,Jewelry,Bracelets,David Yurman,Euro Logistics,936.28,606.95,4.2,329.33,35.17,Excellent,Very High
+PROD-000985,David Yurman Diverse Upward-Trending Knowledgebase Bracelets,Jewelry,Bracelets,David Yurman,Alibaba,728.61,392.37,4.7,336.24,46.15,Excellent,Very High
+PROD-000986,Cartier Stand-Alone Eco-Centric Structure Bracelets,Jewelry,Bracelets,Cartier,Pacific Trade,709.87,439.19,4.6,270.68,38.13,Excellent,Very High
+PROD-000987,Tous Enterprise-Wide 24/7 Support Bracelets,Jewelry,Bracelets,Tous,Multisource,310.37,199.3,3.0,111.07,35.79,Average,High
+PROD-000988,Swarovski Mandatory Explicit Open System Bracelets,Jewelry,Bracelets,Swarovski,Asian Manufacturing,378.07,189.29,4.8,188.78,49.93,Excellent,Very High
+PROD-000989,Mikimoto Synergistic Web-Enabled Core Bracelets,Jewelry,Bracelets,Mikimoto,North American Supply,863.71,527.17,4.2,336.54,38.96,Excellent,Very High
+PROD-000990,Tiffany Enhanced Reciprocal Productivity Watches,Jewelry,Watches,Tiffany,Euro Logistics,583.97,399.51,3.7,184.46,31.59,Good,Very High
+PROD-000991,David Yurman Open-Architected Interactive Migration Watches,Jewelry,Watches,David Yurman,Domestic Producers,411.49,184.72,4.4,226.77,55.11,Excellent,Very High
+PROD-000992,David Yurman Inverse Background Initiative Watches,Jewelry,Watches,David Yurman,Euro Logistics,747.72,385.3,2.6,362.42,48.47,Average,Very High
+PROD-000993,Tous Synchronized Bandwidth-Monitored Contingency Watches,Jewelry,Watches,Tous,Alibaba,847.05,341.72,4.2,505.33,59.66,Excellent,Very High
+PROD-000994,Cartier Devolved Mission-Critical Graphic Interface Watches,Jewelry,Watches,Cartier,Pacific Trade,971.74,516.28,3.1,455.46,46.87,Good,Very High
+PROD-000995,Bvlgari Fully-Configurable 24Hour Firmware Pendants,Jewelry,Pendants,Bvlgari,North American Supply,719.63,464.26,3.8,255.37,35.49,Good,Very High
+PROD-000996,Messika Networked Disintermediate Knowledge User Pendants,Jewelry,Pendants,Messika,North American Supply,968.68,402.49,3.7,566.19,58.45,Good,Very High
+PROD-000997,Tiffany Versatile Encompassing Groupware Pendants,Jewelry,Pendants,Tiffany,Pacific Trade,732.53,482.59,2.9,249.94,34.12,Average,Very High
+PROD-000998,Tiffany Innovative Optimal Success Pendants,Jewelry,Pendants,Tiffany,Domestic Producers,810.0,458.31,3.5,351.69,43.42,Good,Very High
+PROD-000999,Tous Re-Engineered 24/7 Firmware Pendants,Jewelry,Pendants,Tous,Asian Manufacturing,175.13,115.51,2.9,59.62,34.04,Average,High
+PROD-001000,Van Cleef Streamlined High-Level Solution Pendants,Jewelry,Pendants,Van Cleef,Direct Import,344.3,167.68,4.6,176.62,51.3,Excellent,Very High
+PROD-001001,Bvlgari Front-Line Analyzing Secured Line Pendants,Jewelry,Pendants,Bvlgari,Amazon Supply,689.07,440.32,3.1,248.75,36.1,Good,Very High
+PROD-001002,Tous Decentralized Maximized Function Chains,Jewelry,Chains,Tous,Multisource,643.63,367.85,4.5,275.78,42.85,Excellent,Very High
+PROD-001003,Tous Diverse Impactful Software Chains,Jewelry,Chains,Tous,Euro Logistics,910.78,367.63,4.1,543.15,59.64,Excellent,Very High
+PROD-001004,Mikimoto Profit-Focused Tertiary Throughput Chains,Jewelry,Chains,Mikimoto,Domestic Producers,99.24,56.04,3.2,43.2,43.53,Good,Medium
+PROD-001005,Cartier Integrated System-Worthy Capability Chains,Jewelry,Chains,Cartier,Global Trade,341.44,172.73,4.0,168.71,49.41,Good,Very High
+PROD-001006,Cartier Sharable Explicit Hub Chains,Jewelry,Chains,Cartier,Pacific Trade,367.35,227.69,3.5,139.66,38.02,Good,Very High
+PROD-001007,Van Cleef Seamless Directional Definition Chains,Jewelry,Chains,Van Cleef,North American Supply,114.94,73.0,3.2,41.94,36.49,Good,Medium
+PROD-001008,Tous Devolved Mission-Critical Collaboration Chains,Jewelry,Chains,Tous,North American Supply,461.13,279.28,3.3,181.85,39.44,Good,Very High
+PROD-001009,Pandora Persevering Value-Added Portal Chains,Jewelry,Chains,Pandora,Asian Manufacturing,103.76,53.14,4.8,50.62,48.79,Excellent,Medium
+PROD-001010,Mikimoto Multi-Layered Intangible Standardization Chains,Jewelry,Chains,Mikimoto,Direct Import,659.65,396.74,4.0,262.91,39.86,Good,Very High
+PROD-001011,Messika Reactive Methodical System Engine Chains,Jewelry,Chains,Messika,Direct Import,239.04,125.62,4.3,113.42,47.45,Excellent,High
+PROD-001012,Tiffany Public-Key Static Data-Warehouse Chains,Jewelry,Chains,Tiffany,Alibaba,146.3,70.71,3.2,75.59,51.67,Good,Medium
+PROD-001013,Pandora Virtual Dynamic Software Gemstones,Jewelry,Gemstones,Pandora,North American Supply,460.42,319.58,2.7,140.84,30.59,Average,Very High
+PROD-001014,David Yurman Versatile Radical Toolset Gemstones,Jewelry,Gemstones,David Yurman,Direct Import,542.77,246.31,4.8,296.46,54.62,Excellent,Very High
+PROD-001015,David Yurman Configurable Multi-Tasking Knowledge User Gemstones,Jewelry,Gemstones,David Yurman,Global Trade,157.64,82.14,4.3,75.5,47.89,Excellent,Medium
+PROD-001016,Mikimoto Progressive Tertiary Hierarchy Gemstones,Jewelry,Gemstones,Mikimoto,Direct Import,719.33,378.96,3.3,340.37,47.32,Good,Very High
+PROD-001017,Pandora Compatible Non-Volatile Budgetary Management Gemstones,Jewelry,Gemstones,Pandora,North American Supply,427.73,205.0,3.0,222.73,52.07,Average,Very High
+PROD-001018,Kraft Heinz Centralized Neutral Middleware Beverages,Grocery,Beverages,Kraft Heinz,Global Trade,50.89,16.14,3.2,34.75,68.28,Good,Low
+PROD-001019,Mars Exclusive Object-Oriented Monitoring Beverages,Grocery,Beverages,Mars,Domestic Producers,67.39,33.16,3.9,34.23,50.79,Good,Low
+PROD-001020,Coca-Cola Distributed Composite Graphic Interface Beverages,Grocery,Beverages,Coca-Cola,Domestic Producers,12.31,3.31,4.8,9.0,73.11,Excellent,Low
+PROD-001021,Kraft Heinz Programmable Leadingedge Budgetary Management Beverages,Grocery,Beverages,Kraft Heinz,Direct Import,33.24,9.08,3.9,24.16,72.68,Good,Low
+PROD-001022,Unilever Synergized Demand-Driven Structure Beverages,Grocery,Beverages,Unilever,Direct Import,64.25,26.48,3.1,37.77,58.79,Good,Low
+PROD-001023,Mondelez Reduced Mobile Array Beverages,Grocery,Beverages,Mondelez,Domestic Producers,6.44,3.16,3.1,3.28,50.93,Good,Low
+PROD-001024,Coca-Cola Profound Local Workforce Beverages,Grocery,Beverages,Coca-Cola,Multisource,69.22,29.53,4.0,39.69,57.34,Good,Low
+PROD-001025,Nestle Centralized Logistical Capacity Beverages,Grocery,Beverages,Nestle,North American Supply,34.73,11.04,3.9,23.69,68.21,Good,Low
+PROD-001026,Kraft Heinz Profound Intangible Knowledgebase Beverages,Grocery,Beverages,Kraft Heinz,Amazon Supply,87.28,42.48,2.8,44.8,51.33,Average,Medium
+PROD-001027,Mars Re-Contextualized Analyzing Open Architecture Beverages,Grocery,Beverages,Mars,Domestic Producers,19.71,9.58,4.3,10.13,51.4,Excellent,Low
+PROD-001028,Coca-Cola Persistent Systematic Workforce Beverages,Grocery,Beverages,Coca-Cola,Alibaba,88.88,26.72,3.9,62.16,69.94,Good,Medium
+PROD-001029,P&G Integrated Uniform Adapter Beverages,Grocery,Beverages,P&G,Multisource,71.61,30.08,3.5,41.53,57.99,Good,Low
+PROD-001030,Coca-Cola Object-Based Eco-Centric Ability Beverages,Grocery,Beverages,Coca-Cola,Domestic Producers,6.46,2.56,3.1,3.9,60.37,Good,Low
+PROD-001031,P&G User-Friendly Didactic Paradigm Beverages,Grocery,Beverages,P&G,Asian Manufacturing,47.77,23.38,3.5,24.39,51.06,Good,Low
+PROD-001032,P&G Compatible 6Thgeneration Interface Snacks,Grocery,Snacks,P&G,Multisource,84.78,25.19,4.1,59.59,70.29,Excellent,Medium
+PROD-001033,General Mills Monitored Tangible Architecture Snacks,Grocery,Snacks,General Mills,Direct Import,97.82,26.95,2.5,70.87,72.45,Average,Medium
+PROD-001034,P&G Quality-Focused Analyzing Architecture Snacks,Grocery,Snacks,P&G,Pacific Trade,46.19,12.62,4.3,33.57,72.68,Excellent,Low
+PROD-001035,General Mills Phased 5Thgeneration Forecast Snacks,Grocery,Snacks,General Mills,Asian Manufacturing,91.88,32.94,3.1,58.94,64.15,Good,Medium
+PROD-001036,Nestle Open-Source Contextually-Based Throughput Snacks,Grocery,Snacks,Nestle,Domestic Producers,46.27,19.94,2.5,26.33,56.91,Average,Low
+PROD-001037,Pepsico Devolved Zero Administration Project Pantry Staples,Grocery,Pantry Staples,Pepsico,Alibaba,61.0,24.6,4.0,36.4,59.67,Good,Low
+PROD-001038,Mondelez Upgradable Secondary Instruction Set Pantry Staples,Grocery,Pantry Staples,Mondelez,North American Supply,27.99,11.99,2.7,16.0,57.16,Average,Low
+PROD-001039,Mars Multi-Layered Homogeneous Knowledge User Pantry Staples,Grocery,Pantry Staples,Mars,Global Trade,23.93,11.23,4.3,12.7,53.07,Excellent,Low
+PROD-001040,Mars Multi-Tiered Homogeneous Artificial Intelligence Pantry Staples,Grocery,Pantry Staples,Mars,Asian Manufacturing,6.31,1.97,3.0,4.34,68.78,Average,Low
+PROD-001041,Mars Synergized Stable Moratorium Pantry Staples,Grocery,Pantry Staples,Mars,Direct Import,30.73,9.58,2.7,21.15,68.83,Average,Low
+PROD-001042,P&G Devolved Solution-Oriented Hardware Pantry Staples,Grocery,Pantry Staples,P&G,Multisource,48.6,21.05,4.0,27.55,56.69,Good,Low
+PROD-001043,General Mills Decentralized Context-Sensitive Monitoring Dairy,Grocery,Dairy,General Mills,Direct Import,68.92,18.63,4.8,50.29,72.97,Excellent,Low
+PROD-001044,Pepsico Object-Based Multi-Tasking Capacity Dairy,Grocery,Dairy,Pepsico,Direct Import,84.66,38.2,4.5,46.46,54.88,Excellent,Medium
+PROD-001045,Kraft Heinz Upgradable Directional Ability Dairy,Grocery,Dairy,Kraft Heinz,Multisource,93.61,36.14,3.0,57.47,61.39,Average,Medium
+PROD-001046,Unilever Versatile 3Rdgeneration Framework Dairy,Grocery,Dairy,Unilever,Pacific Trade,63.59,27.71,4.3,35.88,56.42,Excellent,Low
+PROD-001047,Kraft Heinz Persistent Systematic Success Dairy,Grocery,Dairy,Kraft Heinz,Global Trade,54.54,14.57,3.4,39.97,73.29,Good,Low
+PROD-001048,Unilever Quality-Focused Interactive Monitoring Meat,Grocery,Meat,Unilever,North American Supply,92.47,36.63,3.8,55.84,60.39,Good,Medium
+PROD-001049,Unilever Multi-Tiered Discrete Encryption Meat,Grocery,Meat,Unilever,North American Supply,30.54,10.45,4.6,20.09,65.78,Excellent,Low
+PROD-001050,Coca-Cola Persevering Grid-Enabled Collaboration Meat,Grocery,Meat,Coca-Cola,Domestic Producers,68.31,30.52,3.6,37.79,55.32,Good,Low
+PROD-001051,Mondelez Grass-Roots Content-Based Success Meat,Grocery,Meat,Mondelez,Asian Manufacturing,64.87,20.25,4.2,44.62,68.78,Excellent,Low
+PROD-001052,Pepsico Virtual Bifurcated Alliance Meat,Grocery,Meat,Pepsico,Euro Logistics,45.62,16.45,4.1,29.17,63.94,Excellent,Low
+PROD-001053,Unilever Switchable Intangible Pricing Structure Meat,Grocery,Meat,Unilever,Euro Logistics,93.95,24.99,4.5,68.96,73.4,Excellent,Medium
+PROD-001054,Pepsico Visionary 3Rdgeneration Encoding Meat,Grocery,Meat,Pepsico,Euro Logistics,32.78,11.83,2.6,20.95,63.91,Average,Low
+PROD-001055,Coca-Cola Expanded Asymmetric Attitude Meat,Grocery,Meat,Coca-Cola,Asian Manufacturing,33.6,12.62,2.6,20.98,62.44,Average,Low
+PROD-001056,Mondelez Right-Sized 5Thgeneration Knowledge User Meat,Grocery,Meat,Mondelez,North American Supply,51.65,24.88,2.8,26.77,51.83,Average,Low
+PROD-001057,Mondelez Right-Sized Systematic Strategy Meat,Grocery,Meat,Mondelez,North American Supply,77.62,27.35,4.1,50.27,64.76,Excellent,Medium
+PROD-001058,Unilever Business-Focused Dynamic Support Meat,Grocery,Meat,Unilever,Euro Logistics,29.72,8.62,2.9,21.1,71.0,Average,Low
+PROD-001059,Coca-Cola Balanced Impactful Intranet Meat,Grocery,Meat,Coca-Cola,Amazon Supply,11.7,3.47,4.1,8.23,70.34,Excellent,Low
+PROD-001060,Unilever Focused Needs-Based Data-Warehouse Produce,Grocery,Produce,Unilever,Pacific Trade,88.76,40.26,4.1,48.5,54.64,Excellent,Medium
+PROD-001061,Mars Versatile Zero-Defect Approach Produce,Grocery,Produce,Mars,North American Supply,15.49,4.99,3.2,10.5,67.79,Good,Low
+PROD-001062,General Mills Devolved Motivating Frame Produce,Grocery,Produce,General Mills,Euro Logistics,28.75,10.89,3.8,17.86,62.12,Good,Low
+PROD-001063,Nestle Focused Upward-Trending Orchestration Produce,Grocery,Produce,Nestle,Euro Logistics,38.9,13.17,4.5,25.73,66.14,Excellent,Low
+PROD-001064,Kellogg'S Intuitive Object-Oriented Policy Produce,Grocery,Produce,Kellogg'S,North American Supply,79.98,26.15,4.7,53.83,67.3,Excellent,Medium
+PROD-001065,Mondelez Visionary Systematic Graphic Interface Produce,Grocery,Produce,Mondelez,Euro Logistics,95.52,31.68,3.4,63.84,66.83,Good,Medium
+PROD-001066,Mondelez Front-Line Exuding Circuit Produce,Grocery,Produce,Mondelez,Asian Manufacturing,53.04,25.74,4.6,27.3,51.47,Excellent,Low
+PROD-001067,Pepsico Switchable Multi-State Definition Produce,Grocery,Produce,Pepsico,Direct Import,14.74,5.13,3.8,9.61,65.2,Good,Low
+PROD-001068,Coca-Cola Open-Source Exuding Focus Group Produce,Grocery,Produce,Coca-Cola,Direct Import,52.8,15.76,4.6,37.04,70.15,Excellent,Low
+PROD-001069,Coca-Cola Centralized Next Generation Parallelism Produce,Grocery,Produce,Coca-Cola,Global Trade,69.31,31.85,4.6,37.46,54.05,Excellent,Low
+PROD-001070,Kellogg'S User-Centric Context-Sensitive Product Produce,Grocery,Produce,Kellogg'S,Domestic Producers,76.09,27.38,4.0,48.71,64.02,Good,Medium
+PROD-001071,P&G Synergistic Interactive Open Architecture Produce,Grocery,Produce,P&G,Asian Manufacturing,20.23,8.46,2.9,11.77,58.18,Average,Low
+PROD-001072,Pepsico Proactive Actuating Hardware Produce,Grocery,Produce,Pepsico,Alibaba,70.93,21.8,2.8,49.13,69.27,Average,Low
+PROD-001073,Unilever Stand-Alone Static Implementation Produce,Grocery,Produce,Unilever,Asian Manufacturing,20.7,5.19,4.2,15.51,74.93,Excellent,Low
+PROD-001074,Pepsico Progressive Foreground Standardization Frozen Foods,Grocery,Frozen Foods,Pepsico,Alibaba,74.58,28.25,2.9,46.33,62.12,Average,Low
+PROD-001075,Kellogg'S Operative Incremental Collaboration Frozen Foods,Grocery,Frozen Foods,Kellogg'S,Pacific Trade,12.94,3.3,2.9,9.64,74.5,Average,Low
+PROD-001076,Kraft Heinz Innovative Homogeneous Contingency Frozen Foods,Grocery,Frozen Foods,Kraft Heinz,Multisource,89.63,27.82,3.4,61.81,68.96,Good,Medium
+PROD-001077,Kellogg'S Versatile National Leverage Frozen Foods,Grocery,Frozen Foods,Kellogg'S,Global Trade,15.01,4.59,3.7,10.42,69.42,Good,Low
+PROD-001078,Nestle Front-Line Directional Framework Frozen Foods,Grocery,Frozen Foods,Nestle,Direct Import,62.74,19.53,2.6,43.21,68.87,Average,Low
+PROD-001079,General Mills Triple-Buffered Client-Server Workforce Frozen Foods,Grocery,Frozen Foods,General Mills,Pacific Trade,42.15,13.01,3.0,29.14,69.13,Average,Low
+PROD-001080,Mondelez Persistent Analyzing Open Architecture Frozen Foods,Grocery,Frozen Foods,Mondelez,Multisource,96.19,38.87,3.8,57.32,59.59,Good,Medium
+PROD-001081,Pepsico Open-Source Intangible Open Architecture Frozen Foods,Grocery,Frozen Foods,Pepsico,Euro Logistics,44.5,15.9,3.8,28.6,64.27,Good,Low
+PROD-001082,Kraft Heinz Progressive Client-Driven Info-Mediaries Frozen Foods,Grocery,Frozen Foods,Kraft Heinz,Euro Logistics,71.16,30.28,2.9,40.88,57.45,Average,Low
+PROD-001083,Nestle Fully-Configurable Eco-Centric Database Frozen Foods,Grocery,Frozen Foods,Nestle,Amazon Supply,52.51,18.54,4.6,33.97,64.69,Excellent,Low
+PROD-001084,P&G Managed Secondary Artificial Intelligence Frozen Foods,Grocery,Frozen Foods,P&G,Asian Manufacturing,64.98,24.9,2.8,40.08,61.68,Average,Low
+PROD-001085,Unilever Organized Holistic Array Frozen Foods,Grocery,Frozen Foods,Unilever,Alibaba,62.54,17.47,3.3,45.07,72.07,Good,Low
+PROD-001086,General Mills Public-Key Uniform Core Frozen Foods,Grocery,Frozen Foods,General Mills,Pacific Trade,18.57,7.86,3.0,10.71,57.67,Average,Low
+PROD-001087,General Mills Business-Focused Encompassing Implementation Frozen Foods,Grocery,Frozen Foods,General Mills,Alibaba,42.23,20.01,3.0,22.22,52.62,Average,Low
+PROD-001088,Mars Synergistic Real-Time Portal Frozen Foods,Grocery,Frozen Foods,Mars,Multisource,53.24,18.89,2.5,34.35,64.52,Average,Low
+PROD-001089,Coca-Cola Balanced Asynchronous Core Organic,Grocery,Organic,Coca-Cola,Alibaba,80.31,21.46,3.6,58.85,73.28,Good,Medium
+PROD-001090,Nestle Virtual Optimizing Success Organic,Grocery,Organic,Nestle,Euro Logistics,58.26,23.72,4.2,34.54,59.29,Excellent,Low
+PROD-001091,P&G Synchronized Next Generation Data-Warehouse Organic,Grocery,Organic,P&G,Domestic Producers,29.06,7.34,4.2,21.72,74.74,Excellent,Low
+PROD-001092,Kellogg'S Polarized Demand-Driven Groupware Organic,Grocery,Organic,Kellogg'S,North American Supply,55.89,25.66,4.5,30.23,54.09,Excellent,Low
+PROD-001093,Coca-Cola Innovative 24/7 Data-Warehouse Organic,Grocery,Organic,Coca-Cola,Multisource,85.12,31.6,3.3,53.52,62.88,Good,Medium
+PROD-001094,Unilever Ergonomic User-Facing Capability Organic,Grocery,Organic,Unilever,Direct Import,80.2,29.1,2.9,51.1,63.72,Average,Medium
+PROD-001095,Mondelez User-Friendly Web-Enabled Matrices Organic,Grocery,Organic,Mondelez,Global Trade,86.22,40.58,3.6,45.64,52.93,Good,Medium
+PROD-001096,Papermate Fully-Configurable Tangible Portal Paper Products,Office Supplies,Paper Products,Papermate,Euro Logistics,31.95,12.68,4.4,19.27,60.31,Excellent,Low
+PROD-001097,Avery Triple-Buffered Demand-Driven Infrastructure Paper Products,Office Supplies,Paper Products,Avery,Amazon Supply,271.51,95.26,2.7,176.25,64.91,Average,High
+PROD-001098,Sharpie Front-Line Neutral Graphic Interface Paper Products,Office Supplies,Paper Products,Sharpie,Global Trade,264.43,105.07,3.8,159.36,60.27,Good,High
+PROD-001099,Papermate Vision-Oriented Executive Implementation Paper Products,Office Supplies,Paper Products,Papermate,Euro Logistics,290.74,92.06,4.1,198.68,68.34,Excellent,High
+PROD-001100,3M Persistent National Projection Paper Products,Office Supplies,Paper Products,3M,Alibaba,31.49,12.4,4.4,19.09,60.62,Excellent,Low
+PROD-001101,Sharpie Multi-Channeled Fault-Tolerant Firmware Paper Products,Office Supplies,Paper Products,Sharpie,Euro Logistics,135.71,74.54,3.8,61.17,45.07,Good,Medium
+PROD-001102,Mead Multi-Lateral Multimedia Methodology Paper Products,Office Supplies,Paper Products,Mead,Asian Manufacturing,103.14,36.62,3.3,66.52,64.49,Good,Medium
+PROD-001103,3M Persistent Bandwidth-Monitored Website Paper Products,Office Supplies,Paper Products,3M,Domestic Producers,118.03,37.44,3.4,80.59,68.28,Good,Medium
+PROD-001104,Bic Up-Sized Methodical Task-Force Paper Products,Office Supplies,Paper Products,Bic,Pacific Trade,144.63,69.52,4.1,75.11,51.93,Excellent,Medium
+PROD-001105,Five Star Intuitive Demand-Driven Hub Paper Products,Office Supplies,Paper Products,Five Star,North American Supply,215.54,65.11,3.0,150.43,69.79,Average,High
+PROD-001106,Office Depot Intuitive Incremental Analyzer Paper Products,Office Supplies,Paper Products,Office Depot,Pacific Trade,201.89,85.0,2.5,116.89,57.9,Average,High
+PROD-001107,Office Depot Re-Contextualized Directional Support Paper Products,Office Supplies,Paper Products,Office Depot,Global Trade,243.3,120.0,3.8,123.3,50.68,Good,High
+PROD-001108,3M Digitized 3Rdgeneration Firmware Paper Products,Office Supplies,Paper Products,3M,Multisource,29.27,14.39,3.9,14.88,50.84,Good,Low
+PROD-001109,Avery Reactive Optimal Paradigm Writing Instruments,Office Supplies,Writing Instruments,Avery,Alibaba,236.77,115.53,4.4,121.24,51.21,Excellent,High
+PROD-001110,Post-It Up-Sized Intangible Frame Writing Instruments,Office Supplies,Writing Instruments,Post-It,Pacific Trade,160.22,53.69,4.1,106.53,66.49,Excellent,Medium
+PROD-001111,Avery Distributed Dedicated Groupware Writing Instruments,Office Supplies,Writing Instruments,Avery,Multisource,189.94,92.23,2.9,97.71,51.44,Average,High
+PROD-001112,Post-It Focused Homogeneous Open System Writing Instruments,Office Supplies,Writing Instruments,Post-It,North American Supply,66.54,34.77,4.3,31.77,47.75,Excellent,Low
+PROD-001113,Post-It Fully-Configurable Modular Neural-Net Writing Instruments,Office Supplies,Writing Instruments,Post-It,Domestic Producers,273.39,133.87,3.9,139.52,51.03,Good,High
+PROD-001114,Mead Streamlined Systemic Graphical User Interface Writing Instruments,Office Supplies,Writing Instruments,Mead,Alibaba,199.7,104.3,3.9,95.4,47.77,Good,High
+PROD-001115,Post-It Function-Based Well-Modulated Matrix Writing Instruments,Office Supplies,Writing Instruments,Post-It,North American Supply,193.39,65.58,3.6,127.81,66.09,Good,High
+PROD-001116,Avery Up-Sized Secondary Support Writing Instruments,Office Supplies,Writing Instruments,Avery,Alibaba,217.76,80.08,3.0,137.68,63.23,Average,High
+PROD-001117,Office Depot Pre-Emptive Logistical Concept Writing Instruments,Office Supplies,Writing Instruments,Office Depot,Multisource,101.01,36.4,3.0,64.61,63.96,Average,Medium
+PROD-001118,Post-It Upgradable Heuristic Concept Writing Instruments,Office Supplies,Writing Instruments,Post-It,Global Trade,133.21,70.2,3.7,63.01,47.3,Good,Medium
+PROD-001119,Five Star Devolved Uniform Moratorium Office Furniture,Office Supplies,Office Furniture,Five Star,Euro Logistics,64.5,20.59,4.2,43.91,68.08,Excellent,Low
+PROD-001120,Office Depot Pre-Emptive Contextually-Based Moratorium Office Furniture,Office Supplies,Office Furniture,Office Depot,Euro Logistics,121.01,61.17,4.1,59.84,49.45,Excellent,Medium
+PROD-001121,Sharpie Stand-Alone Analyzing Moderator Office Furniture,Office Supplies,Office Furniture,Sharpie,Domestic Producers,240.91,88.65,4.2,152.26,63.2,Excellent,High
+PROD-001122,Avery Automated Asynchronous Secured Line Office Furniture,Office Supplies,Office Furniture,Avery,Asian Manufacturing,86.58,46.3,4.0,40.28,46.52,Good,Medium
+PROD-001123,3M Business-Focused Well-Modulated Ability Office Furniture,Office Supplies,Office Furniture,3M,Multisource,104.11,38.25,3.0,65.86,63.26,Average,Medium
+PROD-001124,3M Open-Source Client-Driven Product Office Furniture,Office Supplies,Office Furniture,3M,Multisource,211.45,75.0,3.9,136.45,64.53,Good,High
+PROD-001125,Mead Focused Asymmetric Strategy Office Furniture,Office Supplies,Office Furniture,Mead,North American Supply,86.74,40.38,4.5,46.36,53.45,Excellent,Medium
+PROD-001126,Bic Distributed 24/7 Data-Warehouse Office Furniture,Office Supplies,Office Furniture,Bic,Direct Import,235.63,115.51,3.0,120.12,50.98,Average,High
+PROD-001127,Papermate Profit-Focused Logistical Hub Office Furniture,Office Supplies,Office Furniture,Papermate,Direct Import,35.63,16.91,3.4,18.72,52.54,Good,Low
+PROD-001128,Avery Centralized Regional Productivity Office Furniture,Office Supplies,Office Furniture,Avery,Asian Manufacturing,135.38,41.67,3.1,93.71,69.22,Good,Medium
+PROD-001129,Mead Synchronized Reciprocal Matrices Office Furniture,Office Supplies,Office Furniture,Mead,Amazon Supply,19.77,10.28,3.1,9.49,48.0,Good,Low
+PROD-001130,Papermate Switchable Mobile Adapter Technology,Office Supplies,Technology,Papermate,Direct Import,171.63,53.16,4.1,118.47,69.03,Excellent,High
+PROD-001131,Sharpie Adaptive National Neural-Net Technology,Office Supplies,Technology,Sharpie,Amazon Supply,103.68,54.38,4.6,49.3,47.55,Excellent,Medium
+PROD-001132,Mead Open-Source 24/7 Adapter Technology,Office Supplies,Technology,Mead,Amazon Supply,104.33,54.8,4.9,49.53,47.47,Excellent,Medium
+PROD-001133,Staples Progressive Uniform Focus Group Technology,Office Supplies,Technology,Staples,Direct Import,249.37,127.48,3.1,121.89,48.88,Good,High
+PROD-001134,Five Star Public-Key Executive Adapter Technology,Office Supplies,Technology,Five Star,Asian Manufacturing,177.24,56.15,2.7,121.09,68.32,Average,High
+PROD-001135,Mead Profit-Focused Tangible Service-Desk Technology,Office Supplies,Technology,Mead,Direct Import,299.68,114.38,4.3,185.3,61.83,Excellent,High
+PROD-001136,3M Optional Context-Sensitive Benchmark Technology,Office Supplies,Technology,3M,Global Trade,243.93,125.5,4.9,118.43,48.55,Excellent,High
+PROD-001137,Sharpie Cross-Platform Multi-Tasking Collaboration Technology,Office Supplies,Technology,Sharpie,Direct Import,80.03,24.82,3.5,55.21,68.99,Good,Medium
+PROD-001138,Papermate Front-Line Content-Based Process Improvement Technology,Office Supplies,Technology,Papermate,Amazon Supply,47.72,14.58,3.4,33.14,69.45,Good,Low
+PROD-001139,Avery Progressive Eco-Centric Help-Desk Technology,Office Supplies,Technology,Avery,Domestic Producers,237.28,104.77,3.3,132.51,55.85,Good,High
+PROD-001140,Papermate Future-Proofed Hybrid Artificial Intelligence Technology,Office Supplies,Technology,Papermate,Amazon Supply,199.76,71.51,2.5,128.25,64.2,Average,High
+PROD-001141,Five Star Multi-Layered Impactful Knowledgebase Technology,Office Supplies,Technology,Five Star,Multisource,231.66,105.62,4.3,126.04,54.41,Excellent,High
+PROD-001142,Staples Re-Contextualized Dynamic Standardization Technology,Office Supplies,Technology,Staples,Multisource,21.29,10.84,4.0,10.45,49.08,Good,Low
+PROD-001143,Five Star Face-To-Face Exuding Software Storage,Office Supplies,Storage,Five Star,Pacific Trade,173.38,79.09,4.6,94.29,54.38,Excellent,High
+PROD-001144,Papermate Configurable Solution-Oriented Projection Storage,Office Supplies,Storage,Papermate,Domestic Producers,180.21,80.24,4.9,99.97,55.47,Excellent,High
+PROD-001145,Staples Virtual 5Thgeneration Array Storage,Office Supplies,Storage,Staples,Direct Import,229.45,94.21,4.2,135.24,58.94,Excellent,High
+PROD-001146,Papermate Open-Architected Homogeneous Implementation Storage,Office Supplies,Storage,Papermate,Euro Logistics,122.88,43.9,3.9,78.98,64.27,Good,Medium
+PROD-001147,Staples Reactive Methodical Approach Storage,Office Supplies,Storage,Staples,Pacific Trade,279.17,148.6,3.3,130.57,46.77,Good,High
+PROD-001148,Post-It Sharable 24/7 Standardization Storage,Office Supplies,Storage,Post-It,Alibaba,163.03,57.53,4.9,105.5,64.71,Excellent,Medium
+PROD-001149,Avery Down-Sized Attitude-Oriented Methodology Storage,Office Supplies,Storage,Avery,Domestic Producers,294.52,136.18,4.4,158.34,53.76,Excellent,High
+PROD-001150,Staples Optional Secondary Toolset Mail & Shipping,Office Supplies,Mail & Shipping,Staples,Pacific Trade,217.38,97.45,2.6,119.93,55.17,Average,High
+PROD-001151,Sharpie Managed Non-Volatile Attitude Mail & Shipping,Office Supplies,Mail & Shipping,Sharpie,Amazon Supply,141.88,66.5,4.1,75.38,53.13,Excellent,Medium
+PROD-001152,Five Star Progressive 6Thgeneration Emulation Mail & Shipping,Office Supplies,Mail & Shipping,Five Star,Alibaba,118.21,63.29,2.9,54.92,46.46,Average,Medium
+PROD-001153,Office Depot Extended System-Worthy Open System Mail & Shipping,Office Supplies,Mail & Shipping,Office Depot,Multisource,155.1,73.32,4.2,81.78,52.73,Excellent,Medium
+PROD-001154,Staples Phased Encompassing Analyzer Mail & Shipping,Office Supplies,Mail & Shipping,Staples,Euro Logistics,198.11,73.07,2.9,125.04,63.12,Average,High
+PROD-001155,Bic Compatible Systemic Focus Group Mail & Shipping,Office Supplies,Mail & Shipping,Bic,Global Trade,194.42,87.46,2.9,106.96,55.01,Average,High
+PROD-001156,Bic Quality-Focused Non-Volatile Protocol Presentation,Office Supplies,Presentation,Bic,North American Supply,214.49,88.75,4.1,125.74,58.62,Excellent,High
+PROD-001157,Bic Automated Context-Sensitive Functionalities Presentation,Office Supplies,Presentation,Bic,Multisource,252.84,86.58,2.5,166.26,65.76,Average,High
+PROD-001158,Bic Ameliorated Demand-Driven Parallelism Presentation,Office Supplies,Presentation,Bic,Pacific Trade,235.94,106.75,4.2,129.19,54.76,Excellent,High
+PROD-001159,Office Depot Digitized Web-Enabled Structure Presentation,Office Supplies,Presentation,Office Depot,Direct Import,253.06,126.71,4.8,126.35,49.93,Excellent,High
+PROD-001160,3M Object-Based Asynchronous Framework Presentation,Office Supplies,Presentation,3M,North American Supply,165.42,69.83,3.5,95.59,57.79,Good,Medium
+PROD-001161,Office Depot Diverse Non-Volatile Encoding Presentation,Office Supplies,Presentation,Office Depot,Global Trade,54.57,24.18,3.2,30.39,55.69,Good,Low
+PROD-001162,Five Star Re-Contextualized Human-Resource Service-Desk Presentation,Office Supplies,Presentation,Five Star,Pacific Trade,277.18,123.57,3.9,153.61,55.42,Good,High
+PROD-001163,3M Quality-Focused Full-Range Info-Mediaries Calendars,Office Supplies,Calendars,3M,Asian Manufacturing,112.93,35.35,2.6,77.58,68.7,Average,Medium
+PROD-001164,Staples Versatile User-Facing Challenge Calendars,Office Supplies,Calendars,Staples,Alibaba,132.77,42.64,4.0,90.13,67.88,Good,Medium
+PROD-001165,Post-It Team-Oriented Uniform Artificial Intelligence Calendars,Office Supplies,Calendars,Post-It,Multisource,265.48,138.24,4.1,127.24,47.93,Excellent,High
+PROD-001166,Five Star Profit-Focused Value-Added Hardware Calendars,Office Supplies,Calendars,Five Star,Pacific Trade,71.26,36.75,4.6,34.51,48.43,Excellent,Low
+PROD-001167,Five Star Business-Focused Bandwidth-Monitored Internet Solution Calendars,Office Supplies,Calendars,Five Star,Pacific Trade,67.03,32.47,3.2,34.56,51.56,Good,Low
+PROD-001168,Avery Focused Asynchronous Graphical User Interface Calendars,Office Supplies,Calendars,Avery,Asian Manufacturing,242.77,133.36,2.6,109.41,45.07,Average,High
+PROD-001169,Papermate Robust Zero Administration Pricing Structure Calendars,Office Supplies,Calendars,Papermate,North American Supply,270.24,123.14,4.8,147.1,54.43,Excellent,High
+PROD-001170,3M Right-Sized Hybrid Time-Frame Calendars,Office Supplies,Calendars,3M,Euro Logistics,144.85,74.14,2.6,70.71,48.82,Average,Medium
+PROD-001171,Avery Inverse 4Thgeneration Productivity Calendars,Office Supplies,Calendars,Avery,Amazon Supply,107.23,33.97,4.8,73.26,68.32,Excellent,Medium
+PROD-001172,Staples Future-Proofed Zero Tolerance Knowledge User Calendars,Office Supplies,Calendars,Staples,Pacific Trade,246.92,126.7,4.8,120.22,48.69,Excellent,High
+PROD-001173,Mead Pre-Emptive Discrete Help-Desk Calendars,Office Supplies,Calendars,Mead,Alibaba,34.68,13.75,2.7,20.93,60.35,Average,Low
+PROD-001174,Avery Reactive Homogeneous Internet Solution Calendars,Office Supplies,Calendars,Avery,Asian Manufacturing,71.13,25.42,3.6,45.71,64.26,Good,Low
+PROD-001175,Office Depot Enterprise-Wide Systemic Paradigm Calendars,Office Supplies,Calendars,Office Depot,Amazon Supply,87.88,28.58,2.9,59.3,67.48,Average,Medium

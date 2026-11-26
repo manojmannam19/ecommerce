@@ -1,0 +1,1162 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D E-Commerce Analytics Platform</title>
+  <style>
+    /* ==========================================================================
+       RESET & CORE STYLES
+       ========================================================================== */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --bg-dark: #030712;
+      --bg-radial: radial-gradient(circle at 50% 25%, #0f1c3f 0%, #060b19 55%, #02050e 100%);
+      --gold-primary: #ffb703;
+      --gold-glow: rgba(255, 183, 3, 0.45);
+      --teal-primary: #00f5d4;
+      --teal-glow: rgba(0, 245, 212, 0.45);
+      --purple-primary: #d946ef;
+      --purple-glow: rgba(217, 70, 239, 0.45);
+      --text-main: #f8fafc;
+      --text-muted: #8ea2c6;
+      --glass-bg: rgba(10, 18, 38, 0.58);
+      --glass-border: rgba(255, 255, 255, 0.08);
+      --glass-border-hover: rgba(255, 255, 255, 0.22);
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      min-height: 100vh;
+      background: var(--bg-dark);
+      background-image: var(--bg-radial);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text-main);
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Ambient Background Starfield Canvas */
+    #ambient-canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* ==========================================================================
+       TOP NAVIGATION & HEADER
+       ========================================================================== */
+    header {
+      position: relative;
+      z-index: 20;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 24px 44px 10px;
+      max-width: 1600px;
+      margin: 0 auto;
+    }
+
+    .brand-wrap {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .brand-icon {
+      width: 52px;
+      height: 52px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(255, 183, 3, 0.2), rgba(0, 245, 212, 0.15));
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      box-shadow: 0 0 25px rgba(255, 183, 3, 0.25), inset 0 0 15px rgba(0, 245, 212, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .brand-icon svg {
+      width: 28px;
+      height: 28px;
+      fill: none;
+      stroke: var(--gold-primary);
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      filter: drop-shadow(0 0 6px var(--gold-primary));
+    }
+
+    .brand-text h1 {
+      font-size: 1.95rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #ffffff 20%, #ffd066 60%, #ffb703 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 30px rgba(255, 208, 102, 0.35);
+      line-height: 1.15;
+    }
+
+    .brand-text p {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .live-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--teal-primary);
+      box-shadow: 0 0 10px var(--teal-primary);
+      animation: pulse-dot 2s infinite ease-in-out;
+    }
+
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+
+    /* Holographic 3D Globe Widget in Top-Right */
+    .globe-container {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: rgba(10, 18, 38, 0.65);
+      padding: 8px 18px 8px 12px;
+      border-radius: 40px;
+      border: 1px solid rgba(0, 245, 212, 0.25);
+      box-shadow: 0 0 25px rgba(0, 245, 212, 0.15), inset 0 0 15px rgba(0, 245, 212, 0.05);
+      backdrop-filter: blur(10px);
+    }
+
+    #globe-canvas {
+      width: 60px;
+      height: 60px;
+      display: block;
+      border-radius: 50%;
+    }
+
+    .globe-meta {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .globe-meta-title {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--teal-primary);
+      font-weight: 700;
+    }
+
+    .globe-meta-sub {
+      font-size: 0.85rem;
+      color: #cbd5e1;
+      font-weight: 600;
+    }
+
+    /* ==========================================================================
+       3D PERSPECTIVE STAGE & GRID
+       ========================================================================== */
+    .stage-wrapper {
+      position: relative;
+      z-index: 10;
+      perspective: 1400px;
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 20px 40px 60px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .dashboard-3d-stage {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+      transform-style: preserve-3d;
+      transition: transform 0.12s cubic-bezier(0.2, 0.8, 0.2, 1);
+      will-change: transform;
+    }
+
+    /* Column Headers */
+    .dashboard-col {
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      transform-style: preserve-3d;
+    }
+
+    .col-header {
+      padding: 10px 16px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .col-header.gold {
+      background: linear-gradient(90deg, rgba(255, 183, 3, 0.18), rgba(255, 183, 3, 0.03));
+      border: 1px solid rgba(255, 183, 3, 0.35);
+      color: var(--gold-primary);
+      text-shadow: 0 0 10px var(--gold-glow);
+    }
+
+    .col-header.teal {
+      background: linear-gradient(90deg, rgba(0, 245, 212, 0.18), rgba(0, 245, 212, 0.03));
+      border: 1px solid rgba(0, 245, 212, 0.35);
+      color: var(--teal-primary);
+      text-shadow: 0 0 10px var(--teal-glow);
+    }
+
+    .col-header.purple {
+      background: linear-gradient(90deg, rgba(217, 70, 239, 0.18), rgba(217, 70, 239, 0.03));
+      border: 1px solid rgba(217, 70, 239, 0.35);
+      color: var(--purple-primary);
+      text-shadow: 0 0 10px var(--purple-glow);
+    }
+
+    .col-badge {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 20px;
+      background: rgba(0, 0, 0, 0.4);
+      border: 1px solid currentColor;
+    }
+
+    /* ==========================================================================
+       GLASSMORPHIC 3D CARDS
+       ========================================================================== */
+    .card-3d {
+      position: relative;
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      border-radius: 18px;
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 225px;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      transform-style: preserve-3d;
+      transform: translateZ(0px);
+      transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1),
+                  border-color 0.25s ease,
+                  box-shadow 0.25s ease,
+                  background 0.25s ease;
+      cursor: pointer;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45),
+                  inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+
+    .card-3d::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 18px;
+      background: radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.06), transparent 70%);
+      pointer-events: none;
+    }
+
+    /* Hover States & Dynamic Theme Glows */
+    .card-3d:hover {
+      transform: translateZ(35px) scale(1.025);
+      background: rgba(14, 25, 52, 0.82);
+    }
+
+    .card-3d.theme-gold:hover {
+      border-color: rgba(255, 183, 3, 0.65);
+      box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.7),
+                  0 0 35px rgba(255, 183, 3, 0.32),
+                  inset 0 0 20px rgba(255, 183, 3, 0.15);
+    }
+
+    .card-3d.theme-teal:hover {
+      border-color: rgba(0, 245, 212, 0.65);
+      box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.7),
+                  0 0 35px rgba(0, 245, 212, 0.32),
+                  inset 0 0 20px rgba(0, 245, 212, 0.15);
+    }
+
+    .card-3d.theme-purple:hover {
+      border-color: rgba(217, 70, 239, 0.65);
+      box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.7),
+                  0 0 35px rgba(217, 70, 239, 0.32),
+                  inset 0 0 20px rgba(217, 70, 239, 0.15);
+    }
+
+    /* Card Inner Typography */
+    .card-meta-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      transform: translateZ(15px);
+    }
+
+    .card-number {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .theme-gold .card-number { color: var(--gold-primary); }
+    .theme-teal .card-number { color: var(--teal-primary); }
+    .theme-purple .card-number { color: var(--purple-primary); }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 4px;
+      letter-spacing: -0.3px;
+      transform: translateZ(20px);
+    }
+
+    .card-sub {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+      transform: translateZ(15px);
+    }
+
+    /* Embedded SVG Mini Charts */
+    .card-chart-wrap {
+      margin: 16px 0 12px;
+      height: 60px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transform: translateZ(25px);
+    }
+
+    .card-chart-wrap svg {
+      width: 100%;
+      height: 100%;
+      overflow: visible;
+    }
+
+    /* Card Footer & View Button */
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      transform: translateZ(20px);
+    }
+
+    .metric-pill {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .metric-pill span {
+      font-size: 0.75rem;
+      color: #10b981;
+    }
+
+    .view-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      border: 1px solid transparent;
+    }
+
+    .theme-gold .view-btn {
+      background: rgba(255, 183, 3, 0.15);
+      color: var(--gold-primary);
+      border-color: rgba(255, 183, 3, 0.35);
+    }
+    .theme-gold .card-3d:hover .view-btn {
+      background: var(--gold-primary);
+      color: #030712;
+      box-shadow: 0 0 16px var(--gold-glow);
+    }
+
+    .theme-teal .view-btn {
+      background: rgba(0, 245, 212, 0.15);
+      color: var(--teal-primary);
+      border-color: rgba(0, 245, 212, 0.35);
+    }
+    .theme-teal .card-3d:hover .view-btn {
+      background: var(--teal-primary);
+      color: #030712;
+      box-shadow: 0 0 16px var(--teal-glow);
+    }
+
+    .theme-purple .view-btn {
+      background: rgba(217, 70, 239, 0.15);
+      color: var(--purple-primary);
+      border-color: rgba(217, 70, 239, 0.35);
+    }
+    .theme-purple .card-3d:hover .view-btn {
+      background: var(--purple-primary);
+      color: #030712;
+      box-shadow: 0 0 16px var(--purple-glow);
+    }
+
+    /* ==========================================================================
+       BOTTOM CONTROLS / HINT FOOTER
+       ========================================================================== */
+    .controls-hint {
+      position: fixed;
+      bottom: 18px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 30;
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 0.78rem;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      background: rgba(8, 14, 30, 0.75);
+      padding: 8px 22px;
+      border-radius: 30px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      pointer-events: none;
+    }
+
+    /* ==========================================================================
+       MODAL VIEW (FOR POWER BI IFRAME / DETAIL VIEW)
+       ========================================================================== */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(2, 6, 18, 0.88);
+      backdrop-filter: blur(14px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 30px;
+      opacity: 0;
+      transition: opacity 0.28s ease;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+      opacity: 1;
+    }
+
+    .modal-container {
+      width: 90%;
+      max-width: 1100px;
+      background: #091228;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.8), 0 0 40px rgba(0, 245, 212, 0.15);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .modal-header {
+      padding: 18px 26px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.03);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .modal-header h3 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .modal-close {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #fff;
+      font-size: 1.1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s;
+    }
+
+    .modal-close:hover {
+      background: #ef4444;
+      border-color: #ef4444;
+      transform: scale(1.05);
+    }
+
+    .modal-body {
+      padding: 40px 30px;
+      min-height: 340px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .modal-body h4 {
+      font-size: 1.6rem;
+      margin-bottom: 10px;
+      color: var(--gold-primary);
+    }
+
+    .modal-body p {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      max-width: 580px;
+      line-height: 1.6;
+      margin-bottom: 24px;
+    }
+
+    .modal-embed-code {
+      background: #040915;
+      padding: 12px 20px;
+      border-radius: 10px;
+      font-family: monospace;
+      font-size: 0.85rem;
+      color: #38bdf8;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      user-select: all;
+    }
+
+    /* ==========================================================================
+       RESPONSIVENESS FOR SMALLER IFRAMES OR SCREENS
+       ========================================================================== */
+    @media (max-width: 1200px) {
+      .dashboard-3d-stage {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+        padding: 18px 20px;
+      }
+      .stage-wrapper {
+        padding: 10px 16px 70px;
+      }
+      .dashboard-3d-stage {
+        grid-template-columns: 1fr;
+        gap: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Ambient Space Canvas for Interactive Starfield & Glow -->
+  <canvas id="ambient-canvas"></canvas>
+
+  <!-- Dashboard Header -->
+  <header>
+    <div class="brand-wrap">
+      <div class="brand-icon">
+        <svg viewBox="0 0 24 24">
+          <circle cx="9" cy="21" r="1"></circle>
+          <circle cx="20" cy="21" r="1"></circle>
+          <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>E-Commerce Analytics Platform</h1>
+        <p><span class="live-dot"></span> Turning Data into Better Decisions &bull; 3D Telemetry</p>
+      </div>
+    </div>
+
+    <!-- 3D Holographic Globe in Top-Right -->
+    <div class="globe-container">
+      <canvas id="globe-canvas" width="120" height="120"></canvas>
+      <div class="globe-meta">
+        <span class="globe-meta-title">Global Grid</span>
+        <span class="globe-meta-sub">Live Synced</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- 3D Parallax Stage -->
+  <div class="stage-wrapper" id="stageWrapper">
+    <div class="dashboard-3d-stage" id="stage3D">
+
+      <!-- ====================================================================
+           COLUMN 1: COMMERCIAL PERFORMANCE (AMBER / GOLD)
+           ==================================================================== -->
+      <div class="dashboard-col">
+        <div class="col-header gold">
+          <span>Commercial Performance</span>
+          <span class="col-badge">Stream 01</span>
+        </div>
+
+        <!-- Card No. 1 -->
+        <div class="card-3d theme-gold" data-id="1" data-title="Executive Overview" data-sub="Strategic business metrics">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 01 ] Commercial</span>
+              <span style="color:#ffb703; font-size:0.75rem;">KPI ★</span>
+            </div>
+            <h3 class="card-title">Executive Overview</h3>
+            <p class="card-sub">Strategic business metrics</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Sparkline Chart -->
+            <svg viewBox="0 0 260 60">
+              <defs>
+                <linearGradient id="goldArea" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" stop-color="#ffb703" stop-opacity="0.35"/>
+                  <stop offset="100%" stop-color="#ffb703" stop-opacity="0"/>
+                </linearGradient>
+              </defs>
+              <path d="M0,45 Q35,50 70,30 T140,25 T200,10 T260,6 L260,60 L0,60 Z" fill="url(#goldArea)"/>
+              <path d="M0,45 Q35,50 70,30 T140,25 T200,10 T260,6" fill="none" stroke="#ffb703" stroke-width="2.5" stroke-linecap="round"/>
+              <circle cx="260" cy="6" r="4" fill="#ffb703" filter="drop-shadow(0 0 6px #ffb703)"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">$4.28M <span>+14.2%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 2 -->
+        <div class="card-3d theme-gold" data-id="2" data-title="Sales & Profitability" data-sub="Revenue, margin & contribution">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 02 ] Commercial</span>
+              <span style="color:#ffb703; font-size:0.75rem;">FINANCE</span>
+            </div>
+            <h3 class="card-title">Sales & Profitability</h3>
+            <p class="card-sub">Revenue, margin & contribution</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Mini Bar Chart -->
+            <svg viewBox="0 0 260 60">
+              <rect x="10" y="28" width="18" height="32" rx="4" fill="#ffb703" opacity="0.4"/>
+              <rect x="42" y="16" width="18" height="44" rx="4" fill="#ffb703" opacity="0.65"/>
+              <rect x="74" y="34" width="18" height="26" rx="4" fill="#ffb703" opacity="0.45"/>
+              <rect x="106" y="20" width="18" height="40" rx="4" fill="#ffb703" opacity="0.75"/>
+              <rect x="138" y="12" width="18" height="48" rx="4" fill="#ffb703" opacity="0.9"/>
+              <rect x="170" y="24" width="18" height="36" rx="4" fill="#ffb703" opacity="0.6"/>
+              <rect x="202" y="8" width="18" height="52" rx="4" fill="#ffb703" filter="drop-shadow(0 0 5px #ffb703)"/>
+              <rect x="234" y="14" width="18" height="46" rx="4" fill="#ffb703" opacity="0.8"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">32.8% Margin <span>+3.1%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 3 -->
+        <div class="card-3d theme-gold" data-id="3" data-title="Marketing Analytics" data-sub="Campaign ROI & CAC">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 03 ] Commercial</span>
+              <span style="color:#ffb703; font-size:0.75rem;">ACQUISITION</span>
+            </div>
+            <h3 class="card-title">Marketing Analytics</h3>
+            <p class="card-sub">Campaign ROI & CAC</p>
+          </div>
+
+          <div class="card-chart-wrap" style="justify-content: space-around;">
+            <!-- Donut Chart & CAC Sparkline -->
+            <svg viewBox="0 0 100 60" style="width: 80px;">
+              <circle cx="50" cy="30" r="22" stroke="rgba(255,183,3,0.15)" stroke-width="7" fill="none"/>
+              <circle cx="50" cy="30" r="22" stroke="#ffb703" stroke-width="7" stroke-dasharray="100 40" stroke-linecap="round" fill="none" transform="rotate(-90 50 30)" filter="drop-shadow(0 0 4px #ffb703)"/>
+              <text x="50" y="34" font-size="10" font-weight="700" fill="#fff" text-anchor="middle">4.6x</text>
+            </svg>
+            <div style="font-size:0.78rem; line-height: 1.5; color:#cbd5e1;">
+              <div>ROAS: <b style="color:#ffb703;">4.62x</b></div>
+              <div>CAC: <b style="color:#10b981;">$22.40</b> <span style="font-size:0.68rem; color:#10b981;">-8%</span></div>
+            </div>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">ROAS 4.6x <span>Optimized</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ====================================================================
+           COLUMN 2: OPERATIONS & EXPERIENCE (TEAL / CYAN)
+           ==================================================================== -->
+      <div class="dashboard-col">
+        <div class="col-header teal">
+          <span>Operations & Experience</span>
+          <span class="col-badge">Stream 02</span>
+        </div>
+
+        <!-- Card No. 4 -->
+        <div class="card-3d theme-teal" data-id="4" data-title="Customer Analytics" data-sub="LTV & cohort performance">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 04 ] Operations</span>
+              <span style="color:#00f5d4; font-size:0.75rem;">COHORTS</span>
+            </div>
+            <h3 class="card-title">Customer Analytics</h3>
+            <p class="card-sub">LTV & cohort performance</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Multi-tier Cohort Trendline -->
+            <svg viewBox="0 0 260 60">
+              <path d="M0,48 Q60,40 120,32 T260,18" fill="none" stroke="rgba(0,245,212,0.3)" stroke-width="2" stroke-dasharray="4 4"/>
+              <path d="M0,54 Q65,48 130,28 T260,8" fill="none" stroke="#00f5d4" stroke-width="2.5" stroke-linecap="round"/>
+              <circle cx="130" cy="28" r="3.5" fill="#00f5d4"/>
+              <circle cx="260" cy="8" r="4" fill="#00f5d4" filter="drop-shadow(0 0 6px #00f5d4)"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">LTV $384 <span>+18.9%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 5 -->
+        <div class="card-3d theme-teal" data-id="5" data-title="Product Analytics" data-sub="Category & SKU insights">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 05 ] Operations</span>
+              <span style="color:#00f5d4; font-size:0.75rem;">INVENTORY</span>
+            </div>
+            <h3 class="card-title">Product Analytics</h3>
+            <p class="card-sub">Category & SKU insights</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Horizontal Progress Bars -->
+            <svg viewBox="0 0 260 60">
+              <text x="0" y="14" fill="#94a3b8" font-size="9" font-weight="600">ELECTRONICS</text>
+              <rect x="80" y="6" width="170" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+              <rect x="80" y="6" width="144" height="9" rx="4.5" fill="#00f5d4" filter="drop-shadow(0 0 4px #00f5d4)"/>
+
+              <text x="0" y="34" fill="#94a3b8" font-size="9" font-weight="600">APPAREL</text>
+              <rect x="80" y="26" width="170" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+              <rect x="80" y="26" width="115" height="9" rx="4.5" fill="#00f5d4" opacity="0.75"/>
+
+              <text x="0" y="54" fill="#94a3b8" font-size="9" font-weight="600">HOME & LIVING</text>
+              <rect x="80" y="46" width="170" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+              <rect x="80" y="46" width="85" height="9" rx="4.5" fill="#00f5d4" opacity="0.5"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">1,480 SKUs <span>98% Active</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 6 -->
+        <div class="card-3d theme-teal" data-id="6" data-title="Operations & Delivery" data-sub="Fulfillment & transit analytics">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 06 ] Operations</span>
+              <span style="color:#00f5d4; font-size:0.75rem;">LOGISTICS</span>
+            </div>
+            <h3 class="card-title">Operations & Delivery</h3>
+            <p class="card-sub">Fulfillment & transit analytics</p>
+          </div>
+
+          <div class="card-chart-wrap" style="justify-content: space-around;">
+            <!-- Radial Semi-Gauge Chart -->
+            <svg viewBox="0 0 120 60" style="width: 100px;">
+              <path d="M 15 52 A 45 45 0 0 1 105 52" fill="none" stroke="rgba(0,245,212,0.18)" stroke-width="8" stroke-linecap="round"/>
+              <path d="M 15 52 A 45 45 0 0 1 96 28" fill="none" stroke="#00f5d4" stroke-width="8" stroke-linecap="round" filter="drop-shadow(0 0 6px #00f5d4)"/>
+              <text x="60" y="50" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">98.4%</text>
+            </svg>
+            <div style="font-size:0.78rem; line-height: 1.5; color:#cbd5e1;">
+              <div>On-Time SLA: <b style="color:#00f5d4;">98.4%</b></div>
+              <div>Avg Dispatch: <b style="color:#fff;">1.1 days</b></div>
+            </div>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">Transit SLA <span>98.4%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ====================================================================
+           COLUMN 3: AI & PREDICTIONS (PURPLE / VIOLET)
+           ==================================================================== -->
+      <div class="dashboard-col">
+        <div class="col-header purple">
+          <span>AI & Predictions</span>
+          <span class="col-badge">Stream 03</span>
+        </div>
+
+        <!-- Card No. 8 -->
+        <div class="card-3d theme-purple" data-id="8" data-title="Sales ML Predictions" data-sub="Forecasting & demand modeling">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 08 ] AI Model</span>
+              <span style="color:#d946ef; font-size:0.75rem;">FORECAST</span>
+            </div>
+            <h3 class="card-title">Sales ML Predictions</h3>
+            <p class="card-sub">Forecasting & demand modeling</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Confidence Interval & Future Prediction Curve -->
+            <svg viewBox="0 0 260 60">
+              <defs>
+                <linearGradient id="purpleConfidence" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" stop-color="#d946ef" stop-opacity="0.3"/>
+                  <stop offset="100%" stop-color="#d946ef" stop-opacity="0.02"/>
+                </linearGradient>
+              </defs>
+              <polygon points="130,22 260,4 260,44 130,36" fill="url(#purpleConfidence)"/>
+              <path d="M0,42 Q65,40 130,28" fill="none" stroke="#d946ef" stroke-width="2.5" stroke-linecap="round"/>
+              <path d="M130,28 Q195,16 260,12" fill="none" stroke="#d946ef" stroke-width="2.5" stroke-dasharray="5 4" stroke-linecap="round"/>
+              <circle cx="130" cy="28" r="4" fill="#fff" stroke="#d946ef" stroke-width="2"/>
+              <circle cx="260" cy="12" r="4" fill="#d946ef" filter="drop-shadow(0 0 6px #d946ef)"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">+26% Q4 <span>Confidence 94%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 9 -->
+        <div class="card-3d theme-purple" data-id="9" data-title="Churn ML Predictions" data-sub="High-risk customer warning">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 09 ] AI Model</span>
+              <span style="color:#d946ef; font-size:0.75rem;">RETENTION</span>
+            </div>
+            <h3 class="card-title">Churn ML Predictions</h3>
+            <p class="card-sub">High-risk customer warning</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Risk Bell Curve / Distribution Curve -->
+            <svg viewBox="0 0 260 60">
+              <path d="M10,54 Q80,52 110,30 T170,12 Q200,24 250,54" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+              <path d="M165,13 Q195,25 245,54 L165,54 Z" fill="rgba(217,70,239,0.3)"/>
+              <path d="M165,13 Q195,25 245,54" fill="none" stroke="#d946ef" stroke-width="3" stroke-linecap="round" filter="drop-shadow(0 0 5px #d946ef)"/>
+              <line x1="165" y1="10" x2="165" y2="54" stroke="#d946ef" stroke-dasharray="3 3"/>
+              <text x="180" y="24" fill="#f472b6" font-size="9" font-weight="700">ALERT ZONE</text>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">4.2% Risk <span>-1.2%</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+
+        <!-- Card No. 10 -->
+        <div class="card-3d theme-purple" data-id="10" data-title="Return ML Prediction" data-sub="AI-driven return risk modeling">
+          <div>
+            <div class="card-meta-top">
+              <span class="card-number">[ No. 10 ] AI Model</span>
+              <span style="color:#d946ef; font-size:0.75rem;">PREVENTION</span>
+            </div>
+            <h3 class="card-title">Return ML Prediction</h3>
+            <p class="card-sub">AI-driven return risk modeling</p>
+          </div>
+
+          <div class="card-chart-wrap">
+            <!-- Volatility Sparkline with Threshold -->
+            <svg viewBox="0 0 260 60">
+              <line x1="0" y1="36" x2="260" y2="36" stroke="rgba(255,255,255,0.15)" stroke-dasharray="4 4"/>
+              <path d="M0,45 L40,30 L80,48 L120,24 L160,34 L200,16 L230,28 L260,10" fill="none" stroke="#d946ef" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="200" cy="16" r="3.5" fill="#fff"/>
+              <circle cx="260" cy="10" r="4.5" fill="#d946ef" filter="drop-shadow(0 0 6px #d946ef)"/>
+            </svg>
+          </div>
+
+          <div class="card-footer">
+            <div class="metric-pill">1.8% Return <span>Saved $120k</span></div>
+            <span class="view-btn">View ↗️</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Bottom Interaction Hint -->
+  <div class="controls-hint">
+    Mouse Tilt: Active 3D Perspective &nbsp;&bull;&nbsp; Hover: Elevation &nbsp;&bull;&nbsp; Click: Drill Down
+  </div>
+
+  <!-- Detail / Power BI Embed Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-container">
+      <div class="modal-header">
+        <h3 id="modalTitle">Analytics View</h3>
+        <button class="modal-close" id="modalClose">&times;</button>
+      </div>
+      <div class="modal-body" id="modalBody">
+        <!-- Content inserted dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================================================
+       PURE JAVASCRIPT: 3D PARALLAX, 3D GLOBE & PARTICLES (100% SELF-CONTAINED)
+       ========================================================================== -->
+  <script>
+    (function () {
+      'use strict';
+
+      /* --------------------------------------------------------------------------
+         1. 3D HOLOGRAPHIC GLOBE RENDERER (Pure Canvas Vector Math, Zero Library)
+         -------------------------------------------------------------------------- */
+      const globeCanvas = document.getElementById('globe-canvas');
+      const gctx = globeCanvas.getContext('2d');
+      const size = 120;
+      const radius = 46;
+      const center = size / 2;
+      let globeAngle = 0;
+
+      // Seed persistent coordinates for points on the globe
+      const globePoints = [];
+      for (let lat = -60; lat <= 60; lat += 30) {
+        const phi = (lat * Math.PI) / 180;
+        const count = Math.max(6, Math.floor(18 * Math.cos(phi)));
+        for (let i = 0; i < count; i++) {
+          const theta = (i * 2 * Math.PI) / count;
+          globePoints.push({ phi, theta });
+        }
+      }
+
+      function drawHologramGlobe() {
+        gctx.clearRect(0, 0, size, size);
+        globeAngle += 0.016;
+
+        // Outer Glow Rim
+        gctx.beginPath();
+        gctx.arc(center, center, radius, 0, Math.PI * 2);
+        gctx.strokeStyle = 'rgba(0, 245, 212, 0.4)';
+        gctx.lineWidth = 1.5;
+        gctx.stroke();
+
+        // Tilted Orbital Ring
+        gctx.save();
+        gctx.translate(center, center);
+        gctx.rotate(0.35);
+        gctx.beginPath();
+        gctx.ellipse(0, 0, radius * 1.25, radius * 0.42, globeAngle * 0.5, 0, Math.PI * 2);
+        gctx.strokeStyle = 'rgba(255, 183, 3, 0.5)';
+        gctx.lineWidth = 1.2;
+        gctx.stroke();
+        gctx.restore();
+
+        // 3D Nodes Projection
+        globePoints.forEach((pt) => {
+          const currentTheta = pt.theta + globeAngle;
+          const x = radius * Math.cos(pt.phi) * Math.sin(currentTheta);
+          const y = -radius * Math.sin(pt.phi);
+          const z = radius * Math.cos(pt.phi) * Math.cos(currentTheta);
+
+          // Only render front-facing nodes for crisp 3D depth
+          if (z > -5) {
+            const alpha = (z + radius) / (radius * 2);
+            const px = center + x;
+            const py = center + y;
+
+            gctx.beginPath();
+            gctx.arc(px, py, 1.2 + alpha * 1.4, 0, Math.PI * 2);
+            gctx.fillStyle = `rgba(0, 245, 212, ${Math.min(1, alpha * 0.95)})`;
+            gctx.fill();
+          }
+        });
+
+        // Pulsing Central Core Aura
+        const pulse = 0.5 + 0.5 * Math.sin(globeAngle * 3);
+        const grad = gctx.createRadialGradient(center, center, 2, center, center, radius * 0.85);
+        grad.addColorStop(0, `rgba(0, 245, 212, ${0.15 * pulse})`);
+        grad.addColorStop(1, 'rgba(0, 245, 212, 0)');
+        gctx.fillStyle = grad;
+        gctx.beginPath();
+        gctx.arc(center, center, radius, 0, Math.PI * 2);
+        gctx.fill();
+
+        requestAnimationFrame(drawHologramGlobe);
+      }
+      drawHologramGlobe();
+
+      /* --------------------------------------------------------------------------
+         2. AMBIENT STARFIELD & PARTICLES CANVAS (Pure Canvas)
+         -------------------------------------------------------------------------- */
+      const ambCanvas = document.getElementById('ambient-canvas');
+      const actx = ambCanvas.getContext('2d');
+      let w = (ambCanvas.width = window.innerWidth);
+      let h = (ambCanvas.height = window.innerHeight);
+
+      const particles = [];
+      const particleCount = 70;
+
+      for (let i = 0; i < particleCount; i++) {
+        particles.push({
+          x: Math.random() * w,
+          y: Math.random() * h,
+          r: Math.random() * 1.5 + 0.5,
+          vx: (Math.random() - 0.5) * 0.25,
+          vy: (Math.random() - 0.5) * 0.25,
+          alpha: Math.random() * 0.6 + 0.2
+        });
+      }
+
+      function drawAmbient() {
+        actx.clearRect(0, 0, w, h);
+
+        particles.forEach((p) => {
+          p.x += p.vx;
+          p.y += p.vy;
+          if (p.x < 0) p.x = w;
+          if (p.x > w) p.x = 0;
+          if (p.y < 0) p.y = h;
+          if (p.y > h) p.y = 0;
+
+          actx.beginPath();
+          actx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+          actx.fillStyle = `rgba(142, 162, 198, ${p.alpha})`;
+          actx.fill();
+        });
+
+        requestAnimationFrame(drawAmbient);
+      }
+      drawAmbient();
+
+      window.addEventListener('resize', () => {
+        w = ambCanvas.width = window.innerWidth;
+        h = ambCanvas.height = window.innerHeight;
+      });
+
+      /* --------------------------------------------------------------------------
+         3. SMOOTH 3D MOUSE PARALLAX / TILT (Lerped for buttery smooth 60fps)
+         -------------------------------------------------------------------------- */
+      const stage = document.getElementById('stage3D');
+      let targetRotX = 0;
+      let targetRotY = 0;
+      let currentRotX = 0;
+      let currentRotY = 0;
+
+      window.addEventListener('mousemove', (e) => {
+        const cx = window.innerWidth / 2;
+        const cy = window.innerHeight / 2;
+        const normX = (e.clientX - cx) / cx;
+        const normY = (e.clientY - cy) / cy;
+
+        // Max tilt of +/- 6.5 degrees on X and Y
+        targetRotY = normX * 6.5;
+        targetRotX = -normY * 5.5;
+      });
+
+      // Smooth lerp loop
+      function updateStageTilt() {
+        currentRotX += (targetRotX - currentRotX) * 0.08;
+        currentRotY += (targetRotY - currentRotY) * 0.08;
+
+        stage.style.transform = `rotateX(${currentRotX.toFixed(2)}deg) rotateY(${currentRotY.toFixed(2)}deg)`;
+        requestAnimationFrame(updateStageTilt);
+      }
+      updateStageTilt();
+
+      // Reset tilt if mouse leaves window
+      document.addEventListener('mouseleave', () => {
+        targetRotX = 0;
+        targetRotY = 0;
+      });
+
+      /* --------------------------------------------------------------------------
+         4. INTERACTIVE CARD CLICKS & POWER BI EMBED MODAL
+         -------------------------------------------------------------------------- */
+      const modal = document.getElementById('modalOverlay');
+      const modalTitle = document.getElementById('modalTitle');
+      const modalBody = document.getElementById('modalBody');
+      const modalClose = document.getElementById('modalClose');
+
+      document.querySelectorAll('.card-3d').forEach((card) => {
+        card.addEventListener('click', () => {
+          const id = card.getAttribute('data-id');
+          const title = card.getAttribute('data-title');
+          const sub = card.getAttribute('data-sub');
+
+          modalTitle.textContent = `${title} (Card No. ${id})`;
+          modalBody.innerHTML = `
+            <h4>${title}</h4>
+            <p>${sub}. This card is ready to display real-time Power BI telemetry or navigate to report views.</p>
+            <p style="margin-bottom:12px; font-size:0.85rem; color:#94a3b8;">
+              To bind a live Power BI report, embed your report iframe or set:
+            </p>
+            <div class="modal-embed-code">
+              window.open("https://app.powerbi.com/view?r=YOUR_REPORT_URL", "_blank");
+            </div>
+          `;
+          modal.classList.add('active');
+        });
+      });
+
+      modalClose.addEventListener('click', () => modal.classList.remove('active'));
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.classList.remove('active');
+      });
+      window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') modal.classList.remove('active');
+      });
+
+    })();
+  </script>
+</body>
+</html>
+```
