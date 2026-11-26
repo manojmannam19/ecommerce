@@ -1,6 +1,6 @@
 <div align="center">
 
-![E-Commerce Analytics Platform](assets/github-banner.png)
+![E-Commerce Analytics Platform](POWERBI/github-banner.png)
 
 </div>
 
