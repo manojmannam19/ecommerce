@@ -274,7 +274,70 @@ The generated model outputs are used in Power BI to compare actual and predicted
 
 These models extend the project beyond descriptive reporting by adding predictive insights to support business analysis.
 
+## 📊 Power BI Dashboard
 
+The E-Commerce Analytics Platform includes an interactive Power BI dashboard designed to analyze business performance, customer behavior, product performance, marketing activities, delivery operations, returns, and machine learning predictions.
+
+The dashboard covers historical e-commerce data from 2021 to 2025, including approximately 138.12K orders, 24.91K customers, and 1,175 catalog SKUs.
+
+### 1. Dashboard Pages
+
+| Page No. | Dashboard Page | Purpose |
+|---|---|---|
+| 0 | Home | Main navigation and access to dashboard sections |
+| 1 | Executive Overview | Overall business performance and key KPIs |
+| 2 | Sales & Profitability | Revenue, discounts, costs, and profit analysis |
+| 3 | Marketing Analytics | Campaign, coupon, channel, and loyalty analysis |
+| 4 | Customer Analytics | Customer segmentation, lifetime value, and purchasing behavior |
+| 5 | Product Analytics | Product, category, brand, and pricing performance |
+| 6 | Operations & Delivery | Delivery performance, warehouses, and shipping analysis |
+| 7 | Returns & Customer Experience | Return trends, customer ratings, and sentiment analysis |
+| 8 | Sales ML Predictions | Actual vs. predicted sales and model performance |
+| 9 | Churn ML Predictions | Customer churn risk and model evaluation |
+| 10 | Return ML Predictions | Predicted return probability and return risk analysis |
+
+### 2. Key Dashboard Features
+
+- **KPI Cards:** Display important business metrics such as revenue, profit, orders, customers, and profit margin.
+- **Interactive Filters:** Allow users to analyze data by selected dates and business dimensions.
+- **Sales Analysis:** Compare revenue, profitability, discounts, and sales trends.
+- **Customer Analysis:** Understand customer segments, repeat purchases, and lifetime value.
+- **Product Analysis:** Identify top-performing products, categories, and brands.
+- **Marketing Analysis:** Evaluate campaign performance, coupon usage, and sales channels.
+- **Operations Analysis:** Monitor delivery performance, shipping costs, and warehouse operations.
+- **Returns Analysis:** Understand return rates, return reasons, and customer experience.
+- **ML Predictions:** Compare actual and predicted results from the XGBoost models.
+
+### 3. Dashboard Navigation
+
+The dashboard uses a persistent left-side navigation menu to access the different report pages.
+
+The Home page organizes the dashboard into three main areas:
+
+1. **Commercial Performance:** Executive Overview, Sales & Profitability, and Marketing Analytics.
+2. **Operations & Experience:** Customer Analytics, Product Analytics, Operations & Delivery, and Returns & Customer Experience.
+3. **AI & Predictions:** Sales ML Predictions, Churn ML Predictions, and Return ML Predictions.
+
+### 4. Tools and Technologies
+
+| Tool | Purpose |
+|---|---|
+| Power BI Desktop | Dashboard development |
+| Power Query | Data transformation and preparation |
+| DAX | Measures and KPI calculations |
+| Data Modeling | Relationships between datasets |
+| Star Schema | Organizing fact and dimension tables |
+| CSV Files | Source data and ML prediction outputs |
+
+### 5. Dashboard Outcomes
+
+- Developed an interactive dashboard with a Home page and 10 analytical report pages.
+- Consolidated business data from multiple cleaned datasets.
+- Created KPI-based reports for different business areas.
+- Enabled analysis of sales, customers, products, marketing, operations, and returns.
+- Integrated XGBoost model outputs into Power BI for predictive analysis.
+- Provided business users with a centralized view of historical performance and predictive insights.
+  
 ## 📸 Power BI Dashboard Screenshots
 
 ### 1. Executive Overview
@@ -317,13 +380,51 @@ Discount-related features are important in return prediction.
 Sales patterns and customer behavior provide useful information for business planning.
 Machine Learning predictions can support customer retention and operational decisions.
 
-🚀 Project Outcomes
-Developed an end-to-end data analytics workflow.
-Prepared multiple datasets for analytical reporting.
-Implemented XGBoost classification and regression models.
-Evaluated models using appropriate performance metrics.
-Developed interactive Power BI dashboards.
-Connected business analysis with machine learning predictions.
+## 🛠️ Technologies Used
+
+The E-Commerce Analytics Platform was developed using the following technologies and tools for data processing, machine learning, data visualization, and project development.
+
+| Technology | Purpose |
+|---|---|
+| Python | ETL, data cleaning, feature engineering, and ML development |
+| Pandas | Data manipulation and processing |
+| NumPy | Numerical operations |
+| XGBoost | Sales, customer churn, and return prediction models |
+| Scikit-learn | Data preprocessing and model evaluation |
+| Power BI Desktop | Interactive dashboard development |
+| Power Query | Data transformation and preparation |
+| DAX | KPI calculations and analytical measures |
+| CSV | Dataset storage and ML prediction outputs |
+| Excel | Data documentation and summaries |
+| Google Colab | Python and machine learning development |
+| GitHub | Project source code and documentation management |
+
+## 🎯 Project Outcomes & Conclusion
+
+### 1. Project Outcomes
+
+The E-Commerce Analytics Platform successfully combines data engineering, business intelligence, and machine learning to analyze historical e-commerce data from 2021 to 2025.
+
+Key outcomes of the project include:
+
+- **Data Processing:** Cleaned and transformed five raw datasets using Python and Pandas.
+- **Feature Engineering:** Created additional analytical features to support business reporting and machine learning.
+- **Data Integration:** Organized cleaned datasets into a structured data model for Power BI.
+- **Business Intelligence:** Developed an interactive Power BI dashboard with a Home page and 10 analytical report pages.
+- **Sales Prediction:** Developed an XGBoost regression model with an R² score of 0.9917.
+- **Customer Churn Prediction:** Developed an XGBoost classification model with 91.86% accuracy.
+- **Return Risk Prediction:** Developed an XGBoost classification model with 94.43% accuracy.
+- **Business Insights:** Enabled analysis of sales, profitability, customer behavior, product performance, marketing, delivery, and returns.
+
+### 2. Conclusion
+
+This project demonstrates an end-to-end approach to e-commerce data analytics by combining Python-based ETL, feature engineering, XGBoost machine learning, and Power BI visualization.
+
+It transforms raw transactional data into structured datasets, interactive dashboards, and predictive outputs that help understand business performance and customer behavior.
+
+The project provided practical experience in data cleaning, analytical data preparation, machine learning model development, performance evaluation, and business intelligence reporting.
+
+Overall, the platform demonstrates how data analytics and machine learning can work together to support informed business decision-making.
 
 👨‍💻 Author
 
@@ -332,5 +433,8 @@ Mannam Manoj
 Associate Software Engineer | Data Analytics | Python | Machine Learning | Power BI
 
 GitHub:https://github.com/manojmannam19/ecommerce.git
+
+Project:  E-Commerce Analytics Platform
+focus areas: Python, Power BI, SQL, Data Analytics, and Machine Learning
 
 This project was developed as an end-to-end analytical implementation for learning and demonstrating data analytics, machine learning, and business intelligence skills.
