@@ -378,34 +378,34 @@ The Home page organizes the dashboard into three main areas:
 ## 📸 Power BI Dashboard Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](<POWERBI/Screenshot 2026-11-19 101646.png>)
+![Executive Overview](<POWERBI/01_executive_overview.png>)
 
 ### 2. Sales & Profitability
-![Sales & Profitability](<POWERBI/Screenshot 2026-11-19 101719.png>)
+![Sales & Profitability](<POWERBI/02_sales_profitability.png>)
 
 ### 3. Customer Analytics
-![Customer Analytics](<POWERBI/Screenshot 2026-11-19 101741.png>)
+![Customer Analytics](<POWERBI/03_customer_analytics.png>)
 
 ### 4. Product Analytics
-![Product Analytics](<POWERBI/Screenshot 2026-11-19 101818.png>)
+![Product Analytics](<POWERBI/04_product_analytics.png>)
 
 ### 5. Marketing Analytics
-![Marketing Analytics](<POWERBI/Screenshot 2026-11-19 101846.png>)
+![Marketing Analytics](<POWERBI/05_marketing_analytics.png>)
 
 ### 6. Operations & Delivery
-![Operations & Delivery](<POWERBI/Screenshot 2026-11-19 101914.png>)
+![Operations & Delivery](<POWERBI/06_operations_delivery.png>)
 
 ### 7. Returns & Customer Experience
-![Returns & Customer Experience](<POWERBI/Screenshot 2026-11-19 101931.png>)
+![Returns & Customer Experience](<POWERBI/07_returns_customer_experience.png>)
 
 ### 8. Sales ML Predictions
-![Sales ML Predictions](<POWERBI/Screenshot 2026-11-19 101955.png>)
+![Sales ML Predictions](<POWERBI/08_sales_ml_predictions.png>)
 
 ### 9. Churn ML Predictions
-![Churn ML Predictions](<POWERBI/Screenshot 2026-11-19 102011.png>)
+![Churn ML Predictions](<POWERBI/09_churn_ml_predictions.png>)
 
 ### 10. Return ML Prediction
-![Return ML Prediction](<POWERBI/Screenshot 2026-11-24 142422.png>)
+![Return ML Prediction](<POWERBI/10_return_ml_predictions.png>)
 
 
 The dashboards combine business KPIs, analytical visuals, filters, and machine learning prediction results.
